@@ -1,0 +1,72 @@
+---
+title: Git命令整理
+tags: 
+ - Git 
+ - GitHub 
+ - GitLab
+date: 2017-01-01 13:08
+---
+
+Git命令初始化
+
+Git忽略文件
+
+<!--more-->
+
+## Git初始化
+
+Command line instructions
+本地Git全局设置（Git global setup）
+```shell
+git config --global user.name "yourname"
+git config --global user.email "your@email"
+```
+克隆新仓库（Create a new repository）
+```shell
+git clone http://your.repository.address.git
+cd repo
+touch README.md
+git add README.md
+git commit -m "add README"
+git push -u origin master
+```
+对于已经存在的文件夹（Existing folder）
+```shell
+cd existing_folder
+git init
+git remote add origin http://your.repository.address.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+```
+对于本地已经存在的仓库（Existing Git repository）
+```shell
+cd existing_repo
+git remote add origin http://your.repository.address.git
+git push -u origin --all
+git push -u origin --tags
+```
+
+## Git忽略的文件
+
+###### 1. 查看所有被Git忽略的文件
+
+Git 1.6+:
+```shell
+git ls-files --others -i --exclude-standard
+```
+Git 1.4, 1.5:
+```shell
+git ls-files --others -i \
+--exclude-from="`git rev-parse --git-dir`/info/exclude" \
+--exclude-per-directory=.gitignore
+```
+###### 2. 清除所有被Git忽略的文件或文件夹(小心)
+- 查看在清理之前会做的操作
+```shell
+git clean -Xn
+```
+- 清除文件或文件夹， -f 选项强制删除，-d删除目录（小心）
+```shell
+git clean -Xdf
+```
