@@ -46,6 +46,12 @@ make setup-master
 ```shell
 make start
 ```
+
+碰到了`unauthorized`的错误，必须手动`sudo` pull镜像
+```shell
+sudo docker pull hyperledger/cello-user-dashboard
+```
+
 停止全部服务
 ```
 make stop 

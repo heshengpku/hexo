@@ -71,7 +71,7 @@ go build
 ```
 启动链码：
 ```shell
-CORE_PEER_ADDRESS=peer:7051 CORE_CHAINCODE_ID_NAME=mycc:0 ./gocc
+CORE_PEER_ADDRESS=peer:7052 CORE_CHAINCODE_ID_NAME=mycc:0 ./gocc
 ```
 
 #### 3. 打开终端2
