@@ -34,6 +34,13 @@ CMD node /home/explorer/main.js
 EXPOSE 8080
 ```
 
+可以创建一个`.dockerignore`文件避免docker打包不必要的文件：
+```
+Dockerfile
+.git/
+docker-compose.yaml
+```
+
 这样可以将blockchain-explorer打包成docker镜像，注意修改`config.json`中的配置，也可以在启动容器是将`config.json`进行挂载。
 
 ```json
@@ -104,8 +111,8 @@ EXPOSE 8080
 
 ## 创建`docker-compose.yaml`文件
 ```yaml
-# Copyright. All Rights Reserved.
-# 
+# Copyright 2018 He Sheng. All Rights Reserved.
+#
 
 version: "2"
 
