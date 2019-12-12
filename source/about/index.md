@@ -40,4 +40,4 @@ type: "about"
 ### Activities
 
 - Services Conference Federation (SCF) 2018, 2019, 2020, Operation Team Member
-- **Journal reviews:** IEEE Transactions on Engineering Management
+- **Journal reviews:** IEEE Transactions on Engineering Management (IEEE-TEM), SCIENTIA SINICA Informationis (SSI)
