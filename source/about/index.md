@@ -34,10 +34,10 @@ type: "about"
 
 ### Experiences
 
-- Postdoctoral Fellow, Tsinghua University & Kingdee International Software Group, Shenzhen, China, 12/2017 - 12/2019
+- Postdoctoral Fellow on Computer Science and Technology, Tsinghua University & Kingdee International Software Group, Shenzhen, China, 12/2017 - 12/2019
 - Visiting Student, General Atomics, San Diego, USA, 12/2015 - 12/2016 (Sponsored by CSC)
 
 ### Activities
 
 - Services Conference Federation (SCF) 2018, 2019, 2020, Operation Team Member
-- **Journal reviews:** IEEE Transactions on Engineering Management (IEEE-TEM), SCIENTIA SINICA Informationis (SSI)
+- **Journal reviews:** IEEE Transactions on Services Computing, IEEE Transactions on Engineering Management (IEEE-TEM), SCIENTIA SINICA Informationis (SSI)
