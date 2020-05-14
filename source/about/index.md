@@ -16,10 +16,12 @@ type: "about"
 - **Senior Research Fellow, Kingdee International Software Group**
 - Member, Shenzhen Entrepreneurship and Innovation Federation (SEIF)
 - Member, Shenzhen Association for Artificial Intelligence (SAAI)
+- Member, China Computer Federation (CCF)
+- Member, Services Society (S2)
 
 ### Research Interests
 
-- **Blockchain, Smart Contract, Consensus Mechanism, Incentive Methodology**
+- **Blockchain, Smart Contract, Consensus Mechanism, Incentive Methodology, Zero-Knowledge Proof and Homomorphic Encryption**
 - Services Computing, Cloud Computing, Artificial Intelligence, Internet of Things, Big Data
 - Plasma Physics, Computational Simulation
   
@@ -40,4 +42,7 @@ type: "about"
 ### Activities
 
 - Services Conference Federation (SCF) 2018, 2019, 2020, Operation Team Member
-- **Journal reviews:** IEEE Transactions on Services Computing, IEEE Transactions on Engineering Management (IEEE-TEM), SCIENTIA SINICA Informationis (SSI)
+- 2019 International Conference on Blockchain (ICBC 2019), June 25 - June 30, 2019, San Diego, CA, USA
+- US/EU Transport Task Force Workshop (TTF2017), April 25 - April 28, 2017, Williamsburg, VA, USA
+- 58th Annual Meeting of the APS Division of Plasma Physics, October 31 – November 4, 2016, San Jose, CA, USA
+- **Journal reviews:** IEEE Transactions on Services Computing, IEEE Transactions on Engineering Management (IEEE-TEM), IEEE Access, SCIENTIA SINICA Informationis (SSI)
