@@ -46,4 +46,5 @@ type: "about"
 - US/EU Transport Task Force Workshop (TTF2017), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - April 28, 2017, Williamsburg, VA, USA
 - 58th Annual Meeting of the APS Division of Plasma Physics (APS-DPP 2016), "Alfvén eigenmode stability and energetic particle transport using the TGLF model", October 31 – November 4, 2016, San Jose, CA, USA
 - Services Conference Federation (SCF) 2018, 2019, 2020, Operation Team Member
+- 12th China Shenzhen Innovation and Entrepreneurship Competition, Semifinal, Technical Review Expert, September 7, 2020, Shenzhen, China
 - **Journal reviews:** IEEE Transactions on Services Computing, IEEE Transactions on Engineering Management (IEEE-TEM), IEEE Access, SCIENTIA SINICA Informationis (SSI)
