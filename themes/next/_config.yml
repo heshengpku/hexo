@@ -124,7 +124,7 @@ menu:
   archives: /archives/ || archive
   # schedule: /schedule/ || calendar
   sitemap: /sitemap.xml || sitemap
-  commonweal: /404/ || heartbeat
+  commonweal: /404.html || heartbeat
 
 # Enable/Disable menu icons / item badges.
 menu_settings:
@@ -581,7 +581,7 @@ needmoreshare2:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: UKsiYDjvImWzqScj09qxN7vtTV4ss4u9IaFlE3sDRgk
 
 # Google Analytics
 #google_analytics:
