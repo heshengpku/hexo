@@ -41,6 +41,7 @@ type: "about"
 
 ### Activities
 
+- Future Business Ecolink Conference ([FBEC 2020](https://fbec.info/)), *Keynote talk* in [Global Blockchain Industry Future Summit](https://fbec.info/theMainVenueDetailsB),  "Applications and Thoughts of Blockchain in Enterprise Management Services", December 11, 2020, Shenzhen, China
 - Digital China Innovation Contest ([DCIC 2020](http://www.szzg.gov.cn/2020/cxds/)), *First Prize* of [Blockchain Track](https://www.datafountain.cn/competitions/446), The 3rd Digital China Summit, October 12 - 14, 2020, Fuzhou, China
 - Series of Science and Technology Outlook in Shenzhen about Fueling New Infrastructure with AI Chips and Blockchain Technologies ([深圳科技展望系列活动：AI芯片及区块链技术助力新基建](http://seif.org.cn/archives/1686)), "The Research Progress of Kingee Blochchain", August 25, 2020, Shenzhen, China
 - 2019 International Conference on Blockchain ([ICBC 2019](http://blockchain1000.org/2019/)), "Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services", June 25 - June 30, 2019, San Diego, CA, USA
