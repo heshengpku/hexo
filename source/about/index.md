@@ -36,13 +36,15 @@ type: "about"
 
 ### Experiences
 
+- Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Government-Funded Program, China, 12/2018 - 12/2020
 - Postdoctoral Fellow on Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/) & [Kingdee International Software Group](http://www.kingdee.com/), Shenzhen, China, 12/2017 - 12/2019
 - Visiting Student, [General Atomics](https://www.ga.com/), San Diego, USA, 12/2015 - 12/2016 (Sponsored by [CSC](https://www.csc.edu.cn/))
 
 ### Activities
 
-- Future Business Ecolink Conference ([FBEC 2020](https://fbec.info/)), *Keynote talk* in [Global Blockchain Industry Future Summit](https://fbec.info/theMainVenueDetailsB),  "Applications and Thoughts of Blockchain in Enterprise Management Services", December 11, 2020, Shenzhen, China
-- Digital China Innovation Contest ([DCIC 2020](http://www.szzg.gov.cn/2020/cxds/)), *First Prize* of [Blockchain Track](https://www.datafountain.cn/competitions/446), The 3rd Digital China Summit, October 12 - 14, 2020, Fuzhou, China
+- 2020 CCF China Blockchain Conference ([CCF CBCC 2020](https://conf.ccf.org.cn/web/html7/index.html?globalId=1bd8b44aa7a245bdac92ae7a79f5588f&type=1)), *Invited Talk* in Blockchain Architecture and Consensus Mechanism, "Thoughts on Reference Architecture and Consensus Mechanism of Enterprise Blockchain", December 18 - December 20, 2020, Jinan, China
+- 2020 Future Business Ecolink Conference ([FBEC 2020](https://fbec.info/)), *Keynote Talk* in [Global Blockchain Industry Future Summit](https://fbec.info/theMainVenueDetailsB),  "Applications and Thoughts of Blockchain in Enterprise Management Services", December 11, 2020, Shenzhen, China
+- 2020 Digital China Innovation Contest ([DCIC 2020](http://www.szzg.gov.cn/2020/cxds/)), *First Prize* of [Blockchain Track](https://www.datafountain.cn/competitions/446), The 3rd Digital China Summit, October 12 - 14, 2020, Fuzhou, China
 - Series of Science and Technology Outlook in Shenzhen about Fueling New Infrastructure with AI Chips and Blockchain Technologies ([深圳科技展望系列活动：AI芯片及区块链技术助力新基建](http://seif.org.cn/archives/1686)), "The Research Progress of Kingee Blochchain", August 25, 2020, Shenzhen, China
 - 2019 International Conference on Blockchain ([ICBC 2019](http://blockchain1000.org/2019/)), "Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services", June 25 - June 30, 2019, San Diego, CA, USA
 - 2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/)), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - April 28, 2017, Williamsburg, VA, USA
