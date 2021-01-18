@@ -6,6 +6,9 @@ type: "about"
 
 ## HE, Sheng
 
+He Sheng is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of Blockchain and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Blockchain Services Platform and the applications in the Benchmarking Customers.
+He graduated from Peking University in 2017 with a Doctor of Science Degree. During his doctoral studies, He was a Visiting Student sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he was trained as a Postdoctoral Fellow jointly by Tsinghua University and Kingdee, and was one of the first postdoctoral fellows in the field of Blockchain in China. He was the Technical Leader of Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications from 2018 to 2020. In recent years, he has published six international journals or conference papers indexed by SCI and EI, and applied for nearly 10 blockchain-related patents.
+
 ### Educations
 
 - Ph.D., [Peking University](https://www.pku.edu.cn/), 2017, Plasma Physics
@@ -37,9 +40,18 @@ type: "about"
 
 ### Experiences
 
-- Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Government-Funded Program, China, 12/2018 - 12/2020
+- Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Government-Funded Program, China, 7/2018 - 12/2020
 - Postdoctoral Fellow on Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/) & [Kingdee International Software Group](http://www.kingdee.com/), Shenzhen, China, 12/2017 - 12/2019
 - Visiting Student, [General Atomics](https://www.ga.com/), San Diego, USA, 12/2015 - 12/2016 (Sponsored by [CSC](https://www.csc.edu.cn/))
+
+### Awards & Honors
+
+- Excelent Inventor of Kingdee Group (2019)
+- 2018 Subtle Innovation Award of Kingdee Group (2019)
+- [Excellent Graduate](http://www.phy.pku.edu.cn/info/1179/2286.htm) of [Peking University](http://pkunews.pku.edu.cn/xwzh/2017-07/05/content_298556.htm) (2017)
+- [Principal Scholarship](https://grs.pku.edu.cn/jzgz/dtxx1/xwdt1/232510.htm) of Peking University (2012-2015)
+- PhD Special Scholarship, Peking University(2015)
+- Merit Student, Peking University (2016)
 
 ### Activities
 
@@ -48,6 +60,8 @@ type: "about"
 - 2020 Digital China Innovation Contest ([DCIC 2020](http://www.szzg.gov.cn/2020/cxds/)), *First Prize* of [Blockchain Track](https://www.datafountain.cn/competitions/446), The 3rd Digital China Summit, October 12 - 14, 2020, Fuzhou, China
 - Series of Science and Technology Outlook in Shenzhen about Fueling New Infrastructure with AI Chips and Blockchain Technologies ([深圳科技展望系列活动：AI芯片及区块链技术助力新基建](http://seif.org.cn/archives/1686)), "The Research Progress of Kingee Blochchain", August 25, 2020, Shenzhen, China
 - 2019 International Conference on Blockchain ([ICBC 2019](http://blockchain1000.org/2019/)), "Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services", June 25 - June 30, 2019, San Diego, CA, USA
+- Series of Kingdee Geek Talks, "Technical Analysis of Hyperledger Project", May 31, 2018, Shenzhen, China
+- Forum of Kingdee Research (1st Session), "Blockchain: A Technology Which will Disrupt the Future, the Principles and Applications", February 8, 2018, Shenzhen, China
 - 2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/)), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - April 28, 2017, Williamsburg, VA, USA
 - 58th Annual Meeting of the APS Division of Plasma Physics ([APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)), "Alfvén eigenmode stability and energetic particle transport using the TGLF model", October 31 – November 4, 2016, San Jose, CA, USA
 - Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), Operation Team Member
