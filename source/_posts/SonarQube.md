@@ -11,26 +11,32 @@ tags:
 采用docker-compose方式部署SonarQube服务，但是需要先做一些系统设置才能启动
 
 - 对sonarqube挂载目录赋权：
+
 ```shell
 cd /opt/sonarqube/   #与docker-compose.yml文件一致
 chown -R 999:999 .
 ```
 
-- 由于 Elasticsearch 占用内存较高。官方要求 `max_map_count` 需要配置到最小 262144
+- 由于 Elasticsearch 占用内存较高。官方要求 `max_map_count` 需要配置到最小 `262144`
+
 ```shell
 sysctl -w vm.max_map_count=262144
 ```
+
 看有的文章提到还需要设置 `fs.file-max`，但本地部署未设置没有发现问题
+
 ```shell
 sysctl -w fs.file-max=65536
 ```
+
 上述设置是临时生效，如果需要永久生效，需要编辑 `/etc/sysctl.conf` 文件加入以下配置
-```
+
+```shell
 vm.max_map_count=262144
 fs.file-max=65536
 ```
-如果采用永久配置，保险起见，重启系统
 
+如果采用永久配置，保险起见，重启系统
 
 - 创建docker-compose.yml文件如下
 
@@ -77,33 +83,38 @@ services:
 docker-compose up -d
 ```
 
-在服务器部署时遇到了隔一段时间sonar容器宕机问题，排查可能还是es的jvm设置问题,内存不足导致堆栈溢出，所以需要在部署文件中sonar的 `environment` 增加一项
+在服务器部署时遇到了隔一段时间sonar容器宕机问题，排查可能还是es的jvm设置问题（内存不足导致堆栈溢出）。所以需要在部署文件中sonar的 `environment` 增加一项
+
 ```yaml
       SONARQUBE_SEARCH_JAVAOPTS="-Xmx1G -Xms1G" #对于运行ElasticSearch的JVM
 ```
+
 如果出现类似的问题，可能需要增加其他jvm设置项
+
 ```yaml
       SONARQUBE_WEB_JAVAOPTS="-Xmx1G -Xms1G" #对于Web Server JVM
       SONARQUBE_CE_JAVAOPTS="-Xmx1G -Xms1G" #对于计算引擎JVM
 ```
+
 1G的大小可以根据实际情况调整，一般不少于512m
 
 ## 2、配置代码项目的 `sonar-project.properties` 文件
 
 需要安装 `sonar-scanner`
 
-#### go语言项目
+### go语言项目
 
 - 在 SonarQube > Administration > Marketplace 中安装 `SonarGo` 插件
 
 - 采用 `golangci-lint` 扫描，安装后运行
+
 ```shell
-golangci-lint run -v --out-format checkstyle > .sonar/golangcilint.xml
+golangci-lint run -v --out-format checkstyle > report.xml
 ```
 
 - `sonar-project.properties` 示例如下：
 
-```
+```shell
 sonar.host.url=http://localhost:9000
 sonar.sourceEncoding=UTF-8
 sonar.login=admin
@@ -126,18 +137,19 @@ sonar.test.exclusions=**/vendor/**
 
 - 运行 `sonar-scanner` 即可
 
-#### Java项目
+### Java项目
 
 - 在 SonarQube > Administration > Marketplace 中安装 `Java Code Quality and Security` 插件
 
 - Sonarqube扫描Java项目需要先对项目编译，以maven为例
+
 ```shell
 mvn compile
 ```
 
 - `sonar-project.properties` 示例如下：
 
-```
+```shell
 sonar.host.url=http://localhost:9000
 sonar.sourceEncoding=UTF-8
 sonar.login=admin
@@ -152,13 +164,13 @@ sonar.language=java
 
 - 运行 `sonar-scanner` 即可
 
-#### JavaScript项目
+### JavaScript项目
 
 - 在 SonarQube > Administration > Marketplace 中安装 `SonarJS` 插件，会自动安装 `SonarTS` 插件
 
 - `sonar-project.properties` 示例如下：
 
-```
+```shell
 sonar.host.url=http://localhost:9000
 sonar.sourceEncoding=UTF-8
 sonar.login=admin
@@ -179,12 +191,12 @@ sonar.javascript.lcov.reportPath=reports/coverage.lcov
 
 - 运行 `sonar-scanner` 即可
 
-## 3、配置 `gitlab-ci` 自动集成sonar代码扫描
+## 3、使用 `gitlab-ci` 自动集成sonar代码扫描
 
-#### go语言项目
-
+### 配置go语言项目
 
 - 修改ci相关的shell脚本，并在ci文件中加入scanner步骤
+
 ```shell
 docker run -i --rm -v $(pwd):/src -w /src <harbor-url>/golangci-lint:latest golangci-lint run -v --timeout 10m --out-format checkstyle > report.xml
 
@@ -209,9 +221,10 @@ docker run -i --rm -v $(pwd):/src -w /src <harbor-url>/sonar-scanner-cli:latest 
   -Dsonar.go.golangci-lint.reportPaths=report.xml ; rm -rf report.xml
 ```
 
-#### Java项目
+### 配置Java项目
 
 - 修改ci相关的shell脚本，并在ci文件中加入scanner步骤
+
 ```shell
 function scanner(){
     log "scanner begin"
@@ -231,7 +244,7 @@ function scanner(){
 }
 ```
 
-#### JavaScript项目
+### 配置JavaScript项目
 
 - 修改gitlab-ci.yaml文件即可
 
