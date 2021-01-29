@@ -112,6 +112,13 @@ docker-compose up -d
 golangci-lint run -v --out-format checkstyle > report.xml
 ```
 
+- `go test`执行单元测试，并输出覆盖率报告
+
+```shell
+go test -coverprofile=coverage.out ./...
+go test -json ./... > report.json
+```
+
 - `sonar-project.properties` 示例如下：
 
 ```shell
@@ -122,11 +129,9 @@ sonar.password=admin
 sonar.projectKey=<Progect_Name>
 sonar.projectName=<Progect_Name>
 sonar.projectVersion=1.0
-# sonar.golint.reportPath=report.xml
 sonar.go.golangci-lint.reportPaths=report.xml
-sonar.coverage.reportPath=coverage.xml
-sonar.coverage.dtdVerification=false
-sonar.test.reportPath=test.xml
+sonar.go.coverage.reportPaths=coverage.out
+sonar.go.tests.reportPaths=report.json
 sonar.sources=./
 sonar.exclusions=**/*_test.go,**/vendor/**
 sonar.language=go
@@ -200,6 +205,8 @@ sonar.javascript.lcov.reportPath=reports/coverage.lcov
 ```shell
 docker run -i --rm -v $(pwd):/src -w /src <harbor-url>/golangci-lint:latest golangci-lint run -v --timeout 10m --out-format checkstyle > report.xml
 
+docker run -i --rm -v $(pwd):/src -w /src <harbor-url>/golang:latest go test -coverprofile=coverage.out ./... ; go test -json ./... > report.json
+
 docker run -i --rm -v $(pwd):/src -w /src <harbor-url>/sonar-scanner-cli:latest sonar-scanner -X \
   -Dsonar.host.url=http://localhost:9000 \
   -Dsonar.sourceEncoding=UTF-8 \
@@ -208,9 +215,8 @@ docker run -i --rm -v $(pwd):/src -w /src <harbor-url>/sonar-scanner-cli:latest 
   -Dsonar.projectKey=<Progect_Name> \
   -Dsonar.projectName=<Progect_Name> \
   -Dsonar.projectVersion=1.0 \
-  -Dsonar.coverage.reportPath=coverage.xml \
-  -Dsonar.coverage.dtdVerification=false \
-  -Dsonar.test.reportPath=test.xml \
+  -Dsonar.go.coverage.reportPaths=coverage.out \
+  -Dsonar.go.tests.reportPaths=report.json \
   -Dsonar.sources=./ \
   -Dsonar.exclusions=**/*_test.go,**/vendor/** \
   -Dsonar.language=go \
@@ -218,7 +224,7 @@ docker run -i --rm -v $(pwd):/src -w /src <harbor-url>/sonar-scanner-cli:latest 
   -Dsonar.working.directory=/tmp \
   -Dsonar.test.inclusions=**/*_test.go \
   -Dsonar.test.exclusions=**/vendor/** \
-  -Dsonar.go.golangci-lint.reportPaths=report.xml ; rm -rf report.xml
+  -Dsonar.go.golangci-lint.reportPaths=report.xml ; rm -rf report.xml coverage.out report.json
 ```
 
 ### 配置Java项目
