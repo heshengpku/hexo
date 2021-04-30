@@ -46,6 +46,9 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Awards & Honors
 
+- Excellent Individual of Kingdee (2020)
+- Excelent Team of Kingdee Cosmic (2020)
+- First Prize of [Digital China Innovation Contest](http://www.szzg.gov.cn/2020/cxds/) (2020)
 - Excelent Inventor of Kingdee Group (2019)
 - 2018 Subtle Innovation Award of Kingdee Group (2019)
 - [Excellent Graduate](http://www.phy.pku.edu.cn/info/1179/2286.htm) of [Peking University](http://pkunews.pku.edu.cn/xwzh/2017-07/05/content_298556.htm) (2017)
