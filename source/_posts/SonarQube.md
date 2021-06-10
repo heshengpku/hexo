@@ -196,6 +196,32 @@ sonar.javascript.lcov.reportPath=reports/coverage.lcov
 
 - 运行 `sonar-scanner` 即可
 
+### Rust项目
+
+- 在 SonarQube Marketplace 还没有官方 `Rust` 插件，需要手动将 [`SonarRust`](https://github.com/elegoff/sonar-rust) 插件安装到 Sonarqube 的 `extensions/plugins` 目录下，并重启 Sonarqube
+
+- 采用 `cargo clippy` 扫描，运行
+
+```shell
+cargo clippy --message-format=json &> report.json
+```
+
+- `sonar-project.properties` 示例如下：
+
+```shell
+sonar.host.url=http://localhost:9000
+sonar.sourceEncoding=UTF-8
+sonar.projectKey=<Progect_Name>
+sonar.projectName=<Progect_Name>
+sonar.projectVersion=1.0 \
+sonar.sources=src \
+sonar.exclusions=**/protos/**,**/target/** \
+sonar.language=rust \
+sonar.rust.clippy.reportPaths=report.json
+```
+
+- 运行 `sonar-scanner` 即可
+
 ## 3、使用 `gitlab-ci` 自动集成sonar代码扫描
 
 ### 配置go语言项目
@@ -282,4 +308,24 @@ build:
 
 before_script:
   - *import_functions
+```
+
+### 配置Rust项目
+
+- 修改ci相关的shell脚本，并在ci文件中加入scanner步骤
+  
+```shell
+cargo clippy --message-format=json &> report.json
+
+docker run -i --rm -v $(pwd):/src -w /src <harbour-url>/sonar-scanner-cli:latest sonar-scanner -X \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.sourceEncoding=UTF-8 \
+  -Dsonar.projectKey=${CI_PROJECT_NAME} \
+  -Dsonar.projectName=${CI_PROJECT_NAME} \
+  -Dsonar.projectVersion=1.0 \
+  -Dsonar.sources=src \
+  -Dsonar.exclusions=**/protos/**,**/target/** \
+  -Dsonar.language=rust \
+  -Dsonar.working.directory=/tmp \
+  -Dsonar.rust.clippy.reportPaths=report.json ; rm -rf report.json
 ```
