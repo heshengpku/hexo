@@ -8,7 +8,7 @@ type: "about"
 
 He Sheng is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of Blockchain and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Blockchain Services Platform and the applications in the Benchmarking Customers.
 
-He graduated from Peking University in 2017 with a Doctor of Science Degree. During his doctoral studies, He was a Visiting Student sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he was trained as a Postdoctoral Fellow jointly by Tsinghua University and Kingdee, and was one of the first postdoctoral fellows in the field of Blockchain in China. He was the Technical Leader of Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications from 2018 to 2020. In recent years, he has published six international journals or conference papers indexed by SCI and EI, and applied for nearly 10 blockchain-related patents.
+He graduated from Peking University in 2017 with a Doctor of Science Degree. During his doctoral studies, He was a Visiting Student in the USA sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he was trained as a Postdoctoral Fellow jointly by Tsinghua University and Kingdee, and was one of the first postdoctoral fellows in the field of Blockchain in China. He was the Technical Leader of Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications from 2018 to 2020. In recent years, he has published six international journals or conference papers indexed by SCI and EI, and applied for nearly 10 blockchain-related patents.
 
 ### Educations
 
@@ -22,6 +22,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 - Member, Shenzhen Association for Artificial Intelligence ([SAAI](https://saai.net.cn/))
 - Member, China Computer Federation ([CCF](https://www.ccf.org.cn/))
 - Member, Services Society ([S2](http://www.servicessociety.org/))
+- Expert of Project Review, The [Expert Database](https://sticreview.sz.gov.cn/) of Shenzhen Science and Technology Innovation Commission
 
 ### Research Interests
 
@@ -80,7 +81,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 | Name                                               | Inventors                                    | Application No. | Date of Application | Publication No. | Date of Publication | Date of Grant |
 | :------------------------------------------------- | :------------------------------------------- | :-------------: | :-----------------: | :-------------: | :-----------------: | :-----------: |
 | 数据访问方法、装置、计算机可读存储介质和计算机设备 | **何晟**;陈桓;张良杰                         | 201911155751.X  |     2019-11-22      |  CN110990883A   |     2020-04-10      |               |
-| 区块链随机共识方法、装置、计算机设备和存储介质     | **何晟**;陈桓;曾晶;张良杰                    | 201811542399.0  |     2018-12-17      |  CN109785130A   |     2019-05-21      |               |
+| 区块链随机共识方法、装置、计算机设备和存储介质     | **何晟**;陈桓;曾晶;张良杰                    | 201811542399.0  |     2018-12-17      |  CN109785130A   |     2019-05-21      |  2021-05-21   |
 | 数字身份验证方法、装置、计算机设备和存储介质       | **何晟**;梁勇;曾凯柔;曾晶;邓理平;陈桓;张良杰 | 201811535255.2  |     2018-12-14      |  CN109587154A   |     2019-04-05      |               |
 | 基于区块链的组网方法、装置、计算机设备和存储介质   | **何晟**;史凯;邓理平;曾晶;陈桓;张良杰        | 201811081589.7  |     2018-09-17      |  CN109242467A   |     2019-01-18      |  2021-01-01   |
 | 基于区块链的多人会话数据传输方法、系统和计算机设备 | 任俊;**何晟**;杨波                           | 202010321568.9  |     2020-04-22      |  CN111641559A   |     2020-09-08      |               |
