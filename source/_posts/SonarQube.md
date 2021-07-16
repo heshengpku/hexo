@@ -329,3 +329,40 @@ docker run -i --rm -v $(pwd):/src -w /src <harbour-url>/sonar-scanner-cli:latest
   -Dsonar.working.directory=/tmp \
   -Dsonar.rust.clippy.reportPaths=report.json ; rm -rf report.json
 ```
+
+## 4、Sonarqube从7.9升级到8.9 LTS
+
+参见 [Sonarqbue官方升级说明](https://docs.sonarqube.org/latest/setup/upgrading/)
+
+### 暂停旧服务
+
+```shell
+docker-compose down
+```
+
+### 删除不兼容的Plugins
+
+不兼容的Plugin列表见：[Plugin Version Matrix](https://docs.sonarqube.org/latest/instance-administration/plugin-version-matrix/)
+
+### 修改docker-compose.yaml文件
+
+将
+```yaml
+  sonar:
+    image: sonarqube:7.9-community
+```
+
+改为
+```yaml
+  sonar:
+    image: sonarqube:8.9-community
+```
+
+即可
+
+### 重新启动服务
+
+
+```shell
+docker-compose up -d
+```
