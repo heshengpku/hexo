@@ -24,7 +24,7 @@ type: "about"
 - 国际服务学会（[S2](http://www.servicessociety.org/)）会员
 - 深圳市科技创新委员会[专家库](https://sticreview.sz.gov.cn/)项目评审专家
 
-### 研究兴趣
+### 研究领域
 
 - **区块链、智能合约、共识机制**
 - **联邦学习、安全多方计算、零知识证明、同态加密**
@@ -73,7 +73,7 @@ type: "about"
 - 2018年5月31日，中国深圳，金蝶极客论道，《超级账本技术解析》
 - 2018年2月8日，中国深圳，金蝶研究院大讲坛01期，《区块链：一种颠覆未来的技术———区块链原理与应用介绍》
 - 2017年4月25日至28日，美国威廉斯堡，2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/))，《Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model》
-- 2016年10月31日至11月4日，美国圣何塞，第58届美国物理学会等离子体物理分会年会([APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190))，《Alfvén eigenmode stability and energetic particle transport using the TGLF model》
+- 2016年10月31日至11月4日，美国圣何塞，第58届美国物理学会等离子体物理分会年会（[APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)），《Alfvén eigenmode stability and energetic particle transport using the TGLF model》
 - 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)国际服务会议联盟（SCF）组织委员会成员
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家
 - **期刊审稿：** [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc)、IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/))、[IEEE Access](https://ieeeaccess.ieee.org/)、SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))
