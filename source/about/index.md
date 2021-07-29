@@ -64,7 +64,7 @@ type: "about"
 - 2021年7月25日，中国深圳，诚安信中职培训项目，《人工智能、区块链等技术应用》
 - 2021年7月22日，中国深圳，FISCO金联盟，第88期超话区块链，《区块链企业级PaaS平台技术解析与应用实践》
 - 2021年5月8日，中国北京，2021金蝶云苍穹峰会，一体化低代码论坛（[KCCS 2021](https://www.kingdee.com/topic/kccs2021/)），《低代码区块链平台》
-- 2020年12月18日至20日，中国济南，中国区块链技术大会([CCF CBCC 2020](https://conf.ccf.org.cn/web/html7/index.html?globalId=1bd8b44aa7a245bdac92ae7a79f5588f&type=1))，区块链体系结构与共识机制分论坛邀请报告，《企业级区块链参考架构与共识机制思考》
+- 2020年12月18日至20日，中国济南，中国区块链技术大会（[CCF CBCC 2020](https://conf.ccf.org.cn/web/html7/index.html?globalId=1bd8b44aa7a245bdac92ae7a79f5588f&type=1)），区块链体系结构与共识机制分论坛邀请报告，《企业级区块链参考架构与共识机制思考》
 - 2020年12月11日，中国深圳，2020未来商业生态链接大会暨第五届金陀螺奖颁奖典礼（[FBEC 2020](https://fbec.info/)），[全球区块链产业未来发展峰会](https://fbec.info/theMainVenueDetailsB)主题报告，《区块链在企业管理服务中的应用及思考》
 - 2020年10月12日至14日，中国福州，第三届数字中国建设峰会，2020数字中国创新大赛（[DCIC 2020](http://www.szzg.gov.cn/2020/cxds/)），[区块链赛道](https://www.datafountain.cn/competitions/446)一等奖
 - 2020年8月25日，中国深圳，[深圳科技展望系列活动：AI芯片及区块链技术助力新基建](http://seif.org.cn/archives/1686)，《金蝶区块链研究》
