@@ -347,12 +347,14 @@ docker-compose down
 ### 修改docker-compose.yaml文件
 
 将
+
 ```yaml
   sonar:
     image: sonarqube:7.9-community
 ```
 
 改为
+
 ```yaml
   sonar:
     image: sonarqube:8.9-community
@@ -361,7 +363,6 @@ docker-compose down
 即可
 
 ### 重新启动服务
-
 
 ```shell
 docker-compose up -d
