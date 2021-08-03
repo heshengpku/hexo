@@ -6,7 +6,7 @@ type: "about"
 
 ## HE, Sheng
 
-He Sheng is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of Blockchain and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Blockchain Services Platform and the applications in the Benchmarking Customers.
+He Sheng is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of Blockchain and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Blockchain Services Platform and the applications in the Benchmarking Customers. He is an expert of project review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He won the First Prize of 2020 Digital China Innovation Contest.
 
 He graduated from Peking University in 2017 with a Doctor of Science Degree. During his doctoral studies, He was a Visiting Student in the USA sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he was trained as a Postdoctoral Fellow jointly by Tsinghua University and Kingdee, and was one of the first postdoctoral fellows in the field of Blockchain in China. He was the Technical Leader of Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications from 2018 to 2020. In recent years, he has published six international journals or conference papers indexed by SCI and EI, and applied for nearly 10 blockchain-related patents.
 
