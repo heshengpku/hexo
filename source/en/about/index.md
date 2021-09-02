@@ -61,6 +61,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Activities
 
+- [Developer Salon]((https://caifuhao.eastmoney.com/news/20210827171942420914500)) of [Kingdee Cloud Cosmic](https://dev.kingdee.com/competition), "The application pratice of Blockchain in Kingdee Cloud Cosmic", August 20, 2021, Shenzhen, China
 - Professional Training, Chenganxin LLP, "Applications of AI and Blockchain Technologies", July 25, 2021, Shenzhen, China
 - 88th Super Topic of Blockchain, FISCO BCOS, "Blockchain Enterprise-Level PaaS Platform Technology Analysis and Application Practice", July 22, 2021, Shenzhen, China
 - Kingdee Cloud Cosmic Summit 2021 ([KCCS 2021](https://www.kingdee.com/topic/kccs2021/)), *Invited Talk* in Forum of Integrated Low-Code Platform, "Low-Code Blockchain Platform", May 8, 2021, Beijing, China
