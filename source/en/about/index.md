@@ -61,7 +61,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Activities
 
-- Expert Special Meeting of Kingdee Geek Talks, The Blockchain Innovation Applications in Digital Economy, "The application pratice of low-code Blockchain", Nov 9, 2021 Shenzhen, China
+- Expert Special Meeting of Kingdee Geek Talks, The Blockchain Innovation Applications in Digital Economy, "The application pratice of low-code Blockchain", November 9, 2021 Shenzhen, China
 - [Developer Salon]((https://caifuhao.eastmoney.com/news/20210827171942420914500)) of [Kingdee Cloud Cosmic](https://dev.kingdee.com/competition), "The application pratice of Blockchain in Kingdee Cloud Cosmic", August 20, 2021, Shenzhen, China
 - Professional Training, Chenganxin LLP, "Applications of AI and Blockchain Technologies", July 25, 2021, Shenzhen, China
 - 88th Super Topic of Blockchain, FISCO BCOS, "Blockchain Enterprise-Level PaaS Platform Technology Analysis and Application Practice", July 22, 2021, Shenzhen, China
@@ -77,14 +77,15 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 - 2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/)), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - April 28, 2017, Williamsburg, VA, USA
 - 58th Annual Meeting of the APS Division of Plasma Physics ([APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)), "Alfvén eigenmode stability and energetic particle transport using the TGLF model", October 31 – November 4, 2016, San Jose, CA, USA
 - Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/),Operation Team Member
+- [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), Final of Internet and Mobile Internet, Technical Review Expert, October 28, 2021, Shenzhen, China
 - [12th Shenzhen Innovation and Entrepreneurship Competition](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html), Semifinal, Technical Review Expert, September 7, 2020, Shenzhen, China
-- **Journal reviews:** [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc), IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/)), [IEEE Access](https://ieeeaccess.ieee.org/), SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))
+- **Journal Reviews:** [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc), IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/)), [IEEE Access](https://ieeeaccess.ieee.org/), SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))
 
 ### Patents
 
 | Name                                               | Inventors                                      | Application No. | Date of Application | Publication No. | Date of Publication | Date of Grant |
 | :------------------------------------------------- | :--------------------------------------------- | :-------------: | :-----------------: | :-------------: | :-----------------: | :-----------: |
-| 区块链存证方法、装置和计算机设备                   | **何晟**;雷凯;闵江松;陈佩淑;任俊;焦少帅;张良杰 | 202111147675.5  |     2021-09-29      |  CN113591162A   |     2020-04-10      |               |
+| 区块链存证方法、装置和计算机设备                   | **何晟**;雷凯;闵江松;陈佩淑;任俊;焦少帅;张良杰 | 202111147675.5  |     2021-09-29      |  CN113591162A   |     2021-11-02      |               |
 | 数据访问方法、装置、计算机可读存储介质和计算机设备 | **何晟**;陈桓;张良杰                           | 201911155751.X  |     2019-11-22      |  CN110990883A   |     2020-04-10      |               |
 | 区块链随机共识方法、装置、计算机设备和存储介质     | **何晟**;陈桓;曾晶;张良杰                      | 201811542399.0  |     2018-12-17      |  CN109785130A   |     2019-05-21      |  2021-05-21   |
 | 数字身份验证方法、装置、计算机设备和存储介质       | **何晟**;梁勇;曾凯柔;曾晶;邓理平;陈桓;张良杰   | 201811535255.2  |     2018-12-14      |  CN109587154A   |     2019-04-05      |  2021-10-15   |

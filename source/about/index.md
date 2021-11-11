@@ -6,7 +6,7 @@ type: "about"
 
 ## 何晟
 
-现任金蝶国际软件集团高级研究员，负责金蝶区块链前沿核心技术及企业场景解决方案研发工作，参与规划和开发金蝶云苍穹平台、企业级区块链服务平台及其标杆客户的应用。担任深圳市科技创新委员会项目评审专家，曾获2020年数字中国创新大赛一等奖。
+现任金蝶国际软件集团高级研究员，负责金蝶区块链前沿核心技术及企业场景解决方案研发工作，参与规划和开发金蝶云苍穹平台、企业级区块链服务平台及其标杆客户的应用。担任深圳市科技创新委员会项目评审专家。曾获2020年数字中国创新大赛一等奖。
 
 2017年毕业于北京大学，获理学博士学位。就读博士期间，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，为清华大学与金蝶软件（中国）有限公司联合培养博士后，是全国首批区块链方向博士后之一。2018年至2020年，担任深圳市企业级区块链技术应用工程研究中心技术带头人。近年来，发表SCI、EI检索期刊或会议论文6篇，申请发明专利10余项。
 
@@ -77,14 +77,15 @@ type: "about"
 - 2017年4月25日至28日，美国威廉斯堡，2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/))，《Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model》
 - 2016年10月31日至11月4日，美国圣何塞，第58届美国物理学会等离子体物理分会年会（[APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)），《Alfvén eigenmode stability and energetic particle transport using the TGLF model》
 - 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)国际服务会议联盟（SCF）组织委员会成员
+- 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家
-- **期刊审稿：** [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc)、IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/))、[IEEE Access](https://ieeeaccess.ieee.org/)、SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))
+- **期刊审稿人：** [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc)、IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/))、[IEEE Access](https://ieeeaccess.ieee.org/)、SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))
 
 ### 发明专利
 
 | 专利名称                                           | 发明人                                         |     申请号     |   申请日   |    公开号    |   公开日   |   授权日   |
 | :------------------------------------------------- | :--------------------------------------------- | :------------: | :--------: | :----------: | :--------: | :--------: |
-| 区块链存证方法、装置和计算机设备                   | **何晟**;雷凯;闵江松;陈佩淑;任俊;焦少帅;张良杰 | 202111147675.5 | 2021-09-29 | CN113591162A | 2020-04-10 |            |
+| 区块链存证方法、装置和计算机设备                   | **何晟**;雷凯;闵江松;陈佩淑;任俊;焦少帅;张良杰 | 202111147675.5 | 2021-09-29 | CN113591162A | 2021-11-02 |            |
 | 数据访问方法、装置、计算机可读存储介质和计算机设备 | **何晟**;陈桓;张良杰                           | 201911155751.X | 2019-11-22 | CN110990883A | 2020-04-10 |            |
 | 区块链随机共识方法、装置、计算机设备和存储介质     | **何晟**;陈桓;曾晶;张良杰                      | 201811542399.0 | 2018-12-17 | CN109785130A | 2019-05-21 | 2021-05-21 |
 | 数字身份验证方法、装置、计算机设备和存储介质       | **何晟**;梁勇;曾凯柔;曾晶;邓理平;陈桓;张良杰   | 201811535255.2 | 2018-12-14 | CN109587154A | 2019-04-05 | 2021-10-15 |
