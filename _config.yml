@@ -84,3 +84,10 @@ deploy:
   type: git
   repo: git@github.com:heshengpku/heshengpku.github.io.git
   branch: master
+
+# Search
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
