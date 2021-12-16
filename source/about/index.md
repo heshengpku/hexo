@@ -8,7 +8,7 @@ type: "about"
 
 现任金蝶国际软件集团高级研究员，负责金蝶区块链前沿核心技术及企业场景解决方案研发工作，参与规划和开发金蝶云苍穹平台、企业级区块链服务平台及其标杆客户的应用。担任深圳市科技创新委员会项目评审专家。曾获2020年数字中国创新大赛一等奖。
 
-2017年毕业于北京大学，获理学博士学位。就读博士期间，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，为清华大学与金蝶软件（中国）有限公司联合培养博士后，是全国首批区块链方向博士后之一。2018年至2020年，担任深圳市企业级区块链技术应用工程研究中心技术带头人。近年来，发表SCI、EI检索期刊或会议论文6篇，申请发明专利10余项。
+2017年毕业于北京大学，获理学博士学位。就读博士期间，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，为清华大学与金蝶软件（中国）有限公司联合培养博士后，是全国首批区块链方向博士后之一。2018年至2020年，担任深圳市企业级区块链技术应用工程研究中心技术带头人。近年来，发表SCI、EI检索期刊或会议论文7篇，申请发明专利10余项。
 
 ### 教育背景
 
@@ -35,6 +35,7 @@ type: "about"
 
 - [Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services](https://link.springer.com/chapter/10.1007/978-3-030-23404-1_4), **Sheng He**, Yishuang Ning, Huan Chen, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of Second International Conference on Blockchain (ICBC 2019)*, Lecture Notes in Computer Science, vol 11521, pp. 49–64 (2019)
 - [A business-oriented schema for blockchain network operation](https://link.springer.com/chapter/10.1007/978-3-319-94478-4_21), **Sheng He**, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of First International Conference on Blockchain (ICBC 2018)*, Lecture Notes in Computer Science, vol 10974, pp. 277–284 (2018)
+- [BCOA: Blockchain Open Architecture](https://link.springer.com/), Liang-Jie Zhang, **Sheng He**, Jing Zeng, Yishuang Ning, Huan Chen, *Proceedings of 28th International Conference on Web Service (ICWS 2021)*, Lecture Notes in Computer Science, vol 12994, pp. xx–xx (2021 to be published)
 - [A review of deep learning based speech synthesis](https://www.mdpi.com/2076-3417/9/19/4050), Yishuang Ning, **Sheng He**, Zhiyong Wu, Chunxiao Xing, Liang-Jie Zhang, *Applied Sciences* 9 (19), 4050 (2019)
 - [The Development Trend of Intelligent Speech Interaction](https://link.springer.com/chapter/10.1007/978-3-030-23407-2_14), Yishuang Ning, **Sheng He**, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of Third International Conference on Cognitive Computing (ICCC 2019)*, Lecture Notes in Computer Science, vol 11518, pp. 169–179 (2019)
 - [Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model](https://aip.scitation.org/doi/10.1063/1.4989716), **He Sheng**, Ronald E. Waltz, Gary M. Staebler, *Physics of Plasmas* 24 (7), 072305 (2017)
