@@ -29,7 +29,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 - **Blockchain, Smart Contract, Consensus Mechanism and Incentive Methodology**
 - **Federated Learning, Secure Multi-Party Computation, Zero-Knowledge Proof and Homomorphic Encryption**
 - Services Computing, Cloud Computing, Artificial Intelligence, Internet of Things, Big Data
-- Plasma Physics, Computational Simulation
+- Plasma Physics, High Performance Computing, Numerical Simulation
   
 ### Publications
 
