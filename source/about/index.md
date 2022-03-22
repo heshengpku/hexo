@@ -17,12 +17,13 @@ type: "about"
 
 ### 现任职位
 
-- **[金蝶国际软件集团](http://www.kingdee.com/)高级研究员**
-- 深圳市创业创新联合会（[SEIF](http://seif.org.cn/)）会员
-- 深圳市人工智能学会（[SAAI](https://saai.net.cn/)）会员
-- 中国计算机学会（[CCF](https://www.ccf.org.cn/)）会员
-- 国际服务学会（[S2](http://www.servicessociety.org/)）会员
-- 深圳市科技创新委员会[专家库](https://sticreview.sz.gov.cn/)项目评审专家
+- **[金蝶国际软件集团](http://www.kingdee.com/)高级研究员**，2017年8月
+- 深圳市创业创新联合会（[SEIF](http://seif.org.cn/)）会员，2019年4月
+- 深圳市人工智能学会（[SAAI](https://saai.net.cn/)）会员，2019年3月
+- 中国计算机学会（[CCF](https://www.ccf.org.cn/)）会员，2017年12月
+- 国际服务学会（[S2](http://www.servicessociety.org/)）会员，2017年10月
+- 深圳市科技创新委员会[专家库](https://sticreview.sz.gov.cn/)项目评审专家，2019年12月
+- 广东省区块链和分布式记账技术标准化技术委员会（[GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)）委员，2022年3月
 
 ### 研究领域
 
