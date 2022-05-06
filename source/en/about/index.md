@@ -6,7 +6,7 @@ type: "about"
 
 ## HE, Sheng
 
-He Sheng is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of Blockchain and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Blockchain Services Platform and the applications in the Benchmarking Customers. He is a Sub-project Leader in the Key-Area Research and Development Program of Guangdong Province. He is an expert of project review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He won the First Prize of 2020 Digital China Innovation Contest.
+He Sheng is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of Blockchain and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Blockchain Services Platform and the applications in the Benchmarking Customers. He is a Sub-project Leader in the Key-Area Research and Development Program of Guangdong Province. He is an expert of project review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of Guangdong Blockchain and Distributed Accounting Technology Standardization Technical CommitteeHe. He won the First Prize of 2020 Digital China Innovation Contest.
 
 He graduated from Peking University in 2017 with a Doctor of Science Degree. During his doctoral studies, He was a Visiting Student in the USA sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he was trained as a Postdoctoral Fellow jointly by Tsinghua University and Kingdee, and was one of the first postdoctoral fellows in the field of Blockchain in China. He was the Technical Leader of Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications from 2018 to 2020. In recent years, he has published seven international journals or conference papers indexed by SCI and EI, and applied for more than 10 blockchain-related patents.
 
@@ -18,12 +18,13 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 ### Current Positions
 
 - **Senior Research Fellow, [Kingdee International Software Group](http://www.kingdee.com/)**, 08/2017
+- Job Title's Leader, Kingdee Qualification Professional Committee, Research Fellow in Research Type of Technical Group, 04/2022
 - Member, Shenzhen Entrepreneurship and Innovation Federation ([SEIF](http://seif.org.cn/)), 04/2019
 - Member, Shenzhen Association for Artificial Intelligence ([SAAI](https://saai.net.cn/)), 03/2019
 - Member, China Computer Federation ([CCF](https://www.ccf.org.cn/)), 12/2017
 - Member, Services Society ([S2](http://www.servicessociety.org/)), 10/2017
 - Expert of Project Review, The [Expert Database](https://sticreview.sz.gov.cn/) of Shenzhen Science and Technology Innovation Commission, 12/2019
-- Member, Technical Committee for Standardization on Blockchain of Guangdong Province ([GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), 03/2022
+- Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), 03/2022
 
 ### Research Interests
 
@@ -64,6 +65,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Activities
 
+- Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee [Inaugural Meeting and the First General Committee Meeting](https://mp.weixin.qq.com/s/cMT6_Jd_E1Y9fkV7BeFyBg), April 29, 2022, Guangzhou, China
 - Expert Special Meeting of Kingdee Geek Talks, The Blockchain Innovation Applications in Digital Economy, "The application pratice of low-code Blockchain", November 9, 2021 Shenzhen, China
 - [Developer Salon]((https://caifuhao.eastmoney.com/news/20210827171942420914500)) of [Kingdee Cloud Cosmic](https://dev.kingdee.com/competition), "The application pratice of Blockchain in Kingdee Cloud Cosmic", August 20, 2021, Shenzhen, China
 - Professional Training, Chenganxin LLP, "Applications of AI and Blockchain Technologies", July 25, 2021, Shenzhen, China
