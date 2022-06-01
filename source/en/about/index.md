@@ -23,7 +23,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 - Member, Shenzhen Association for Artificial Intelligence ([SAAI](https://saai.net.cn/)), 03/2019
 - Member, China Computer Federation ([CCF](https://www.ccf.org.cn/)), 12/2017
 - Member, Services Society ([S2](http://www.servicessociety.org/)), 10/2017
-- Expert of Project Review, The [Expert Database](https://sticreview.sz.gov.cn/) of Shenzhen Science and Technology Innovation Commission, 12/2019
+- Expert of Project Review, The [Expert Database](http://expert.hiic.com.cn/) of Shenzhen Science and Technology Innovation Commission, 12/2019
 - Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), 03/2022
 
 ### Research Interests
