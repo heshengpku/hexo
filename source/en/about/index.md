@@ -6,7 +6,7 @@ type: "about"
 
 ## HE, Sheng
 
-He Sheng is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of Blockchain and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Blockchain Services Platform and the applications in the Benchmarking Customers. He is a Sub-project Leader in the Key-Area Research and Development Program of Guangdong Province. He is an expert of project review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of Guangdong Blockchain and Distributed Accounting Technology Standardization Technical CommitteeHe. He won the First Prize of 2020 Digital China Innovation Contest.
+He Sheng is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of Blockchain and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Blockchain Services Platform and the applications in the Benchmarking Customers. He is a Sub-project Leader in the Key-Area Research and Development Program of Guangdong Province. He is an approved expert of the Shenzhen Science and Technology Expert Database and an expert of project review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee. He won the First Prize of 2020 Digital China Innovation Contest.
 
 He graduated from Peking University in 2017 with a Doctor of Science Degree. During his doctoral studies, He was a Visiting Student in the USA sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he was trained as a Postdoctoral Fellow jointly by Tsinghua University and Kingdee, and was one of the first postdoctoral fellows in the field of Blockchain in China. He was the Technical Leader of Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications from 2018 to 2020. In recent years, he has published seven international journals or conference papers indexed by SCI and EI, and applied for more than 10 blockchain-related patents.
 
@@ -29,7 +29,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Research Interests
 
-- **Blockchain, Smart Contract, Consensus Mechanism and Incentive Methodology**
+- **Blockchain, Metaverse, Smart Contract, Consensus Mechanism and Incentive Methodology**
 - **Federated Learning, Secure Multi-Party Computation, Zero-Knowledge Proof and Homomorphic Encryption**
 - Services Computing, Cloud Computing, Artificial Intelligence, Internet of Things, Big Data
 - Plasma Physics, High Performance Computing, Numerical Simulation
@@ -66,6 +66,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Activities
 
+- CCF Technology Salon, Blockchain architecture and Consensus, "One-Stop and Low-Code Blockchain Platform Architecture", June 24, 2022, Shenzhen, China
 - Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee [Inaugural Meeting and the First General Committee Meeting](https://mp.weixin.qq.com/s/cMT6_Jd_E1Y9fkV7BeFyBg), April 29, 2022, Guangzhou, China
 - Expert Special Meeting of Kingdee Geek Talks, The Blockchain Innovation Applications in Digital Economy, "The application pratice of low-code Blockchain", November 9, 2021 Shenzhen, China
 - [Developer Salon]((https://caifuhao.eastmoney.com/news/20210827171942420914500)) of [Kingdee Cloud Cosmic](https://dev.kingdee.com/competition), "The application pratice of Blockchain in Kingdee Cloud Cosmic", August 20, 2021, Shenzhen, China
