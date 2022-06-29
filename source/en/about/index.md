@@ -66,7 +66,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Activities
 
-- CCF Technology Salon, Blockchain architecture and Consensus, "One-Stop and Low-Code Blockchain Platform Architecture", June 24, 2022, Shenzhen, China
+- [CCF Technology Salon](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ), Blockchain architecture and Consensus, "One-Stop and Low-Code Blockchain Platform Architecture", June 24, 2022, Shenzhen, China
 - Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee [Inaugural Meeting and the First General Committee Meeting](https://mp.weixin.qq.com/s/cMT6_Jd_E1Y9fkV7BeFyBg), April 29, 2022, Guangzhou, China
 - Expert Special Meeting of Kingdee Geek Talks, The Blockchain Innovation Applications in Digital Economy, "The application pratice of low-code Blockchain", November 9, 2021 Shenzhen, China
 - [Developer Salon]((https://caifuhao.eastmoney.com/news/20210827171942420914500)) of [Kingdee Cloud Cosmic](https://dev.kingdee.com/competition), "The application pratice of Blockchain in Kingdee Cloud Cosmic", August 20, 2021, Shenzhen, China
