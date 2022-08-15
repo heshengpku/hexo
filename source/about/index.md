@@ -66,12 +66,13 @@ type: "about"
 
 ### 近期活动
 
-- 2022年6月24日，中国深圳，[区块链架构与共识·技术沙龙](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ)，CCF区块链专委会“架构与共识”小组，《一站式的低代码区块链平台架构》
+- 2022年8月19日，中国香港，The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/))，Panel 《Supply Chain Finance & Blockchain Technology》（在线会议）
+- 2022年6月24日，中国深圳，[区块链架构与共识·技术沙龙](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ)，CCF区块链专委会“架构与共识”小组，《一站式的低代码区块链平台架构》（在线会议）
 - 2022年4月29日，中国广州，广东省区块链和分布式记账技术标准化技术委员会[成立大会暨第一次全体委员会议](https://mp.weixin.qq.com/s/cMT6_Jd_E1Y9fkV7BeFyBg)
 - 2021年11月9日，中国深圳，金蝶极客论道大咖专场，数字经济下区块链创新应用分享会，《低代码区块链的应用实践》
 - 2021年8月20日，中国深圳，[金蝶云·苍穹追光者](https://dev.kingdee.com/competition)[开发者沙龙](https://caifuhao.eastmoney.com/news/20210827171942420914500)，《金蝶云·苍穹区块链应用实践》
-- 2021年7月25日，中国深圳，诚安信中职培训项目，《人工智能、区块链等技术应用》
-- 2021年7月22日，中国深圳，[FISCO金链盟](http://www.fisco-bcos.org/)，[第88期超话区块链](https://mp.weixin.qq.com/s/UYwBVIZd5z8gPrvzfXjyeg)，《区块链企业级PaaS平台技术解析与应用实践》
+- 2021年7月25日，中国深圳，诚安信中职培训项目，《人工智能、区块链等技术应用》（在线会议）
+- 2021年7月22日，中国深圳，[FISCO金链盟](http://www.fisco-bcos.org/)，[第88期超话区块链](https://mp.weixin.qq.com/s/UYwBVIZd5z8gPrvzfXjyeg)，《区块链企业级PaaS平台技术解析与应用实践》（在线会议）
 - 2021年5月8日，中国北京，2021金蝶云苍穹峰会，一体化低代码论坛（[KCCS 2021](https://www.kingdee.com/topic/kccs2021/)），《低代码区块链平台》
 - 2020年12月18日至20日，中国济南，中国区块链技术大会（[CCF CBCC 2020](https://conf.ccf.org.cn/web/html7/index.html?globalId=1bd8b44aa7a245bdac92ae7a79f5588f&type=1)），区块链体系结构与共识机制分论坛邀请报告，《企业级区块链参考架构与共识机制思考》
 - 2020年12月11日，中国深圳，2020未来商业生态链接大会暨第五届金陀螺奖颁奖典礼（[FBEC 2020](https://fbec.info/)），[全球区块链产业未来发展峰会](https://fbec.info/theMainVenueDetailsB)主题报告，《区块链在企业管理服务中的应用及思考》
@@ -83,7 +84,7 @@ type: "about"
 - 2018年2月8日，中国深圳，金蝶研究院大讲坛01期，《区块链：一种颠覆未来的技术———区块链原理与应用介绍》
 - 2017年4月25日至28日，美国威廉斯堡，2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/))，《Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model》
 - 2016年10月31日至11月4日，美国圣何塞，第58届美国物理学会等离子体物理分会年会（[APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)），《Alfvén eigenmode stability and energetic particle transport using the TGLF model》
-- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)国际服务会议联盟（SCF）组织委员会成员
+- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)国际服务会议联盟（SCF）组织委员会成员
 - 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家
 - **期刊审稿人：** [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc)、IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/))、[IEEE Access](https://ieeeaccess.ieee.org/)、SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))

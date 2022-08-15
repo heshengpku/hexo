@@ -66,12 +66,13 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Activities
 
-- [CCF Technology Salon](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ), Blockchain architecture and Consensus, "One-Stop and Low-Code Blockchain Platform Architecture", June 24, 2022, Shenzhen, China
+- The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/)), Panel on Topic "Supply Chain Finance & Blockchain Technology", August 19, 2022, Hong Kong, China (Online)
+- [CCF Technology Salon](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ), Blockchain Architecture and Consensus, "One-Stop and Low-Code Blockchain Platform Architecture", June 24, 2022, Hangzhou, China (Online)
 - Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee [Inaugural Meeting and the First General Committee Meeting](https://mp.weixin.qq.com/s/cMT6_Jd_E1Y9fkV7BeFyBg), April 29, 2022, Guangzhou, China
 - Expert Special Meeting of Kingdee Geek Talks, The Blockchain Innovation Applications in Digital Economy, "The application pratice of low-code Blockchain", November 9, 2021 Shenzhen, China
 - [Developer Salon]((https://caifuhao.eastmoney.com/news/20210827171942420914500)) of [Kingdee Cloud Cosmic](https://dev.kingdee.com/competition), "The application pratice of Blockchain in Kingdee Cloud Cosmic", August 20, 2021, Shenzhen, China
-- Professional Training, Chenganxin LLP, "Applications of AI and Blockchain Technologies", July 25, 2021, Shenzhen, China
-- [88th Super Topic of Blockchain](https://mp.weixin.qq.com/s/UYwBVIZd5z8gPrvzfXjyeg), [FISCO BCOS](http://www.fisco-bcos.org/), "Blockchain Enterprise-Level PaaS Platform Technology Analysis and Application Practice", July 22, 2021, Shenzhen, China
+- Professional Training, Chenganxin LLP, "Applications of AI and Blockchain Technologies", July 25, 2021, Shenzhen, China (Online)
+- [88th Super Topic of Blockchain](https://mp.weixin.qq.com/s/UYwBVIZd5z8gPrvzfXjyeg), [FISCO BCOS](http://www.fisco-bcos.org/), "Blockchain Enterprise-Level PaaS Platform Technology Analysis and Application Practice", July 22, 2021, Shenzhen, China (Online)
 - Kingdee Cloud Cosmic Summit 2021 ([KCCS 2021](https://www.kingdee.com/topic/kccs2021/)), *Invited Talk* in Forum of Integrated Low-Code Platform, "Low-Code Blockchain Platform", May 8, 2021, Beijing, China
 - 2020 CCF China Blockchain Conference ([CCF CBCC 2020](https://conf.ccf.org.cn/web/html7/index.html?globalId=1bd8b44aa7a245bdac92ae7a79f5588f&type=1)), *Invited Talk* in Blockchain Architecture and Consensus Mechanism, "Thoughts on Reference Architecture and Consensus Mechanism of Enterprise Blockchain", December 18 - December 20, 2020, Jinan, China
 - 2020 Future Business Ecolink Conference ([FBEC 2020](https://fbec.info/)), *Keynote Talk* in [Global Blockchain Industry Future Summit](https://fbec.info/theMainVenueDetailsB),  "Applications and Thoughts of Blockchain in Enterprise Management Services", December 11, 2020, Shenzhen, China
@@ -83,7 +84,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 - Forum of Kingdee Research (1st Session), "Blockchain, A Technology Which will Disrupt the Future, the Principles and Applications", February 8, 2018, Shenzhen, China
 - 2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/)), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - April 28, 2017, Williamsburg, VA, USA
 - 58th Annual Meeting of the APS Division of Plasma Physics ([APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)), "Alfvén eigenmode stability and energetic particle transport using the TGLF model", October 31 – November 4, 2016, San Jose, CA, USA
-- Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/),Operation Team Member
+- Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/), [2022](http://icws.org/2022/), Operation Team Member
 - [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), Final of Internet and Mobile Internet, Technical Review Expert, October 28, 2021, Shenzhen, China
 - [12th Shenzhen Innovation and Entrepreneurship Competition](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html), Semifinal, Technical Review Expert, September 7, 2020, Shenzhen, China
 - **Journal Reviews:** [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc), IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/)), [IEEE Access](https://ieeeaccess.ieee.org/), SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))
