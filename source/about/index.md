@@ -66,6 +66,7 @@ type: "about"
 
 ### 近期活动
 
+- 2022年8月24日，中国广州，广东省区块链产业集群标准化工作研讨会
 - 2022年8月19日，中国香港，The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/))，Panel 《Supply Chain Finance & Blockchain Technology》（在线会议）
 - 2022年6月24日，中国深圳，[区块链架构与共识·技术沙龙](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ)，CCF区块链专委会“架构与共识”小组，《一站式的低代码区块链平台架构》（在线会议）
 - 2022年4月29日，中国广州，广东省区块链和分布式记账技术标准化技术委员会[成立大会暨第一次全体委员会议](https://mp.weixin.qq.com/s/cMT6_Jd_E1Y9fkV7BeFyBg)

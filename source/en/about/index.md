@@ -66,6 +66,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Activities
 
+- Guangdong Blockchain Industry Cluster Standardization Workshop, August 24, 2022, Guangzhou, China
 - The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/)), Panel on Topic "Supply Chain Finance & Blockchain Technology", August 19, 2022, Hong Kong, China (Online)
 - [CCF Technology Salon](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ), Blockchain Architecture and Consensus, "One-Stop and Low-Code Blockchain Platform Architecture", June 24, 2022, Hangzhou, China (Online)
 - Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee [Inaugural Meeting and the First General Committee Meeting](https://mp.weixin.qq.com/s/cMT6_Jd_E1Y9fkV7BeFyBg), April 29, 2022, Guangzhou, China
