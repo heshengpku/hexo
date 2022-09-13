@@ -46,9 +46,9 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 
 ### Experiences
 
-- Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, China, 8/2020 - 8/2023 (No.2020B0101090003)
+- Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, China, 8/2020 - 8/2023 ([No.2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html))
 - Secretary General of Blockchain Professional Committee, Kingdee Technical and Product Committee, [Kingdee Group](http://www.kingdee.com/), 3/2020 - 4/2021
-- Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Government-Funded Program, China, 7/2018 - 12/2020 (No.S-2018-164-503559)
+- Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Strategic Emerging Industry Support Funding, China, 7/2018 - 12/2020 ([No.S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html))
 - Postdoctoral Fellow on Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/) & [Kingdee International Software Group](http://www.kingdee.com/), Shenzhen, China, 12/2017 - 12/2019
 - Visiting Student, [General Atomics](https://www.ga.com/), San Diego, USA, 12/2015 - 12/2016 (Sponsored by [CSC](https://www.csc.edu.cn/))
 
