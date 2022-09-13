@@ -48,6 +48,7 @@ type: "about"
 
 - 广东省重点领域研发计划项目，自主可控的联盟区块链关键技术研究，子课题负责人（2020年8月至2023年8月，项目编号：[2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html)）
 - [金蝶软件（中国）有限公司](http://www.kingdee.com/)技术与产品委员会，区块链专业委员会秘书长（2020年3月至2021年4月）
+- [金蝶软件（中国）有限公司](http://www.kingdee.com/)战略投资委员会，业务评审专业委员会委员（2020年4月至2021年3月）
 - 深圳市战略性新兴产业扶持计划，深圳市企业级区块链技术应用工程研究中心，技术带头人（2018年7月至2020年12月，项目编号：[S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html)）
 - [清华大学](https://www.tsinghua.edu.cn/)、[金蝶软件（中国）有限公司](http://www.kingdee.com/)，计算机科学与技术博士后（2017年12月至2019年12月）
 - [General Atomics](https://www.ga.com/)，国家公派联合培养博士研究生（获得[CSC](https://www.csc.edu.cn/)留学资助，2015年12月至2016年12月，美国圣迭戈）
