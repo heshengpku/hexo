@@ -151,11 +151,11 @@ $\forall x, \forall y : x=y \implies (P(x) \iff P(y)) $
 
 $\exists A, \forall x: x \in A \iff P(x)$
 
-这个集合可以记作 $A = \{ x | P(x) \}$。
+这个集合可以记作 $A = \lbrace x | P(x) \rbrace$。
 
 <font color=blue>**罗素悖论**：不存在一个集合是由“所有不包括自身的集合”所组成的。</font>
 
-`证明`：设命题$P(x)$为“所有不包括自身的集合$x$”，即$x \notin x$，根据概括公理，满足这个命题的对象$x$构成一个集合，设为集合$A = \{ x | x \notin x \}$。
+`证明`：设命题$P(x)$为“所有不包括自身的集合$x$”，即$x \notin x$，根据概括公理，满足这个命题的对象$x$构成一个集合，设为集合$A = \lbrace x | x \notin x \rbrace$。
 然后讨论命题$A \in A$的真伪：
 如果$A \in A$为真，那么$A$是自身的元素，根据集合$A$的定义，则满足命题$P(x)$，即$A \notin A$，矛盾；
 如果$A \notin A$为真，那么满足命题$P(x)$，则根据集合$A$的定义，$A$是自身的元素，即$A \in A$，矛盾。$\square$
@@ -177,9 +177,9 @@ $\exists A, \forall x : x \notin A$
 
 $\forall x, \forall y, \exists A, \forall z : z \in A \iff z=x \vee z=y$
 
-配对公理可以构造双元素集合，记作$\{x,y\}$。
+配对公理可以构造双元素集合，记作$\lbrace x,y\rbrace$。
 
-当$x=y$时，也可以构造单元素集合：即对任意集合$x$，存在集合$\{x,x\}$，记作$\{x\}$。
+当$x=y$时，也可以构造单元素集合：即对任意集合$x$，存在集合$\lbrace x,x\rbrace$，记作$\lbrace x\rbrace$。
 
 #### 4. <font color=red>（并集公理）对任意集合$A$，存在一个集合$B$，$x$是$B$的元素当且仅当$x$是$A$的某个元素的元素。</font>
 
@@ -191,7 +191,7 @@ $\forall A, \exists B, \forall x : x \in B \iff (\exists y : x \in y \wedge y \i
 
 $\forall A, \forall B, \exists C, \forall x : x \in C \iff x \in A \vee y \in B$
 
-`证明`：根据配对公理，对任意两个集合$A$和$B$，存在一个集合$\{A,B\}$。对集合$\{A,B\}$，根据并集公理，得到存在一个集合$C$，满足$x$是$C$的元素当且仅当$x$是$\{A,B\}$的元素的元素，即$x$是$A$的元素或$x$是$B$的元素。$\square$
+`证明`：根据配对公理，对任意两个集合$A$和$B$，存在一个集合$\lbrace A,B\rbrace$。对集合$\lbrace A,B\rbrace$，根据并集公理，得到存在一个集合$C$，满足$x$是$C$的元素当且仅当$x$是$\lbrace A,B\rbrace$的元素的元素，即$x$是$A$的元素或$x$是$B$的元素。$\square$
 
 通过外延公理可以证明这个集合是唯一的，称这个集合为$A$和$B$的**并集**，记作 $A \cup B$。
 
@@ -205,7 +205,7 @@ $\forall A, \exists B, \forall x: x \in B \iff x \in A \land P(x)$
 
 当$B \subseteq A$且$B \neq A$时，集合$B$称作$A$的一个**真子集**，记作 $B \subset A$。
 
-通常定义子集的方式为$B=\{x \in A | P(x)\}$。
+通常定义子集的方式为$B=\lbrace x \in A | P(x)\rbrace$。
 
 使用分类公理，对任意非空集合$A$，可以定义集合$A$的**交集**$\bigcap A$，即$\bigcap A$的元素都是$A$的任意元素的元素。
 
@@ -221,11 +221,11 @@ $\forall A, \exists B, \forall x: x \in B \iff x \subseteq A$
 
 通过外延公理可以证明这个集合是唯一的，称这个集合是$A$的**幂集**，记作 $\mathcal{P}(A)$。
 
-#### 7. <font color=red>（无穷公理）存在一个集合$\mathbf{N}$，使得空集是$\mathbf{N}$的元素，并且如果$x$是$\mathbf{N}$的元素，那么$x$与它的单元素集合$\{x\}$的并集也是$\mathbf{N}$的元素。</font>
+#### 7. <font color=red>（无穷公理）存在一个集合$\mathbf{N}$，使得空集是$\mathbf{N}$的元素，并且如果$x$是$\mathbf{N}$的元素，那么$x$与它的单元素集合$\lbrace x\rbrace$的并集也是$\mathbf{N}$的元素。</font>
 
-$\exists \mathbf{N}: \varnothing \in \mathbf{N} \land (\forall x: x \in \mathbf{N} \implies x \cup \{x\} \in \mathbf{N})$
+$\exists \mathbf{N}: \varnothing \in \mathbf{N} \land (\forall x: x \in \mathbf{N} \implies x \cup \lbrace x\rbrace \in \mathbf{N})$
 
-这种集合也称作**归纳集合**，其中可以定义集合$x$的**后继**为$x \cup \{x\}$。
+这种集合也称作**归纳集合**，其中可以定义集合$x$的**后继**为$x \cup \lbrace x\rbrace$。
 
 这个公理的本质是：存在一个集合包含所有的自然数。
 
@@ -243,7 +243,7 @@ $\forall A: A \neq \varnothing \implies \exists x \in A : x \cap A = \varnothing
 
 <font color=green>推论：不存在以自身为元素的集合。</font>
 
-`证明`：反证法，假设存在一个集合$A$，使得$A$是自身的一个元素，即$A \in A$。根据配对公理，存在集合$B = \{A\}$。由于$B$中只有一个元素$A$，根据正则公理，有$A \cap \{A\} = \varnothing$。但根据假设有$A \in A$且$A \in \{A\}$，所以$A \cap \{A\} = \{A\} \neq \varnothing$，矛盾。$\square$
+`证明`：反证法，假设存在一个集合$A$，使得$A$是自身的一个元素，即$A \in A$。根据配对公理，存在集合$B = \lbrace A\rbrace$。由于$B$中只有一个元素$A$，根据正则公理，有$A \cap \lbrace A\rbrace= \varnothing$。但根据假设有$A \in A$且$A \in \lbrace A\rbrace$，所以$A \cap \lbrace A\rbrace= \lbrace A\rbrace \neq \varnothing$，矛盾。$\square$
 
 #### 10. <font color=red>（选择公理）给定一个集合$x$，其元素皆为互不相交的非空集合，那么存在一个集合$y$，包含$x$每一个元素的仅仅一个元素。</font>
 
@@ -272,15 +272,15 @@ $\forall X \left[ \varnothing \notin X \implies \exists f : X \rightarrow \bigcu
 当然，更“纯粹”地，我们还可以直接从集合论公理中构造出自然数，试一试：
 
 1. 根据空集公理，存在空集$\varnothing$，定义$0=\varnothing$；（对应Peano公理的第一条）
-2. 定义集合$n$的后继为$n \cup \{n\}$，即定义$1=0++=0 \cup \{0\} = \varnothing \cup \{\varnothing\} = \{\varnothing\}$，依次类推可以定义$2=\{\varnothing, \{\varnothing\}\}$、$3=\{\varnothing, \{\varnothing\}, \{\varnothing, \{\varnothing\}\}\}$等等；（根据自然数的定义，对应可以证明Peano公理的第二、三、四、五条）
+2. 定义集合$n$的后继为$n \cup \lbrace n\rbrace$，即定义$1=0++=0 \cup \lbrace 0\rbrace= \varnothing \cup \lbrace \varnothing\rbrace= \lbrace \varnothing\rbrace$，依次类推可以定义$2=\lbrace \varnothing, \lbrace \varnothing\rbrace \rbrace$、$3=\lbrace \varnothing, \lbrace \varnothing\rbrace, \lbrace \varnothing, \lbrace \varnothing\rbrace \rbrace \rbrace$等等；（根据自然数的定义，对应可以证明Peano公理的第二、三、四、五条）
 
 根据无穷公理，包括$\varnothing$及其全部后继的集合是存在的，可以把这一类集合称为归纳集合（inductive set）。
 
-根据后继的定义，由$n \in n \cup \{n\}$且$n \subseteq n \cup \{n\}$，可以得到对任意自然数$n \in n++$且$n \subseteq n++$。
+根据后继的定义，由$n \in n \cup \lbrace n\rbrace$且$n \subseteq n \cup \lbrace n\rbrace$，可以得到对任意自然数$n \in n++$且$n \subseteq n++$。
 
 <font color=green>推论：$0$不是任何自然数的后继。</font>
 
-`证明`:反证法，假设$0=n++$，即$\varnothing = n \cup \{n\}$，因为存在元素$n \in \{n\}$，根据并集公理$n \in n \cup \{n\}$，即$n \in \varnothing$，但是这与空集公理矛盾。$\square$
+`证明`:反证法，假设$0=n++$，即$\varnothing = n \cup \lbrace n\rbrace$，因为存在元素$n \in \lbrace n\rbrace$，根据并集公理$n \in n \cup \lbrace n\rbrace$，即$n \in \varnothing$，但是这与空集公理矛盾。$\square$
 
 **自然数定义**：把包括$\varnothing$及其全部后继的“最小”集合称为自然数集。即对任意的归纳集合，自然数都是它们的元素，而自然数集就是全体自然数的集合。
 
@@ -297,11 +297,11 @@ $x \in B \iff x \in A \wedge P(x) \iff x \text{是任意归纳集合的元素}$�
 
 <font color=blue>**定理3（数学归纳法）**：自然数集$\mathbf{N}$的任意子集，如果它是归纳集合，那么它等于自然数集。</font>
 
-`证明`：设自然数集的子集$T=\{n \in \mathbf{N} | P(x) \}$，即$T \subseteq \mathbf{N}$为归纳集合；根据定理2，自然数集是归纳集合的子集，即$\mathbf{N} \subseteq T$，所以$T = \mathbf{N}$。$\square$
+`证明`：设自然数集的子集$T=\lbrace n \in \mathbf{N} | P(x) \rbrace$，即$T \subseteq \mathbf{N}$为归纳集合；根据定理2，自然数集是归纳集合的子集，即$\mathbf{N} \subseteq T$，所以$T = \mathbf{N}$。$\square$
 
 <font color=blue>**定理4**：任意一个非$0$的自然数都是某个自然数的后继。</font>
 
-`证明`：设自然数集的子集$T=\{n \in \mathbf{N} | n = 0 \vee (\exists p \in \mathbf{N}: n = p++) \}$。因此$0 \in T$，并且如果$m \in T$，根据子集的定义，则$m \in \mathbf{N}$及$m++ \in \mathbf{N}$，即对于$m++$来说存在$p = m \in \mathbf{N}$满足$m++ = p++$，那么$m++ \in T$。因此$T$是归纳集合，根据定理3（数学归纳法），可得$T = \mathbf{N}$。$\square$
+`证明`：设自然数集的子集$T=\lbrace n \in \mathbf{N} | n = 0 \vee (\exists p \in \mathbf{N}: n = p++) \rbrace$。因此$0 \in T$，并且如果$m \in T$，根据子集的定义，则$m \in \mathbf{N}$及$m++ \in \mathbf{N}$，即对于$m++$来说存在$p = m \in \mathbf{N}$满足$m++ = p++$，那么$m++ \in T$。因此$T$是归纳集合，根据定理3（数学归纳法），可得$T = \mathbf{N}$。$\square$
 
 为了证明Peano假设的第四条，需要先引入一个“传递集”（transitive set）的概念。
 
@@ -311,11 +311,11 @@ $x \in B \iff x \in A \wedge P(x) \iff x \text{是任意归纳集合的元素}$�
 
 <font color=blue>**定理5**：对于传递集$a$，有$\bigcup (a++) = a$。</font>
 
-`证明`：根据后继的定义、集合并集的运算规则以及传递集的性质$\bigcup A \subseteq A$，有$\bigcup (a++) = \bigcup (a\cup \{a\}) = \bigcup a \cup \bigcup\{a\} = \bigcup a \cup a = a$。$\square$
+`证明`：根据后继的定义、集合并集的运算规则以及传递集的性质$\bigcup A \subseteq A$，有$\bigcup (a++) = \bigcup (a\cup \lbrace a\rbrace) = \bigcup a \cup \bigcup\lbrace a\rbrace= \bigcup a \cup a = a$。$\square$
 
 <font color=blue>**定理6**：任意自然数是一个传递集。</font>
 
-`证明`：设命题$P(n)$为“自然数$n$是一个传递集”，根据分类公理，存在一个集合$T=\{n \in \mathbf{N} | P(n)\}$。下面，通过定理3（数学归纳法）来证明$T=\mathbf{N}$。首先显然有$\varnothing \in T$，然后假设$k \in T$，根据定理5，有$\bigcup (k++) = k \subseteq k++$，所以$k++$是一个传递集，即$k++ \in T$，因此集合$T$是一个归纳集合，满足定理3。$\square$
+`证明`：设命题$P(n)$为“自然数$n$是一个传递集”，根据分类公理，存在一个集合$T=\lbrace n \in \mathbf{N} | P(n)\rbrace$。下面，通过定理3（数学归纳法）来证明$T=\mathbf{N}$。首先显然有$\varnothing \in T$，然后假设$k \in T$，根据定理5，有$\bigcup (k++) = k \subseteq k++$，所以$k++$是一个传递集，即$k++ \in T$，因此集合$T$是一个归纳集合，满足定理3。$\square$
 
 <font color=green>推论：如果自然数$n++=m++$，那么$n=m$。</font>
 
@@ -323,7 +323,7 @@ $x \in B \iff x \in A \wedge P(x) \iff x \text{是任意归纳集合的元素}$�
 
 <font color=blue>**定理7**：自然数集$\mathbf{N}$是一个传递集。</font>
 
-`证明`：即需要证明$\forall n \in \mathbf{N} : n \subseteq  \mathbf{N}$。根据分类公理，存在一个集合$T=\{n \in \mathbf{N} | n \subseteq  \mathbf{N}\}$。显然$\varnothing \in T$，然后假设$k \in T$，则有$k \subseteq \mathbf{N}$，同时$\{k\} \subseteq \mathbf{N}$，因此$k \cup \{k\} \subseteq \mathbf{N}$，即$k++ \in T$。所以集合$T$是一个归纳集合，根据定理3（数学归纳法）可知$T=\mathbf{N}$。$\square$
+`证明`：即需要证明$\forall n \in \mathbf{N} : n \subseteq  \mathbf{N}$。根据分类公理，存在一个集合$T=\lbrace n \in \mathbf{N} | n \subseteq  \mathbf{N}\rbrace$。显然$\varnothing \in T$，然后假设$k \in T$，则有$k \subseteq \mathbf{N}$，同时$\lbrace k\rbrace \subseteq \mathbf{N}$，因此$k \cup \lbrace k\rbrace \subseteq \mathbf{N}$，即$k++ \in T$。所以集合$T$是一个归纳集合，根据定理3（数学归纳法）可知$T=\mathbf{N}$。$\square$
 
 ### 2）运算
 
@@ -336,6 +336,7 @@ $x \in B \iff x \in A \wedge P(x) \iff x \text{是任意归纳集合的元素}$�
 ### 3）整数
 
 #### 形式减法的定义
+
 #### 整数的运算法则
 
 ## 四、初等数论
