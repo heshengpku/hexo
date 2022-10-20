@@ -1,5 +1,5 @@
 ---
-title: FundArith
+title: 从大学数学到小学数学：从集合论证明算术基本定理
 date: 2022-10-17 14:35:10
 tags:
  - Math
@@ -75,7 +75,7 @@ mathjax: true
 
 `证明`：根据定义，有$p\iff q$即$(p\implies q) \wedge (q\implies p)$真值表：
 $$\begin{array}{c|c|c|c|c}
-p&q&p\implies q& q\implies p & (p\implies q) \wedge (q\implies p) \\\
+p&q&p\implies q& q\implies p & p\iff q \\\
 T&T&T&T&T \\\
 T&F&F&T&F \\\
 F&T&T&F&F \\\
@@ -157,9 +157,8 @@ $\exists A, \forall x: x \in A \iff P(x)$
 
 `证明`：设命题$P(x)$为“所有不包括自身的集合$x$”，即$x \notin x$，根据概括公理，满足这个命题的对象$x$构成一个集合，设为集合$A = \{ x | x \notin x \}$。
 然后讨论命题$A \in A$的真伪：
-如果$A \in A$为真，那么$A$是自己的元素，根据集合$A$的定义，则满足命题$P(x)$，即$A \notin A$，矛盾；
-如果$A \notin A$为真，那么满足命题$P(x)$，则根据集合$A$的定义，$A$是自己的元素，即$A \in A$，矛盾。$\square$
-
+如果$A \in A$为真，那么$A$是自身的元素，根据集合$A$的定义，则满足命题$P(x)$，即$A \notin A$，矛盾；
+如果$A \notin A$为真，那么满足命题$P(x)$，则根据集合$A$的定义，$A$是自身的元素，即$A \in A$，矛盾。$\square
 所以数学需要更严格的公理化集合论，此处使用常见的ZFC集合论。
 
 ### 2）公理化集合论
@@ -334,10 +333,9 @@ $x \in B \iff x \in A \wedge P(x) \iff x \text{是任意归纳集合的元素}$�
 
 #### 自然数的运算法则
 
-#### 形式减法的定义
-
 ### 3）整数
 
+#### 形式减法的定义
 #### 整数的运算法则
 
 ## 四、初等数论
