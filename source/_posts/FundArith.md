@@ -280,7 +280,7 @@ $\forall X \left[ \varnothing \notin X \implies \exists f : X \rightarrow \bigcu
 
 根据后继的定义，由$n \in n \cup \lbrace n\rbrace$且$n \subseteq n \cup \lbrace n\rbrace$，可以得到对任意自然数$n \in n++$且$n \subseteq n++$。
 
-<font color=green>推论：$0$不是任何自然数的后继。</font>
+<font color=green>**推论**：$0$不是任何自然数的后继。</font>
 
 `证明`:反证法，假设$0=n++$，即$\varnothing = n \cup \lbrace n\rbrace$，因为存在元素$n \in \lbrace n\rbrace$，根据并集公理$n \in n \cup \lbrace n\rbrace$，即$n \in \varnothing$，但是这与空集公理矛盾。$\square$
 
@@ -319,7 +319,7 @@ $x \in B \iff x \in A \wedge P(x) \iff x \text{是任意归纳集合的元素}$�
 
 `证明`：设命题$P(n)$为“自然数$n$是一个传递集”，根据分类公理，存在一个集合$T=\lbrace n \in \mathbf{N} | P(n)\rbrace$。下面，通过定理3（数学归纳法）来证明$T=\mathbf{N}$。首先显然有$\varnothing \in T$，然后假设$k \in T$，根据定理5，有$\bigcup (k++) = k \subseteq k++$，所以$k++$是一个传递集，即$k++ \in T$，因此集合$T$是一个归纳集合，满足定理3。$\square$
 
-<font color=green>推论：如果自然数$n++=m++$，那么$n=m$。</font>
+<font color=green>**推论**：如果自然数$n++=m++$，那么$n=m$。</font>
 
 `证明`：如果$n++=m++ \in \mathbf{N}$，则$\bigcup(n++)=\bigcup(m++)$。根据定理6，可知$n++$和$m++$都是传递集，根据定理5，则有$\bigcup(n++)=n$和$\bigcup(m++)=m$，所以$n=m$。
 
@@ -422,7 +422,7 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 **定义（序列）**：对集合$A$，如果存在一个从$\lbrace 1,2,\dots,n \rbrace$到$A$的函数，其中$\forall i \in \lbrace 1,2,\dots,n \rbrace: f(i)=a_i \in A$，则把$n$元有序对（或称$n$元组）$(a_1,a_2,\dots,a_n)$称为有限序列，简记为$(a_n)$。把从自然数集$\mathbf{N}$到$A$的函数所形成的序列$(a_0,a_1,a_2,...,a_n,...)$，称为无限序列。
 
-**引理（递归定义）**：如果对集合$A$，$a \in A$且存在函数$F: A \rightarrow A$，那么存在唯一的函数$h: \mathbf{N} \rightarrow A$使得$h(0)=a$且对任意的自然数$n$有$h(n++)=F(h(n))$。即如果使用记号$a_n=h(n)$，则（无限）序列$(a_0,a_1,a_2,...,a_n,...)$存在且唯一。
+<font color=blue>**引理（递归定义）**：如果对集合$A$，$a \in A$且存在函数$F: A \rightarrow A$，那么存在唯一的函数$h: \mathbf{N} \rightarrow A$使得$h(0)=a$且对任意的自然数$n$有$h(n++)=F(h(n))$。即如果使用记号$a_n=h(n)$，则（无限）序列$(a_0,a_1,a_2,...,a_n,...)$存在且唯一。</font>
 
 `证明`：把一个函数$v$称为“可接受的”，当且仅当$dom(v) \subseteq \mathbf{N} \wedge ran(v) \subseteq A$，并且满足以下条件：
 
@@ -441,11 +441,11 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 `证明`：固定$m$，对$n$使用数学归纳法。首先$n=0$时，$0+m=m$是自然数；然后假设$n+m$是自然数，那么$(n++)+m=(n+m)++$是$n+m$的后继，当然也是自然数。$\square$
 
-<font color=blue>引理：对任意自然数$m$，$m+0=m$。</font>
+<font color=blue>**引理**：对任意自然数$m$，$m+0=m$。</font>
 
 `证明`：数学归纳法。首先当$m=0$时，根据加法的定义，$0+0=0$；然后假设对自然数$m$，满足$m+0=m$，需证明$(m++)+0=m++$。根据加法的定义，$(m++)+0=(m+0)++$，根据归纳假设$m+0=m$，所以$(m++)+0=m++$。$\square$
 
-<font color=blue>引理：对任意自然数$n$和$m$，满足$n+(m++)=(n+m)++$。</font>
+<font color=blue>**引理**：对任意自然数$n$和$m$，满足$n+(m++)=(n+m)++$。</font>
 
 `证明`：固定$m$，对$n$使用数学归纳法。首先当$n=0$时，根据引理，左边$0+(m++)=m++$且右边$(0+m)++=m++$，所以$0+(m++)=(0+m)++$；然后假设对自然数$n$，满足$n+(m++)=(n+m)++$，需证明$(n++)+(m++)=((n++)+m)++$。左边根据加法的定义$(n++)+(m++)=(n+(m++))++$，根据归纳假设$(n+(m++))++=((n+m)++)++$，而右边根据加法的定义$((n++)+m)++=((n+m)++)++$，所以$(n++)+(m++)=((n++)+m)++$。$\square$
 
@@ -455,17 +455,17 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 所以自然数的后继（增量运算），可以通过加法来表示。
 
-**加法交换律**：$a+b=b+a$
+<font color=blue>**加法交换律**：$a+b=b+a$</font>
 
 `证明`：固定$b$，对$a$使用数学归纳法。首先当$a=0$时，根据加法的定义和引理，$0+b=b$且$b+0=b$，所以$0+b=b+0$；然后假设对自然数$a$，满足$a+b=b+a$，需证明$(a++)+b = b+(a++)$。根据加法的定义$(a++)+b = (a+b)++$，根据引理$b+(a++)=(b+a)++$，根据归纳假设$a+b=b+a$，所以$(a+b)++=(b+a)++$，即$(a++)+b = b+(a++)$。$\square$
 
-**加法结合律**：$(a+b)+c=a+(b+c)$
+<font color=blue>**加法结合律**：$(a+b)+c=a+(b+c)$</font>
 
 `证明`：固定$a$和$c$，对$b$使用数学归纳法。首先当$b=0$时，根据引理$(a+0)+c=a+c$，根据加法的定义$a+(0+c)=a+c$，所以$(a+0)+c=a+(0+c)$；然后假设对自然数$b$，满足$(a+b)+c=a+(b+c)$，需证明$(a+(b++))+c=a+((b++)+c)$。左边$(a+(b++))+c=((a+b)++)+c=((a+b)+c)++$，右边$a+((b++)+c)=a+((b+c)++)=(a+(b+c))++$，根据归纳假设$(a+b)+c=a+(b+c)$，所以$((a+b)+c)++=(a+(b+c))++$，即$(a+(b++))+c=a+((b++)+c)$。$\square$
 
 根据加法结合律，在连续的加法中，可以省略括号而不会产生歧义。
 
-**加法消去律**：对自然数$a,b,c$，如果$a+b=a+c$，那么$b=c$。
+<font color=blue>**加法消去律**：对自然数$a,b,c$，如果$a+b=a+c$，那么$b=c$。</font>
 
 `证明`：固定$b$和$c$，对$a$使用数学归纳法。首先当$b=0$时，$0+b=0+c$，根据加法的定义有$b=c$；然后假设$a+b=a+c \implies b=c$，需证明$(a++)+b=(a++)+c \implies b=c$。根据加法的定义$(a++)+b=(a+b)++$且$(a++)+c=(a+c)++$，即$(a+b)++=(a+c)++$，根据Peano公理第四条，有$a+b=a+c$，根据归纳假设，即$b=c$。$\square$
 
@@ -479,17 +479,17 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 `证明`：固定$m$，对$n$使用数学归纳法。首先$n=0$时，$0\times m=0$是自然数；然后假设$n\times m$是自然数，那么$(n++)\times m=(n\times m)+m$是两个自然数相加，根据加法的定义，也是自然数。$\square$
 
-<font color=blue>引理：对任意自然数$m$，$m \times 0=0$。</font>
+<font color=blue>**引理**：对任意自然数$m$，$m \times 0=0$。</font>
 
 `证明`：数学归纳法。首先当$m=0$时，根据乘法的定义，$0 \times 0=0$；然后假设对自然数$m$，满足$m \times 0=0$，需证明$(m++) \times 0=0$。根据乘法的定义，$(m++)\times 0=m \times 0+0$，根据归纳假设$m \times 0=0$，所以$(m++)\times 0=0+0=0$。$\square$
 
-<font color=blue>引理：对任意自然数$n$和$m$，满足$n \times (m++)=n \times m+n$。</font>
+<font color=blue>**引理**：对任意自然数$n$和$m$，满足$n \times (m++)=n \times m+n$。</font>
 
 `证明`：固定$m$，对$n$使用数学归纳法。首先当$n=0$时，根据引理，左边$0 \times (m++)=0$且右边$(0 \times m)+0=0+0=0$，所以$0 \times (m++)=0 \times m+0$；然后假设对自然数$n$，满足$n \times (m++)=n \times m+n$，需证明$(n++) \times (m++)=(n++) \times m+(n++)$。左边根据乘法、加法的定义和归纳假设$(n++) \times (m++)=n \times (m++)+(m++)=(n \times (m++)+m)++=(n \times m +n+m)++$，而右边根据乘法的定义和加法的引理$(n++) \times m+(n++)=(n \times m +m)+(n++)=(n \times m+m+n)++$，根据加法交换律$n+m=m+n$，所以$(n++) \times (m++)=(n++) \times m+(n++)$。$\square$
 
 按照代数的惯例，在不造成歧义时，可以省略乘号$\times$，即将$n \times m$简写为$mn$。
 
-**乘法交换律**：$ab=ba$
+<font color=blue>**乘法交换律**：$ab=ba$</font>
 
 `证明`：固定$b$，对$a$使用数学归纳法。首先当$a=0$时，根据乘法的定义和引理，$0\times b=0$且$b\times 0=0$，所以$0\times b=b\times 0$；然后假设对自然数$a$，满足$ab=ba$，需证明$(a++)b = b(a++)$。根据乘法的定义$(a++)b = ab+b$，根据引理$b(a++)=ba+b$，根据归纳假设$ab=ba$，所以$(a++)b = b(a++)$。$\square$
 
@@ -497,17 +497,17 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 `证明`：利用乘法交换律，只需证明$n\times 1=n$。根据定义和引理，$n\times 1=n\times (0++)=n\times 0 + n=0+n=n$。$\square$
 
-**乘法分配律**：$a(b+c)=ab+ac$
+<font color=blue>**乘法分配律**：$a(b+c)=ab+ac$</font>
 
 `证明`：固定$a$和$c$，对$b$使用数学归纳法。首先当$b=0$时，$a(0+c)=ac$而$a \times 0+ac = 0+ac = ac$，所以$a(0+c)=a \times 0+ac$；然后假设对自然数$b$，满足$a(b+c)=ab+ac$，需证明$a((b++)+c)=a(b++)+ac$。左边根据加法的定义、乘法的引理和归纳假设$a((b++)+c)=a((b+c)++)=a(b+c)+a=ab+ac+a$，右边乘法的引理和加法交换律$a(b++)+ac=ab+a+ac=ab+ac+a$，所以$a((b++)+c)=a(b++)+ac$。$\square$
 
 同样地，可以证明$(a+b)c=ac+bc$
 
-**乘法结合律**：$(ab)c=a(bc)$
+<font color=blue>**乘法结合律**：$(ab)c=a(bc)$</font>
 
 `证明`：固定$a$和$c$，对$b$使用数学归纳法。首先当$b=0$时，根据引理$(a \times 0)c=0 \times c=0$，根据乘法的定义$a(0\times c)=a \times 0=0$，所以$(a\times 0)c=a(0\times c)$；然后假设对自然数$b$，满足$(ab)c=a(bc)$，需证明$(a(b++))c=a((b++)c)$。左边根据乘法的引理和乘法分配律$(a(b++))c=(ab+a)c=(ab)c+ac$，右边$a((b++)c)=a(bc+c)=a(bc)+ac$，根据归纳假设$(ab)c=a(bc)$，所以$(ab)c+ac=a(bc)+ac$，即$(a(b++))c=a((b++)c)$。$\square$
 
-**乘法消去率**：对自然数$a,b,c$，如果$ac=bc$且$c \neq 0$，那么$a=b$。
+<font color=blue>**乘法消去率**：对自然数$a,b,c$，如果$ac=bc$且$c \neq 0$，那么$a=b$。</font>
 
 `证明`：因为$c \neq 0$，所以存在唯一的自然数$d$满足$d++=c$，则命题等价为如果$a(d++)=b(d++)$，那么$a=b$。固定$a$和$b$，对$d$使用数学归纳法。首先当$d=0$时，$a(0++)=a\times 0+a=a$且$b(0++)=b$，所以$a=b$；然后假设$a(d++)=b(d++)$，需证明$a((d++)++)=b((d++)++) \implies a=b$。根据乘法的定义和引理$a((d++)++)=a(d++)+a$且$b((d++)++)=b(d++)+b$，通过归纳假设$a(d++)=b(d++)$，根据加法消去律得到$a=b$。$\square$
 
@@ -624,7 +624,7 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 `证明`：固定正数$q$，对自然数$n$使用数学归纳法。首先当$n=0$时，存在$m=r=0$且$0 \leq r < q$使得$0=0\times q + 0$。假设命题在$n$时成立，则对$n++$有$n++=(mq+r)++=mq+(r++)$，因为$r < q$，所以$r++ \leq q$，如果$r++ < q$，则命题成立；如果$r++ = q$，那么$n++=mq+q=(m+1)q$，命题也成立。$\square$
 
-<font color=blue>**推论**：对整数$n$和正自然数$q$，存在整数$m$和自然数$r$，使得$0 \leq r < q$且$n=mq+r$。</font>
+<font color=green>**推论**：对整数$n$和正自然数$q$，存在整数$m$和自然数$r$，使得$0 \leq r < q$且$n=mq+r$。</font>
 
 `证明`：当整数$n \geq 0$时，即$n$是自然数，上面的定理已经证明了。当整数$n < 0$时，可知它的负数$-n$为自然数，满足上面的定理，则$-n=mq+r$，即$n=-(mq+r)=(-m)q+(-r)$。当$r=0$时，得证；当$r\neq 0$时，因为$0 < r < q$，可得$0 < (q-r) < q$，所以有$n=(-m-1)q+(q-r)$，得证。$\square$
 
@@ -668,7 +668,7 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 `证明`：因为$a$是一个大于$1$的整数，所以$a$要么是质数、要么是合数。如果$a$是质数，则$a$只有因数$1$和自身$a$，所以大于$1$的最小因数就是$a$，是质数；如果$a$是合数，假设大于$1$的最小因数$b$不是质数而是合数，那么根据合数的定义，$b$存在不等于$1$和其自身的因数$c$，又因为自然数的因数小于等于其自身，同时$b$的因数$c$也是$a$的因数，即$a$存在比$b$更小的大于$1$的因数，与假设矛盾，所以$b$是质数。$\square$
 
-<font color=blue>定理：有无限多个质数。</font>
+<font color=blue>**定理**：有无限多个质数。</font>
 
 `证明`：（欧几里得证明）假设有限个质数的集合$\lbrace p_1, \dots, p_r \rbrace$，考虑$n=p_1 p_2 \dots p_r + 1$，其中$p_1 p_2 \dots p_r$是从$p_1$到$p_r$的连乘积（遍历集合）。取$n$的质因数$p$，可以证明$p$不属于集合$\lbrace p_1, \dots, p_r \rbrace$，否则$p$是$p_1 p_2 \dots p_r$的因数，那么也是$n-p_1 p_2 \dots p_r = 1$的因数，矛盾。从而任何有限集合$\lbrace p_1, \dots, p_r \rbrace$不可能包括所有的素数。$\square$
 
@@ -696,11 +696,11 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 ### 3）算术基本定理
 
-<font color=blue>定理（强归纳法）：令$P(n)$表示对自然数的任意一个命题，如果$P(0)$为真且当$\forall n \leq m: P(n)$为真时有$P(m++)$也为真，那么对任意自然数$n$，都有$P(n)$为真。</font>
+<font color=blue>**定理（强归纳法）**：令$P(n)$表示对自然数的任意一个命题，如果$P(0)$为真且当$\forall n \leq m: P(n)$为真时有$P(m++)$也为真，那么对任意自然数$n$，都有$P(n)$为真。</font>
 
 `证明`：当$\forall n \leq m: P(n)$为真时，显然有$P(m)$为真，根据数学归纳法有强归纳法成立。$\square$
 
-<font color=blue>定理（超限归纳法）：令$P(n)$表示对自然数的任意一个命题，如果当$\forall n < m: P(n)$为真时有$P(m)$也为真，那么对任意自然数$n$，都有$P(n)$为真。</font>
+<font color=blue>**定理（超限归纳法）**：令$P(n)$表示对自然数的任意一个命题，如果当$\forall n < m: P(n)$为真时有$P(m)$也为真，那么对任意自然数$n$，都有$P(n)$为真。</font>
 
 `证明`：当$m=0$时，自然数$n<0$是一个恒假命题，所以$\forall n < 0: P(n) \implies P(0)$恒为真。因此超限归纳法与强归纳法在命题上是等价的。$\square$
 
