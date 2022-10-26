@@ -742,7 +742,7 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 `证明`：反证法，假设不存在$a_r$能被$p$整除，所以任意$a_r$与$p$互质。根据上面的引理，可知$p$与$a_1, \dots, a_n$的连乘积互质，这与质数$p$整除$a_1, \dots, a_n$的连乘积矛盾。$\square$
 
-<font color=blue>**引理**：如果质数$p$整除质数$p_n$的连乘积，那么存在一个$p_r=p$。</font>
+<font color=blue>**引理**：如果质数$p$整除质数$p,\dots,p_n$的连乘积，那么存在一个$p_r=p$（$1 \leq r \leq n$）。</font>
 
 `证明`：根据上面的引理，可知存在一个$p_r$能被$p$整除，因为$p_r$和$p$都是质数，根据质数的定义，只能有$p_r=p$。$\square$
 
