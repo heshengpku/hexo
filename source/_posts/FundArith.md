@@ -730,7 +730,7 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 <font color=blue>**引理**：如果$(a,b)=1$，那么$(a,bc)=(a,c)$。</font>
 
-`证明`：设$(a,bc)=d$，因为$(a,b)=1$且$d \mid a$，则$(d,b)=1$，同时$d \mid bc$，则$d \mid c$，所以$d$是$a$和$c$的公因数。设$(a,c)=t$，因为$t \mid c$，则$t \mid bc$，所以$t$是$a$和$bc$的公因数。根据最大公因数的定义，$d$是$t$的因数且$t$是$d$的因数，即有$d \leq t$且$t \leq d$，所以$d=t$。$\square$
+`证明`：设$(a,bc)=d$，因为$(a,b)=1$且$d \mid a$，则$(d,b)=1$，同时$d \mid bc$，则$d \mid c$，所以$d$是$a$和$c$的公因数。设$(a,c)=t$，因为$t \mid c$，则$t \mid bc$，所以$t$是$a$和$bc$的公因数。根据最大公因数的定义，有$d \leq t$且$t \leq d$，所以$d=t$。$\square$
 
 <font color=blue>**引理**：$a$与任意$b_1,\dots,b_n$互质，则$a$与$b_1, \dots, b_n$的连乘积互质。</font>
 
@@ -744,14 +744,26 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 <font color=blue>**引理**：如果质数$p$整除质数$p,\dots,p_n$的连乘积，那么存在一个$p_r=p$（$1 \leq r \leq n$）。</font>
 
-`证明`：根据上面的引理，可知存在一个$p_r$能被$p$整除，因为$p_r$和$p$都是质数，根据质数的定义，只能有$p_r=p$。$\square$
+`证明`：根据上面的引可知存在一个$p_r$能被$p$整除，因为$p_r$和$p$都是质数，根据质数的定义，只能有$p_r=p$。$\square$
 
 <font color=blue>**定理（算术基本定理）**：不计质因数的次序，则只有唯一的方式将大于$1$的整数分解为质因数的连乘积。</font>
 
-`证明`：将整数分解为质因数的连乘积$n=p_1 \dots p_n$。假设存在另一种将$n$分解为不同质因数的连乘积，设为$n=q_1 \dots q_m$，即
+`证明`：将整数分解为质因数的连乘积$a=p_1 \dots p_n$。假设存在另一种将$a$分解为不同质因数的连乘积，设为$a=q_1 \dots q_m$，即
 $$p_1 \dots p_n=q_1 \dots q_m$$
 所以$p_1 \mid q_1 \dots q_m$，根据上一条引理，存在一个$q_r=p_1$，因为不考虑分解的次序，不失一般性，可以设这个$q_r$就是$q_1$，则有$p_2 \dots p_n=q_2 \dots q_m$。这样依次运用引理，且$n$和$m$是有限的，最后肯定得到$p_n=q_m$且$n=m$。
 
-更严谨地，可以使用集合论的语言。定义质数集为$\mathbf{P}$，因为整数$a$分解为质因数的连乘积中所包括的质因数一定是$a$的因数，设这些质因数的集合为$A = \lbrace p \in \mathbf{P} | p \mid a \rbrace = \lbrace p_1,\dots,p_n \rbrace$。假设存在不同的集合$B = \lbrace q_1,\dots,q_n \rbrace$也满足将$a$分解为质因数的连乘积。根据上一条引理$\forall p,p_1,\dots,p_n \in \mathbf{P}: p \mid p_1\dots p_n  \iff \exists p_r=p$，即$\forall p \in \mathbf{P}: p \mid a \implies p \in A$，根据
-$$p_1 \dots p_n=q_1 \dots q_m$$
-可知$\forall q \in B$有$q \mid a \implies q \in A$，同理$\forall p \in A \implies p \in B$。根据外延公理，集合$A$和$B$相等，所以不计质因数的次序，将大于$1$的整数分解为质因数的连乘积的方式是唯一的。$\square$
+更严谨地，可以使用集合论的语言。定义质数集为$\mathbf{P}$，因为可以把整数$n$分解为质因数的连乘积，这些质因数的集合设为$A = \lbrace p \in \mathbf{P} | p \mid a \rbrace = \lbrace p_1,\dots,p_r \rbrace$，注意到某个质因数可能在分解的连乘积中出现多次，同时考虑到这个集合是有限的，所以可以将质因数从小到大排列，即$p_1 < \dots < p_r$，运用指数运算可以将分解式表示为：$a=p_1 ^{\alpha_1} \dots p_r ^{\alpha_r}$，其中$\alpha_1,\dots,\alpha_r$是正自然数。
+
+为了方便，先证明一个引理：质数$p$的$\alpha$次方（$\alpha \geq 1$）整除$a$，当且仅当分解的连乘积$a=p_1 ^{\alpha_1} \dots p_n ^{\alpha_n}$中，存在一个$p_r=p$且$\alpha \leq \alpha_r$（$1 \leq r \leq n$）。首先，当存在$p_r=p$且$\alpha \leq \alpha_r$时，显然有$p^{\alpha} \mid a$。然后，根据$p^{\alpha} \mid a$且$p \mid p^{\alpha}$（$\alpha \geq 1$），有$p \mid a$，所以根据上面的引理存在一个$p_r = p$。假设$\alpha > \alpha_r$，则根据整除的定义，存在一个整数$b$使得$a=bp^{\alpha}=bp_r ^{\alpha} = p_1 ^{\alpha_1} \dots p_n ^{\alpha_n}$，利用乘法消去律，左右消去$p_r^{\alpha_r}$，有$bp_r ^{\alpha - \alpha_r} = p_1 ^{\alpha_1} \dots p_{r-1} ^{\alpha_{r-1}} p_{r+1} ^{\alpha_{r+1}} \dots p_n ^{\alpha_n}$且$\alpha - \alpha_r \geq 1$，即$p_r ^{\alpha - \alpha_r} \mid p_1 ^{\alpha_1} \dots p_{r-1} ^{\alpha_{r-1}} p_{r+1} ^{\alpha_{r+1}} \dots p_n ^{\alpha_n}$，所以仍然存在一个$p_i=p$（$1 \leq i \leq n$且$i \neq r$），这与分解的连乘积中的质因数两两不等矛盾，所以$\alpha \leq \alpha_r$。
+
+构造集合$B = \lbrace <p, \alpha> \in \mathbf{P}\times \mathbf{N} | \forall p \in \mathbf{P},\forall \alpha \in \mathbf{N} \wedge \alpha \geq 1: p^{\alpha} \mid a \wedge p^{\alpha+1} \nmid a \rbrace$，即集合$B$的元素是由满足质因数$p$的$\alpha$次方整除$a$但$p$的$\alpha+1$次方不整除$a$的有序对$<p, \alpha>$组成的。
+
+现在要证明质因数的连乘积分解式$a=p_1 ^{\alpha_1} \dots p_r ^{\alpha_r}$右边的指数项，与集合$B$中的元素是一一对应的。
+
+首先对任意一个质因数$p_i \in A$，根据连乘积分解式，显然满足$p_i ^{\alpha_i} \mid a$。如果假设$p_i ^{\alpha_i+1} \mid a$，利用引理可知存在矛盾，所以分解式$a=p_1 ^{\alpha_1} \dots p_r ^{\alpha_r}$右边的任意一个指数项$p_i ^{\alpha_i}$所对应的有序对$<p_i, \alpha_i>$都是集合$B$的元素。
+
+然后，要证明集合$B$的任意元素$<p, \alpha>$所对应的所有指数项$p ^{\alpha}$的积等于$a$，即集合$B$中不存在多余的元素$<q, \beta>$其对应的指数项$q ^{\beta}$不在连乘积的分解式$a=p_1 ^{\alpha_1} \dots p_r ^{\alpha_r}$中。
+
+我们假设集合$B$存在这样多余的元素$<q, \beta>$。根据集合$B$的定义$q^{\beta} \mid a$，根据引理即存在一个$p_i = q$且$\beta \leq \alpha_i$。又根据集合$B$的定义，有$q^{\beta+1} \nmid a$即$p_i^{\beta+1} \nmid a$，所以根据引理的逆否命题，有$\beta+1 > \alpha_i$，即$\beta \geq \alpha_i$，因此$\beta = \alpha_i$。
+
+因此，质因数的连乘积分解式$a=p_1 ^{\alpha_1} \dots p_r ^{\alpha_r}$右边的指数项，与集合$B$中的元素是一一对应的。根据分类公理，可知集合$B$是唯一的，所以不计质因数的次序，将大于$1$的整数分解为质因数的连乘积的方式就是唯一。$\square$
