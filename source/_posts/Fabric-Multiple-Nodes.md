@@ -16,11 +16,11 @@ title: 超级账本Fabric 1.0 多节点集群的部署
 
 <!--more-->
 
-![单节点下的Fabric网络结构图](Fabric-Multiple-Nodes/4peer1orderLocal.jpg)
+![单节点下的Fabric网络结构图](./Fabric-Multiple-Nodes/4peer1orderLocal.jpg)
 
 Fabric 源码中包含一个简单的e2e单机部署示例，方便用户理解、研究和开发应用。如图1.1所示，在单个机器节点上通过 docker-compose 建立了5个节点的Fabric网络，每个节点都是由单独的 Docker 容器来模拟。其中 peer0 和 peer1 是同属于 org1 的节点，peer2 和 peer3 是同属于 org2 的节点，它们都加入了相同的 channel 中，并在该 channel 中进行交易，而 orderer 则为该 channel 中的交易提供排序服务。
 
-![多节点下的Fabric网络结构图](Fabric-Multiple-Nodes/4peer1order.jpg)
+![多节点下的Fabric网络结构图](./Fabric-Multiple-Nodes/4peer1order.jpg)
 
 虽然e2e_cli的示例比较简单，但它把多个节点混合部署在一起，无法区分哪些配置对应哪个节点。另外，在实际场景中，Fabric 节点可能会由不同的组织分别拥有和维护，peers 和 orderer 必然会分布在不同的物理节点上，因此多节点的Fabric 部署成为需要解决的问题
 
