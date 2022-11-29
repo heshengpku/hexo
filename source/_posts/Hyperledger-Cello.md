@@ -15,7 +15,7 @@ Cello 遵循典型的"主-从"工作体系结构。群集中有两种类型的�
 
 <!--more-->
 
-![Cello网络结构图](./Hyperledger-Cello/cello.png)
+![Cello网络结构图](Hyperledger-Cello/cello.png)
 
 ## Master Node 安装
 
