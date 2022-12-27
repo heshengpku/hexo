@@ -30,9 +30,9 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree. Dur
 ### Research Interests
 
 - **Blockchain, Metaverse, Smart Contract, Consensus Mechanism and Incentive Methodology**
-- **Federated Learning, Secure Multi-Party Computation, Zero-Knowledge Proof and Homomorphic Encryption**
+- **Privacy Enhancing Technologies, Federated Learning, Secure Multi-Party Computation, Zero-Knowledge Proof and Homomorphic Encryption**
 - Services Computing, Cloud Computing, Artificial Intelligence, Internet of Things, Big Data
-- Plasma Physics, High Performance Computing, Numerical Simulation
+- Plasma Physics, Magnetic Confinement Fusion, High Performance Computing, Numerical Simulation
   
 ### Publications
 
