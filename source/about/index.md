@@ -67,6 +67,7 @@ type: "about"
 
 ### 近期活动
 
+- 2023年1月9日，中国北京，2023[中国信通院](http://www.caict.ac.cn/)ICT深度观察[报告会](https://ict.caict.ac.cn/app/web/guests.php)，[政企数字化转型分论坛](https://ict.caict.ac.cn/app/web/livedetail.php?sid=43&type=detail)圆桌对话（在线会议）
 - 2022年8月24日，中国广州，广东省区块链产业集群[标准化工作研讨会](https://mp.weixin.qq.com/s/-B-s-grmiuUI-8vkqMU-VA)
 - 2022年8月19日，中国香港，The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/))，Panel 《Supply Chain Finance & Blockchain Technology》（在线会议）
 - 2022年6月24日，中国深圳，[区块链架构与共识·技术沙龙](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ)，CCF区块链专委会“架构与共识”小组，《一站式的低代码区块链平台架构》（在线会议）
@@ -95,6 +96,7 @@ type: "about"
 
 | 专利名称                                                                                                | 发明人                                                                      |     申请号     |   申请日   |    公开号    |   公开日   |   授权日   |
 | :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :------------: | :--------: | :----------: | :--------: | :--------: |
+| [基于区块链的存证数据生成方法、装置和计算机设备](https://patents.google.com/patent/CN115510154A/zh)     | **何晟**;林泽鹏;黄庆麟                                                      | 202211155898.0 | 2022-09-22 | CN115510154A | 2022-12-23 |            |
 | [区块链的数据查询方法、装置、设备和存储介质](https://patents.google.com/patent/CN114860807A/zh)         | **何晟**;任俊;赵龙涛                                                        | 202210508408.4 | 2022-05-11 | CN114860807A | 2022-08-05 |            |
 | [区块链的数据查询方法、装置、计算机设备和存储介质](https://patents.google.com/patent/CN114860806A/zh)   | **何晟**;任俊;林锦旋                                                        | 202210508407.X | 2022-05-11 | CN114860806A | 2022-08-05 |            |
 | [区块链存证方法、装置和计算机设备](https://patents.google.com/patent/CN113591162A/zh)                   | **何晟**;雷凯;闵江松;陈佩淑;任俊;焦少帅;张良杰                              | 202111147675.5 | 2021-09-29 | CN113591162A | 2021-11-02 | 2022-02-15 |
