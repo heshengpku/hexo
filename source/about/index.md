@@ -6,9 +6,9 @@ type: "about"
 
 ## 何晟
 
-现任金蝶国际软件集团高级研究员，负责金蝶区块链前沿核心技术及企业场景解决方案研发工作，参与规划和开发金蝶云苍穹平台、企业级区块链服务平台及其标杆客户的应用。参与广东省重点领域研发计划项目并担任子课题负责人。担任深圳市科技专家库入库专家和深圳市科技创新委员会项目评审专家。担任首届广东省区块链和分布式记账技术标准化技术委员会委员。曾获2020年数字中国创新大赛一等奖。
+现任金蝶国际软件集团高级研究员，负责金蝶云苍穹PaaS平台前沿核心技术及企业场景解决方案研发工作，参与规划和开发金蝶云苍穹平台、企业级数据服务平台、区块链服务平台及其标杆客户的应用。参与广东省重点领域研发计划项目并担任子课题负责人。担任深圳市科技专家库入库专家和深圳市科技创新委员会项目评审专家。担任首届广东省区块链和分布式记账技术标准化技术委员会委员。曾获2020年数字中国创新大赛一等奖。
 
-2017年毕业于北京大学，获理学博士学位。就读博士期间，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，为清华大学与金蝶软件（中国）有限公司联合培养博士后，是全国首批区块链方向博士后之一。2018年至2020年，担任深圳市企业级区块链技术应用工程研究中心技术带头人。近年来，发表SCI、EI检索期刊或会议论文8篇，申请发明专利10余项。
+2017年毕业于北京大学，获理学博士学位，北京大学优秀毕业生。就读博士期间，获北京大学研究生最高奖学金——校长奖学金，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，为清华大学与金蝶软件（中国）有限公司联合培养博士后，是全国首批区块链方向博士后之一。2018年至2020年，担任深圳市企业级区块链技术应用工程研究中心技术带头人。2020年至2022年，担任工信部工业互联网创新发展工程项目的子项目负责人。近年来，发表SCI、EI检索期刊或会议论文8篇，申请发明专利10余项。
 
 ### 教育背景
 
@@ -48,6 +48,7 @@ type: "about"
 ### 重要经历
 
 - 广东省重点领域研发计划项目，自主可控的联盟区块链关键技术研究，子课题负责人（2020年8月至2023年8月，项目编号：[2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html)）
+- 工信部2020年工业互联网创新发展工程——基于工业互联网平台的智能应用项目，基于“工业互联网平台+区块链”的供应链管理系统，项目参与单位负责人（2020年9月至2022年9月）
 - [金蝶软件（中国）有限公司](http://www.kingdee.com/)技术与产品委员会，区块链专业委员会秘书长（2020年3月至2021年4月）
 - [金蝶软件（中国）有限公司](http://www.kingdee.com/)战略投资委员会，业务评审专业委员会委员（2020年4月至2021年3月）
 - 深圳市战略性新兴产业扶持计划，深圳市企业级区块链技术应用工程研究中心，技术带头人（2018年7月至2020年12月，项目编号：[S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html)）
@@ -88,7 +89,7 @@ type: "about"
 - 2018年2月8日，中国深圳，金蝶研究院大讲坛01期，《区块链：一种颠覆未来的技术———区块链原理与应用介绍》
 - 2017年4月25日至28日，美国威廉斯堡，2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/))，《Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model》
 - 2016年10月31日至11月4日，美国圣何塞，第58届美国物理学会等离子体物理分会年会（[APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)），《Alfvén eigenmode stability and energetic particle transport using the TGLF model》
-- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)国际服务会议联盟（SCF）组织委员会成员
+- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)国际服务会议联盟（SCF）组织委员会成员
 - 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家
 - **期刊审稿人：** [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc)、IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/))、[IEEE Access](https://ieeeaccess.ieee.org/)、SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))
