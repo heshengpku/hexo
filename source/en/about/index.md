@@ -19,6 +19,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 - **Senior Research Fellow, [Kingdee International Software Group](http://www.kingdee.com/)**, 08/2017
 - Job Title's Leader, Kingdee Qualification Professional Committee, Research Fellow in Research Type of Technical Group, 04/2022
+- Member, Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)), 04/2020
 - Member, Shenzhen Entrepreneurship and Innovation Federation ([SEIF](http://seif.org.cn/)), 04/2019
 - Member, Shenzhen Association for Artificial Intelligence ([SAAI](https://saai.net.cn/)), 03/2019
 - Member, China Computer Federation ([CCF](https://www.ccf.org.cn/)), 12/2017
@@ -102,7 +103,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 | [Data query method, device, equipment and storage medium of block chain](https://patents.google.com/patent/CN114860807A/en)                            | **何晟**;任俊;赵龙涛                                                        | 202210508408.4  |     2022-05-11      |  CN114860807A   |     2022-08-05      |               |
 | [Data query method and device of block chain, computer equipment and storage medium](https://patents.google.com/patent/CN114860806A/en)                | **何晟**;任俊;林锦旋                                                        | 202210508407.X  |     2022-05-11      |  CN114860806A   |     2022-08-05      |               |
 | [Block chain evidence storing method and device and computer equipment](https://patents.google.com/patent/CN113591162A/en)                             | **何晟**;雷凯;闵江松;陈佩淑;任俊;焦少帅;张良杰                              | 202111147675.5  |     2021-09-29      |  CN113591162A   |     2021-11-02      |  2022-02-15   |
-| [Data access method, data access device, computer-readable storage medium and computer equipment](https://patents.google.com/patent/CN110990883A/en)   | **何晟**;陈桓;张良杰                                                        | 201911155751.X  |     2019-11-22      |  CN110990883A   |     2020-04-10      |               |
+| [Data access method, data access device, computer-readable storage medium and computer equipment](https://patents.google.com/patent/CN110990883A/en)   | **何晟**;陈桓;张良杰                                                        | 201911155751.X  |     2019-11-22      |  CN110990883A   |     2020-04-10      |   No Grant    |
 | [Block chain random consensus method and device, computer equipment and storage medium](https://patents.google.com/patent/CN109785130A/en)             | **何晟**;陈桓;曾晶;张良杰                                                   | 201811542399.0  |     2018-12-17      |  CN109785130A   |     2019-05-21      |  2021-05-28   |
 | [Digital identity verification method, device, computer equipment and storage medium](https://patents.google.com/patent/CN109587154A/en)               | **何晟**;梁勇;曾凯柔;曾晶;邓理平;陈桓;张良杰                                | 201811535255.2  |     2018-12-14      |  CN109587154A   |     2019-04-05      |  2021-10-15   |
 | [Block chain-based networking method and device, computer equipment and storage medium](https://patents.google.com/patent/CN109242467A/en)             | **何晟**;史凯;邓理平;曾晶;陈桓;张良杰                                       | 201811081589.7  |     2018-09-17      |  CN109242467A   |     2019-01-18      |  2021-01-01   |
