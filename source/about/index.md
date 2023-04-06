@@ -70,6 +70,7 @@ type: "about"
 
 ### 近期活动
 
+- 2023年3月17日，中国深圳，国家重点研发计划“区块链”重点专项“安全弹性的区块链网络关键技术”[项目启动暨实施方案论证会](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA)，论证专家
 - 2023年1月9日，中国北京，2023[中国信通院](http://www.caict.ac.cn/)ICT深度观察[报告会](https://ict.caict.ac.cn/app/web/guests.php)，[政企数字化转型分论坛](https://ict.caict.ac.cn/app/web/livedetail.php?sid=43&type=detail)圆桌对话（在线会议）
 - 2022年8月24日，中国广州，广东省区块链产业集群[标准化工作研讨会](https://mp.weixin.qq.com/s/-B-s-grmiuUI-8vkqMU-VA)
 - 2022年8月19日，中国香港，The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/))，Panel 《Supply Chain Finance & Blockchain Technology》（在线会议）
