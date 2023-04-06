@@ -6,7 +6,7 @@ tags:
 mathjax: true
 ---
 
-# 《椭圆曲线上的有理点》（对Introduction的翻译）
+## 《椭圆曲线上的有理点》（对Introduction的翻译）
 
 丢番图方程（Diophantine equations）的理论是数论（number theory ）的一个分支，主要研究多项式方程的整数解或有理数解。这个学科本身是以古希腊最伟大的代数学家之一，亚历山大的丢番图命名的，因为他提出并解决了许多这方面的问题。
 

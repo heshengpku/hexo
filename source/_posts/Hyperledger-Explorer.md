@@ -16,12 +16,14 @@ Explorer项目最早使用的是MySQL的数据库，但现在又切换成了Post
 <!--more-->
 
 ## git下载源码
+
 ```shell
 git clone https://github.com/hyperledger/blockchain-explorer.git
 cd blockchain-explorer
 ```
 
 ## 创建`Dockerfile`文件
+
 ```docker
 FROM node:6.9.5
 
@@ -35,7 +37,8 @@ EXPOSE 8080
 ```
 
 可以创建一个`.dockerignore`文件避免docker打包不必要的文件：
-```
+
+```text
 Dockerfile
 .git/
 docker-compose.yaml
@@ -110,6 +113,7 @@ docker-compose.yaml
 ```
 
 ## 创建`docker-compose.yaml`文件
+
 ```yaml
 # Copyright 2018 He Sheng. All Rights Reserved.
 #
@@ -150,15 +154,18 @@ services:
 ```
 
 其中
+
 ```yaml
      volumes:
        - ./app/db/:/docker-entrypoint-initdb.d/
 ```
+
 可以使`postgres`容器启动后自动运行`app/db/`里的数据库文件`explorerpg.sql`和`updatepg.sql`。
 
 注意修改`${NETWORK}`为部署Fabric网络对应的证书文件夹位置。
 
 ## 使用`docker-compose`部署
+
 ```shell
 docker-compose -f docker-compose.yaml up
 ```
