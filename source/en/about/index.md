@@ -70,7 +70,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
-- Panel Member, [Project Launch and Implementation Plan Discussion Meeting](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA), "Key Technologies in Secure and Flexible Blockchain Network", Blockchain Key Project in National Key Research and Development Program of China, March 17, 2023, Shenzhen, China
+- Panel Member, [Project Launch and Implementation Plan Discussion Meeting](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA) of "Key Technologies in Secure and Flexible Blockchain Network", Blockchain Key Project in National Key Research and Development Program of China, March 17, 2023, Shenzhen, China
 - 2023 [CAICT](http://www.caict.ac.cn/) ICT In-depth observation [conference](https://ict.caict.ac.cn/app/web/guests.php)，Panel in [Parallel Forum on Digital Transformation of Government and Enterprise](https://ict.caict.ac.cn/app/web/livedetail.php?sid=43&type=detail), January 9, 2023, Beijing, China (Online)
 - Guangdong Blockchain Industry Cluster [Standardization Workshop](https://mp.weixin.qq.com/s/-B-s-grmiuUI-8vkqMU-VA), August 24, 2022, Guangzhou, China
 - The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/)), Panel on Topic "Supply Chain Finance & Blockchain Technology", August 19, 2022, Hong Kong, China (Online)
