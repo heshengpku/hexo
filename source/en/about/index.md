@@ -6,7 +6,7 @@ type: "about"
 
 ## HE, Sheng
 
-He Sheng is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of the Platform-as-a-Serive (PaaS) Product called Kingdee Cosmic and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Data Services Platform, Blockchain Services Platform and the applications in the Benchmarking Customers. He is a Sub-project Leader in the Key-Area Research and Development Program of Guangdong Province. He is an approved expert of the Shenzhen Science and Technology Expert Database and an expert of project review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee. He won the First Prize of 2020 Digital China Innovation Contest.
+He Sheng, with a Professional Title of Senior Engineer, is a Senior Research Fellow at Kingdee International Software Group. He is responsible for R&D of the advanced and core technologies of the Platform-as-a-Serive (PaaS) Product called Kingdee Cosmic and its enterprise solutions. He participates in the projects of Kingdee Cosmic Cloud Platform, Data Services Platform, Blockchain Services Platform and the applications in the Benchmarking Customers. He is a Sub-project Leader in the Key-Area Research and Development Program of Guangdong Province. He is an approved expert of the Shenzhen Science and Technology Expert Database and an expert of project review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee. He won the First Prize of 2020 Digital China Innovation Contest.
 
 He graduated from Peking University in 2017 with a Doctor of Science Degree and an Excellent Graduate of Peking University. During his doctoral studies, he won the Principal Scholarship which is the highest scholarship for the graduate students of Peking University and he was also a Visiting Student in the USA sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he was trained as a Postdoctoral Fellow jointly by Tsinghua University and Kingdee, and was one of the first postdoctoral fellows in the field of Blockchain in China. He was the Technical Leader of Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications from 2018 to 2020. He was a Sub-Project Leader of Industrial Internet Innovation and Development Project (Ministry of Industry and Information Technology) from 2020 to 2022. In recent years, he has published eight international journals or conference papers indexed by SCI and EI, and applied for more than 10 blockchain-related patents.
 
@@ -27,6 +27,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Expert of Project Review, The [Expert Database](http://expert.hiic.com.cn/) of Shenzhen Science and Technology Innovation Commission, 12/2019
 - Approved Expert, The Shenzhen [Science and Technology Expert Database](http://system.szexpert.org/egrantweb/), 06/2022
 - Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), 03/2022
+- Professional Title of [Senior Engineer](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg), 04/2023
 
 ### Research Interests
 
@@ -49,7 +50,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 ### Experiences
 
 - Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, 8/2020 - 8/2023 ([No.2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html))
-- Project Leader, Key Technology Development of Cross-Financial Industry Intelligent Engine System Based on Trusted Isolated Federal Learning, General Program of Shenzhen Science and Technology Plan, 9/2020 - 9/2022 (No.JSGG20191129110603831)
+- Project Leader, Key Technology Development of Cross-Financial Industry Intelligent Engine System Based on Trusted Isolated Federal Learning, General Program of Shenzhen Science and Technology Plan, 9/2020 - 9/2022 ([No.JSGG20191129110603831](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10581951.html))
 - Sub-project Leader, Supply Chain Management System Based on "Industrial Internet Platform + Blockchain", 2020 Industrial Internet Innovation and Development Project from Ministry of Industry and Information Technology -- Intelligent Application Project Based on Industrial Internet Platform, 9/2020 - 9/2022
 - Secretary General of Blockchain Professional Committee, Kingdee Technical and Product Committee, [Kingdee Group](http://www.kingdee.com/), 3/2020 - 4/2021
 - Member of Business Review Committee, Kingdee Strategic Investment Committee, [Kingdee Group](http://www.kingdee.com/), 4/2020 - 3/2021
@@ -68,6 +69,20 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Merit Student, Peking University (2016)
 - PhD Special Scholarship, Peking University (2015)
 - [Principal Scholarship](https://grs.pku.edu.cn/jzgz/dtxx1/xwdt1/232510.htm) of Peking University (2012-2015)
+
+### Products
+
+- Kingdee [Cosmic Cloud Platform](https://www.kingdee.com/products/cosmic_platform.html), Composable & Low-Code & Native-Cloud Enterprise Platform as a Service (PaaS), Key Member, since 03/2020
+- Kingdee [Blockchain Services Platform](https://www.kingdee.com/products/cosmic_blockchain_services.html), Low-Code and One-Stop Enterprise Blockchain Service, Leader, 12/2017 - 01/2023
+- Kingdee [KChain](https://www.kingdeeabc.com/), Leader, 01/2020 - 12/2022
+  - [Typical Application Cases of Blockchain in 2022](https://www.miit.gov.cn/jgsj/xxjsfzs/xxgk/art/2023/art_07ae4924d51d44bd93b0b0e0108d071a.html), Ministry of Industry and Information Technology
+  - [Excellent Case of Commercial Science and Technology Innovation Applications in 2022](http://commerce.sz.gov.cn/gkmlpt/content/10/10453/post_10453289.html#523), National Conference on Electronic Commerce Works, Ministry of Commerce
+  - [China Top 100 Industrial Blockchain Enterprises in 2022](https://dsj.guizhou.gov.cn/xwzx/gnyw/202207/t20220715_75561605.html), 2022 China Industrial Blockchain Conference
+  - [Annual Award for Blockchain Industry Contribution](https://www.tuoluo.cn/article/detail-10036556.html), The 5th Golden Gyro Awards Ceremony
+  - [First Prize of Blockchain Track](http://www.szzg.gov.cn/2020/cxds/), 2020 Digital China Innovation Contest
+  - [The Second Batch of References on Domestic Blockchain Information Services](http://www.cac.gov.cn/2019-10/18/c_1572931934637684.htm?from=timelineAMPLisappinstalled=0), Cyberspace Administration of China
+- Kingdee Service Blockchain, Key Member, 01/2019 - 12/2019
+- Kingdee Financial Blockchain, Key Member, 01/2018 - 12/2018
 
 ### Activities
 
