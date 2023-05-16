@@ -1,8 +1,11 @@
 ---
 title: 从大学数学到小学数学：从集合论证明算术基本定理
 date: 2022-10-17 14:35:10
+catagory: Mathematics
 tags:
- - Math
+ - Elementary Math
+ - Set Theory
+ - Elementary Number Theory
 mathjax: true
 ---
 

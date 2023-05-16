@@ -1,6 +1,7 @@
 ---
 title: 时间探秘
 date: 2022-03-22 10:17:53
+category: Technoligies
 tags:
  - Life
  - Philosophy

@@ -1,8 +1,9 @@
 ---
 title: Introduction of Rational Points on Elliptic Curves
 date: 2022-11-04 17:32:44
+catagory: Mathematics
 tags:
- - Math
+ - Elliptic Curves
 mathjax: true
 ---
 
