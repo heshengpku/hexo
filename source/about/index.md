@@ -31,9 +31,10 @@ type: "about"
 
 ### 研究领域
 
+- **分析与商业智能，数据科学，大数据，人工智能**
 - **区块链、元宇宙、智能合约、共识机制**
 - **隐私计算、联邦学习、安全多方计算、零知识证明、同态加密**
-- 服务计算、云计算、人工智能、物联网、大数据
+- 服务计算、云计算、物联网
 - 等离子体物理、磁约束聚变、高性能计算、数值模拟
   
 ### 发表文章
@@ -86,7 +87,9 @@ type: "about"
 
 ### 近期活动
 
-- 2023年3月17日，中国深圳，国家重点研发计划“区块链”重点专项“安全弹性的区块链网络关键技术”[项目启动暨实施方案论证会](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA)，论证专家
+- 2023年5月20日，中国深圳，大模型技术未来发展及产业应用研讨会，深圳市计算机学会，《企业场景中的大模型技术及应用研究》
+- 2023年5月15日，中国成都，国家重点研发计划“网络协同制造和智能工厂”重点专项《基于第三方平台的多价值链协同技术与方法》课题二研讨会
+- 2023年3月17日，中国深圳，国家重点研发计划“区块链”重点专项《安全弹性的区块链网络关键技术》[项目启动暨实施方案论证会](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA)，论证专家
 - 2023年1月9日，中国北京，2023[中国信通院](http://www.caict.ac.cn/)ICT深度观察[报告会](https://ict.caict.ac.cn/app/web/guests.php)，[政企数字化转型分论坛](https://ict.caict.ac.cn/app/web/livedetail.php?sid=43&type=detail)圆桌对话（在线会议）
 - 2022年8月24日，中国广州，广东省区块链产业集群[标准化工作研讨会](https://mp.weixin.qq.com/s/-B-s-grmiuUI-8vkqMU-VA)
 - 2022年8月19日，中国香港，The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/))，Panel 《Supply Chain Finance & Blockchain Technology》（在线会议）
