@@ -17,6 +17,8 @@ cd /opt/sonarqube/   #与docker-compose.yml文件一致
 chown -R 999:999 .
 ```
 
+<!--more-->
+
 - 由于 Elasticsearch 占用内存较高。官方要求 `max_map_count` 需要配置到最小 `262144`
 
 ```shell

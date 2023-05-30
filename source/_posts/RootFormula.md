@@ -12,6 +12,8 @@ mathjax: true
 
 整理自Joseph J. Rotman的《Advanced Modern Algebra》（Part 1，2015）的Chapter A-1。
 
+<!--more-->
+
 ### 一元二次方程求根公式
 
 对于一元二次方程：

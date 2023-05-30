@@ -8,8 +8,6 @@ tags:
 date: 2017-01-01 13:08
 ---
 
-<!--more-->
-
 ## Git初始化
 
 Command line instructions
@@ -19,6 +17,8 @@ Command line instructions
 git config --global user.name "yourname"
 git config --global user.email "your@email"
 ```
+
+<!--more-->
 
 克隆新仓库（Create a new repository）
 

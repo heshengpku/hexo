@@ -21,6 +21,8 @@ mathjax: true
 
 不过个人能力有限，打算只证明一个小学生都知道的简单定理——算术基本定理，就收工。
 
+<!--more-->
+
 内容主要涉及到4个部分：
 - 数理逻辑，可参照Kenneth H. Rosen的《离散数学及其应用》
 - 集合论，可参照Herbert B. Enderton的《Elements of Set Theory》和维基百科关于集合论公理化的词条
