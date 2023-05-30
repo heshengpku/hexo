@@ -1,7 +1,7 @@
 ---
 title: Docker命令整理
 date: 2017-10-01 13:08
-catagory: Tools
+category: Tools
 tags: 
  - Docker
 ---

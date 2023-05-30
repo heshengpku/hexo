@@ -1,7 +1,7 @@
 ---
 title: Pell方程的解法
 date: 2023-05-25 19:23:02
-catagory: Mathematics
+category: Mathematics
 tags:
  - Number Theory
 mathjax: true

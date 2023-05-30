@@ -1,6 +1,6 @@
 ---
 title: Shell命令整理
-catagory: Tools
+category: Tools
 tags: 
  - Shell
  - Linux 

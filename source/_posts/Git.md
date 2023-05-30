@@ -1,6 +1,6 @@
 ---
 title: Git命令整理
-catagory: Tools
+category: Tools
 tags: 
  - Git 
  - GitHub 
