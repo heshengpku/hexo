@@ -55,7 +55,7 @@ $$(\frac{am+Nb}{k},\frac{a+bm}{k},\frac{m^2-N}{k})$$
 
 解：因为$8^2 - 61 \times 1^2 = 3$，即得到三元组$(8,1,3)$。
 
-将$(8,1,3)$与$(m,1,m^2-61)$合成，得到三元组$(8m+1,8+m,3(m^2-61))$，即：
+将$(8,1,3)$与$(m,1,m^2-61)$合成，得到三元组$(8m+61,8+m,3(m^2-61))$，即：
 
 $$(\frac{8m+61}{3},\frac{8+m}{3},\frac{m^2-61}{3})$$
 
@@ -85,7 +85,7 @@ $$(x_1^2 - N y_1^2)(x_2^2 - N y_2^2) = x_1^2 x_2^2 - N x_1^2 y_2^2 - N x_2^2 y_1
 
 等式右边：
 $$\begin{aligned}
-(x_1 x_2 + N y_1 y_2)^2 - N (x_1y_2 + x_2 y_1)^2 &= (x_1^2 x_2^2 + 2N x_1 x_2 y_1 y_2 + N^2 y_1^2 y_2^2) - N ( x_1^2 y_2^2 + 2 x_1 x_2 y_1 y_2 + x_2^2 y_1^2) \\
+(x_1 x_2 + N y_1 y_2)^2 - N (x_1y_2 + x_2 y_1)^2 &= (x_1^2 x_2^2 + 2N x_1 x_2 y_1 y_2 + N^2 y_1^2 y_2^2) - N ( x_1^2 y_2^2 + 2 x_1 x_2 y_1 y_2 + x_2^2 y_1^2) \newline
 &= x_1^2 x_2^2 - N x_1^2 y_2^2 - N x_2^2 y_1^2 + N^2 y_1^2 y_2^2
 \end{aligned}$$
 
@@ -98,8 +98,8 @@ $$\begin{aligned}
 假设$a+bm = kl$（且$l$为整数），将一个$a=kl-bm$代入方程$a^2 - Nb^2=k$，得到:
 
 $$\begin{align}
-a (kl - bm) - N b^2 &= k \\
-akl - abm - N b^2 &= k \\
+a (kl - bm) - N b^2 &= k \newline
+akl - abm - N b^2 &= k \newline
 (al - 1)k &= b(am + Nb)
 \end{align}$$
 
@@ -107,8 +107,8 @@ akl - abm - N b^2 &= k \\
 
 将$bm=kl-a$代入方程$a^2 m^2 - Nb^2 m^2=km^2$，得到：
 $$\begin{align}
-a^2 m^2 - N (kl-a)^2 &= km^2 \\
-a^2 m^2 - Nk^2 l^2 + 2Nkla - Na^2 &= km^2 \\
+a^2 m^2 - N (kl-a)^2 &= km^2 \newline
+a^2 m^2 - Nk^2 l^2 + 2Nkla - Na^2 &= km^2 \newline
 (m^2 - N)a^2 &= (Nkl^2-2Nla+m^2)k
 \end{align}$$
 
@@ -116,10 +116,10 @@ a^2 m^2 - Nk^2 l^2 + 2Nkla - Na^2 &= km^2 \\
 
 将$a+bm=kl$代入方程$(am + Nb)^2 - N(a+bm)^2 = k(m^2 - N)$，得到：
 $$\begin{align}
-(am + Nb)^2 - Nk^2 l^2 &= k(m^2 - N) \\
-(am + Nb)^2 &= k(m^2 - N + Nk l^2) \\
-a^2(am + Nb)^2 &= k((m^2 - N)a^2 + Nka^2 l^2) \\
-a^2(am + Nb)^2 &= k^2(Nkl^2-2Nla+m^2 + Na^2 l^2) \\
+(am + Nb)^2 - Nk^2 l^2 &= k(m^2 - N) \newline
+(am + Nb)^2 &= k(m^2 - N + Nk l^2) \newline
+a^2(am + Nb)^2 &= k((m^2 - N)a^2 + Nka^2 l^2) \newline
+a^2(am + Nb)^2 &= k^2(Nkl^2-2Nla+m^2 + Na^2 l^2) \newline
 \end{align}$$
 
 因此$k^2$整除$a^2(am + Nb)^2$，即$k$整除$a(am + Nb)$。
