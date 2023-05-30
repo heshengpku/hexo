@@ -3,6 +3,7 @@ title: Roots Formula of Quadratics, Cubics and Quartics
 date: 2023-03-27 17:31:41
 catagory: Mathematics
 tags:
+ - Algebra
  - Roots Formula
 mathjax: true
 ---
