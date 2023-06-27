@@ -194,7 +194,7 @@ $\forall A, \exists B, \forall x : x \in B \iff (\exists y : x \in y \wedge y \i
 
 通过配对公理可以得到一个更容易理解的形式：对任意两个集合$A$和$B$，存在一个集合，其元素属于$A$或者属于$B$。
 
-$\forall A, \forall B, \exists C, \forall x : x \in C \iff x \in A \vee y \in B$
+$\forall A, \forall B, \exists C, \forall x : x \in C \iff x \in A \vee x \in B$
 
 `证明`：根据配对公理，对任意两个集合$A$和$B$，存在一个集合$\lbrace A,B\rbrace$。对集合$\lbrace A,B\rbrace$，根据并集公理，得到存在一个集合$C$，满足$x$是$C$的元素当且仅当$x$是$\lbrace A,B\rbrace$的元素的元素，即$x$是$A$的元素或$x$是$B$的元素。$\square$
 

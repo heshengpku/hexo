@@ -27,7 +27,7 @@ type: "about"
 - 深圳市科技创新委员会[专家库](http://expert.hiic.com.cn/)项目评审专家，2019年12月
 - 深圳市[科技专家库](http://system.szexpert.org/egrantweb/)入库专家，2022年6月
 - 广东省区块链和分布式记账技术标准化技术委员会（[GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)）委员，2022年3月
-- [高级工程师](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg)职称，2023年4月
+- 广东省人工智能[高级工程师](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg)，副高级职称，2023年4月
 
 ### 研究领域
 
@@ -109,7 +109,12 @@ type: "about"
 - 2018年5月31日，中国深圳，金蝶极客论道，《超级账本技术解析》
 - 2018年2月8日，中国深圳，金蝶研究院大讲坛01期，《区块链：一种颠覆未来的技术———区块链原理与应用介绍》
 - 2017年4月25日至28日，美国威廉斯堡，2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/))，《Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model》
+- 2017年3月24日至26日，中国北京，第五届磁约束聚变模拟与理论研讨会，《Alfvén eigenmode stability and energetic particle transport using the TGLF model》
 - 2016年10月31日至11月4日，美国圣何塞，第58届美国物理学会等离子体物理分会年会（[APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)），《Alfvén eigenmode stability and energetic particle transport using the TGLF model》
+- 2015年3月23日至25日，中国合肥，第三届聚变模拟与理论[研讨会](http://www.hf.cas.cn/xwzx/hzyjl/201503/t20150331_4329566.html)，《基于TGLF模型对高能量粒子输运和阿尔文本征模稳定性的模拟研究》
+- 2014年3月19日至21日，中国成都，第二届聚变模拟与理论[研讨会](http://politics.people.com.cn/n/2014/0327/c70731-24750056.html)
+- 2013年9月17日至20日，中国北京，第13届IAEA磁约束系统中的高能量粒子[技术会议](https://iopscience.iop.org/article/10.1088/0029-5515/54/10/100301/pdf)
+- 2013年8月6日至10日，中国桂林，第七届全国青年计算物理学术会议
 - 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)国际服务会议联盟（SCF）组织委员会成员
 - 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家

@@ -27,7 +27,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Expert of Project Review, The [Expert Database](http://expert.hiic.com.cn/) of Shenzhen Science and Technology Innovation Commission, 12/2019
 - Approved Expert, The Shenzhen [Science and Technology Expert Database](http://system.szexpert.org/egrantweb/), 06/2022
 - Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), 03/2022
-- Professional Title of [Senior Engineer](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg), 04/2023
+- [Senior Engineer](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg), Professional Title on Artificial Intelligence of Guangdong Province, 04/2023
 
 ### Research Interests
 
@@ -108,8 +108,13 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - 2018 Enterprise Tutor of Undergraduate Cognitive Practice, School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), "How Blockchain Change the Future", July 25, 2018, Shenzhen, China
 - Series of Kingdee Geek Talks, "Technical Analysis of Hyperledger Project", May 31, 2018, Shenzhen, China
 - Forum of Kingdee Research (1st Session), "Blockchain, A Technology Which will Disrupt the Future, the Principles and Applications", February 8, 2018, Shenzhen, China
-- 2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/)), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - April 28, 2017, Williamsburg, VA, USA
+- 2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/)), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - 28, 2017, Williamsburg, VA, USA
+- 5th Fusion Simulation and Theory Workshop, "Alfvén eigenmode stability and energetic particle transport using the TGLF model", March 24 - 26, 2017, Beijing, China
 - 58th Annual Meeting of the APS Division of Plasma Physics ([APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)), "Alfvén eigenmode stability and energetic particle transport using the TGLF model", October 31 – November 4, 2016, San Jose, CA, USA
+- 3rd Fusion Simulation and Theory [Workshop](http://www.hf.cas.cn/xwzx/hzyjl/201503/t20150331_4329566.html), "Trapped Gyro-Landau Fluid (TGLF) model for energetic particle transport and Alfven eigenmode stability", March 23 - 25, 2015, Hefei, China
+- 2nd Fusion Simulation and Theory [Workshop](http://politics.people.com.cn/n/2014/0327/c70731-24750056.html), March 19 - March 21, 2014, Chengdu, China
+- 13th IAEA [Technical Meeting](https://iopscience.iop.org/article/10.1088/0029-5515/54/10/100301/pdf) on Energetic Particles in Magnetic Confinement Systems, September 17 – 20, 2013, Beijing, China
+- 7th National Youth Conference on Computational Physics, August 6 - 10, 2013, Guilin, China
 - Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/), [2022](http://icws.org/2022/), [2023](http://icws.org/2023/), Organization Committee Member
 - [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), Final of Internet and Mobile Internet, Technical Review Expert, October 28, 2021, Shenzhen, China
 - [12th Shenzhen Innovation and Entrepreneurship Competition](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html), Semifinal, Technical Review Expert, September 7, 2020, Shenzhen, China
