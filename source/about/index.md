@@ -87,6 +87,7 @@ type: "about"
 
 ### 近期活动
 
+- 2023年6月28日，中国深圳，哈尔滨工业大学（深圳）计算机科学与技术学院，2023年度本科生认知实习讲师，《企业数据场景下的隐私计算应用研究》
 - 2023年5月20日，中国深圳，大模型技术未来发展及产业应用研讨会，深圳市计算机学会，《企业场景中的大模型技术及应用研究》
 - 2023年5月15日，中国成都，国家重点研发计划“网络协同制造和智能工厂”重点专项《基于第三方平台的多价值链协同技术与方法》课题二研讨会
 - 2023年3月17日，中国深圳，国家重点研发计划“区块链”重点专项《安全弹性的区块链网络关键技术》[项目启动暨实施方案论证会](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA)，论证专家
@@ -112,9 +113,12 @@ type: "about"
 - 2017年3月24日至26日，中国北京，第五届磁约束聚变模拟与理论研讨会，《Alfvén eigenmode stability and energetic particle transport using the TGLF model》
 - 2016年10月31日至11月4日，美国圣何塞，第58届美国物理学会等离子体物理分会年会（[APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)），《Alfvén eigenmode stability and energetic particle transport using the TGLF model》
 - 2015年3月23日至25日，中国合肥，第三届聚变模拟与理论[研讨会](http://www.hf.cas.cn/xwzx/hzyjl/201503/t20150331_4329566.html)，《基于TGLF模型对高能量粒子输运和阿尔文本征模稳定性的模拟研究》
+- 2014年7月13日至20日，中国苏州，2014年度中国等离子体物理[暑期学校](http://www.ipp.cas.cn/tzgg/tz_yjs/201405/W020140522613879939202.pdf)
 - 2014年3月19日至21日，中国成都，第二届聚变模拟与理论[研讨会](http://politics.people.com.cn/n/2014/0327/c70731-24750056.html)
 - 2013年9月17日至20日，中国北京，第13届IAEA磁约束系统中的高能量粒子[技术会议](https://iopscience.iop.org/article/10.1088/0029-5515/54/10/100301/pdf)
 - 2013年8月6日至10日，中国桂林，第七届全国青年计算物理学术会议
+- 2013年7月29日至8月1日，中国成都，核工业西南物理研究院（[585所](https://www.swip.ac.cn/)）暑期实践活动
+- 2013年7月22日至27日，中国武汉，2013年度中国等离子体物理[暑期学校](http://www.ipp.cas.cn/tzgg/tz_zhb/201306/W020130616727665840228.pdf)
 - 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)国际服务会议联盟（SCF）组织委员会成员
 - 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家

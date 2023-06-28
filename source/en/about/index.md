@@ -87,6 +87,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- 2023 Lecturer of Undergraduate Cognitive Practice, School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), "Application Research on Privacy Computing in Enterprise Data Scenario", June 28, 2023, Shenzhen, China
 - Seminar on Future Development and Industrial Application of Large Model Technology, Shenzhen City Computer Federation, "Research on Large Model Technology and Applications in Enterprise Scenarios", May 20, 2023, Shenzhen, China
 - Seminar on Topic 2 of "Multi-Value-Chain Collaboration Technology and Method based on Third-party Platform", Network Collaborative Manufacturing and Smart Factories Special Fund in National Key Research and Development Program of China, May 15, 2023, Chengdu, China
 - Panel Member, [Project Launch and Implementation Plan Discussion Meeting](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA) of "Key Technologies in Secure and Flexible Blockchain Network", Blockchain Special Fund in National Key Research and Development Program of China, March 17, 2023, Shenzhen, China
@@ -112,9 +113,12 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - 5th Fusion Simulation and Theory Workshop, "Alfvén eigenmode stability and energetic particle transport using the TGLF model", March 24 - 26, 2017, Beijing, China
 - 58th Annual Meeting of the APS Division of Plasma Physics ([APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)), "Alfvén eigenmode stability and energetic particle transport using the TGLF model", October 31 – November 4, 2016, San Jose, CA, USA
 - 3rd Fusion Simulation and Theory [Workshop](http://www.hf.cas.cn/xwzx/hzyjl/201503/t20150331_4329566.html), "Trapped Gyro-Landau Fluid (TGLF) model for energetic particle transport and Alfven eigenmode stability", March 23 - 25, 2015, Hefei, China
+- 2014 Chinese Summer School on Plasma Physics ([CSSPP14](http://www.ipp.cas.cn/tzgg/tz_yjs/201405/W020140522613879939202.pdf)), July 13 - 20, 2014, Wuhan, China
 - 2nd Fusion Simulation and Theory [Workshop](http://politics.people.com.cn/n/2014/0327/c70731-24750056.html), March 19 - March 21, 2014, Chengdu, China
 - 13th IAEA [Technical Meeting](https://iopscience.iop.org/article/10.1088/0029-5515/54/10/100301/pdf) on Energetic Particles in Magnetic Confinement Systems, September 17 – 20, 2013, Beijing, China
 - 7th National Youth Conference on Computational Physics, August 6 - 10, 2013, Guilin, China
+- Summer Practice, Southwestern Institute of Physics ([SWIP](https://www.swip.ac.cn/)), July 29 - August 1, 2013, Chengdu, China
+- 2013 Chinese Summer School on Plasma Physics ([CSSPP13](http://www.ipp.cas.cn/tzgg/tz_zhb/201306/W020130616727665840228.pdf)), July 22 - 27, 2013, Wuhan, China
 - Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/), [2022](http://icws.org/2022/), [2023](http://icws.org/2023/), Organization Committee Member
 - [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), Final of Internet and Mobile Internet, Technical Review Expert, October 28, 2021, Shenzhen, China
 - [12th Shenzhen Innovation and Entrepreneurship Competition](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html), Semifinal, Technical Review Expert, September 7, 2020, Shenzhen, China
