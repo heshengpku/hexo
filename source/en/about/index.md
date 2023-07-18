@@ -8,7 +8,7 @@ type: "about"
 
 He Sheng, with a Professional Title of Senior Engineer, is a Senior Research Fellow at Kingdee International Software Group. He is responsible for the R&D of the advanced and core technologies of the Platform-as-a-Serive (PaaS) Product called Kingdee Cosmic and its enterprise solutions. He contributes to the products of Kingdee Cosmic Cloud Platform, Data Services Platform, Blockchain Services Platform, and applications for key customers. He is a Sub-Project Leader of Guangdong Province's Key-Area Research and Development Program. He is an approved expert in the Shenzhen Science and Technology Expert Database and an expert of Project Review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of the Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee. He won the First Prize in the 2020 Digital China Innovation Contest.
 
-He graduated from Peking University in 2017 with a Doctor of Science Degree and was an Excellent Graduate of Peking University. During his doctoral studies, he won the Principal Scholarship (Peking University's highest honor for graduate students). He was also a Visiting Student in the USA, sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he trained as a Postdoctoral Fellow jointly at Tsinghua University and Kingdee, becoming one of China's first postdoctoral fellows in Blockchain. From 2018 to 2020, he served as Technical Leader of the Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications. From 2020 to 2022, he served as a Sub-Project Leader of the Industrial Internet Innovation and Development Project under China's Ministry of Industry and Information Technology. He has published eight papers in international journals and conferences indexed by SCI/EI and applied for over 10 patents.
+He graduated from Peking University in 2017 with a Doctor of Science Degree and was an Excellent Graduate of Peking University. During his doctoral studies, he won the Principal Scholarship (Peking University's highest honor for graduate students). He was also a Visiting Student in the USA, sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he trained as a Postdoctoral Fellow jointly at Tsinghua University and Kingdee, becoming one of China's first postdoctoral fellows in Blockchain. From 2018 to 2020, he served as Technical Leader of the Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications. From 2020 to 2022, he served as a Sub-Project Leader of the Industrial Internet Innovation and Development Project under China's Ministry of Industry and Information Technology. He has published eight papers in international journals and conferences indexed by SCI/EI and granted for nine patents.
 
 ### Educations
 
@@ -18,16 +18,16 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 ### Current Positions
 
 - **Senior Research Fellow, [Kingdee International Software Group](http://www.kingdee.com/)**, 08/2017
+- [Senior Engineer](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg), Professional Title on Artificial Intelligence of Guangdong Province, 04/2023
 - Job Title's Leader, Kingdee Qualification Professional Committee, Research Fellow in Research Type of Technical Group, 04/2022
+- Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), 03/2022
 - Member, Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)), 04/2020
 - Member, Shenzhen Entrepreneurship and Innovation Federation ([SEIF](http://seif.org.cn/)), 04/2019
 - Member, Shenzhen Association for Artificial Intelligence ([SAAI](https://saai.net.cn/)), 03/2019
 - Member, China Computer Federation ([CCF](https://www.ccf.org.cn/)), 12/2017
 - Member, Services Society ([S2](http://www.servicessociety.org/)), 10/2017
-- Expert of Project Review, The [Expert Database](http://expert.hiic.com.cn/) of Shenzhen Science and Technology Innovation Commission, 12/2019
 - Approved Expert, The Shenzhen [Science and Technology Expert Database](http://system.szexpert.org/egrantweb/), 06/2022
-- Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), 03/2022
-- [Senior Engineer](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg), Professional Title on Artificial Intelligence of Guangdong Province, 04/2023
+- Expert of Project Review, The [Expert Database](http://expert.hiic.com.cn/) of Shenzhen Science and Technology Innovation Commission, 12/2019
 
 ### Research Interests
 
@@ -136,7 +136,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 | [Block chain random consensus method and device, computer equipment and storage medium](https://patents.google.com/patent/CN109785130A/en)              | **何晟**;陈桓;曾晶;张良杰                                                   | 201811542399.0  |     2018-12-17      |  CN109785130A   |     2019-05-21      |  2021-05-28   |
 | [Digital identity verification method, device, computer equipment and storage medium](https://patents.google.com/patent/CN109587154A/en)                | **何晟**;梁勇;曾凯柔;曾晶;邓理平;陈桓;张良杰                                | 201811535255.2  |     2018-12-14      |  CN109587154A   |     2019-04-05      |  2021-10-15   |
 | [Block chain-based networking method and device, computer equipment and storage medium](https://patents.google.com/patent/CN109242467A/en)              | **何晟**;史凯;邓理平;曾晶;陈桓;张良杰                                       | 201811081589.7  |     2018-09-17      |  CN109242467A   |     2019-01-18      |  2021-01-01   |
-| [基于区块链的图片处理方法及相关设备](https://patents.google.com/patent/CN115866074A/en)                                                                 | 任俊;**何晟**;林锦旋                                                        | 202211507019.6  |     2022-11-29      |  CN115866074A   |     2023-03-28      |               |
+| [Picture processing method based on block chain and related equipment](https://patents.google.com/patent/CN115866074A/en)                               | 任俊;**何晟**;林锦旋                                                        | 202211507019.6  |     2022-11-29      |  CN115866074A   |     2023-03-28      |               |
 | [Block chain network deployment method and device](https://patents.google.com/patent/CN115348168A/en)                                                   | 任俊;**何晟**;赵龙涛                                                        | 202210862902.0  |     2022-07-21      |  CN115348168A   |     2022-11-15      |               |
 | [Data storage method, device, equipment and storage medium based on block chain network](https://patents.google.com/patent/CN114840604A/en)             | 任俊;**何晟**;林锦旋                                                        | 202210509407.1  |     2022-05-11      |  CN114840604A   |     2022-08-02      |
 | [Dual channel consensus system and method for blockchains, computer readable storage medium](https://patents.google.com/patent/CN114048517A/en)         | 雷凯;余锡权;郭晨;山进孝;李琦;**何晟**;闵江松;徐婷;景晓军;陈佩淑;袁国辉;陈侃 | 202210040270.X  |     2022-01-14      |  CN114048517A   |     2022-02-15      |  2022-05-20   |
