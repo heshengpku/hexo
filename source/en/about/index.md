@@ -55,7 +55,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Sub-project Leader, Supply Chain Management System Based on "Industrial Internet Platform + Blockchain", 2020 Industrial Internet Innovation and Development Project from Ministry of Industry and Information Technology -- Intelligent Application Project Based on Industrial Internet Platform, 9/2020 - 9/2022
 - Secretary General of Blockchain Professional Committee, Kingdee Technical and Product Committee, [Kingdee Group](http://www.kingdee.com/), 3/2020 - 4/2021
 - Member of Business Review Committee, Kingdee Strategic Investment Committee, [Kingdee Group](http://www.kingdee.com/), 4/2020 - 3/2021
-- Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Strategic Emerging Industry Support Funding, 7/2018 - 12/2020 ([No.S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html))
+- Project Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Strategic Emerging Industry Support Funding, 7/2018 - 12/2020 ([No.S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html))
 - Postdoctoral Fellow on Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/) & [Kingdee International Software Group](http://www.kingdee.com/), Shenzhen, China, 12/2017 - 12/2019
 - Visiting Student, [General Atomics](https://www.ga.com/), San Diego, USA, 12/2015 - 12/2016 (Sponsored by [CSC](https://www.csc.edu.cn/))
 
