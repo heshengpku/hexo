@@ -189,6 +189,8 @@ social:
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
   Linkedin: https://www.linkedin.com/in/heshengpku/ || linkedin
+  ORCiD: https://orcid.org/0000-0002-7142-8990 || google
+  Zhihu: https://www.zhihu.com/people/sheng-he-14 || linkedin
 
 social_icons:
   enable: true
