@@ -39,13 +39,13 @@ type: "about"
   
 ### 发表文章
 
-- [A Blockchain-based Micro-services Architecture for Distributed Business](https://link.springer.com/chapter/10.1007), **Sheng He**, Yishuang Ning, Dengbin Xiong, Junhui Ma, *Proceedings of 6th International Conference on Blockchain (ICBC 2023)*, Lecture Notes in Computer Science, vol. xxxxx, pp. xx–xx (2023) *accepted and to be published*
+- [A Blockchain-Based Micro-Services Architecture for Distributed Business](https://link.springer.com/chapter/10.1007), **Sheng He**, Yishuang Ning, Dengbin Xiong, Junhui Ma, *Proceedings of 6th International Conference on Blockchain (ICBC 2023)*, Lecture Notes in Computer Science, vol. xxxxx, pp. xx–xx (2023) *accepted and to be published*
 - [Chinese Text Classification Using BERT and Flat-Lattice Transformer](https://link.springer.com/chapter/10.1007/978-3-031-23504-7_5), Haifeng Lv, Yishuang Ning, Ke Ning, Xiaoyu Ji, **Sheng He**, *Proceedings of 11th International Conference on Artificial Intelligence and Mobile Services (AIMS 2022)*, Lecture Notes in Computer Science, vol. 13729, pp. 64-75 (2022)
 - [BCOA: Blockchain Open Architecture](https://link.springer.com/chapter/10.1007/978-3-030-96140-4_7), Liang-Jie Zhang, **Sheng He**, Jing Zeng, Yishuang Ning, Huan Chen, *Proceedings of 28th International Conference on Web Service (ICWS 2021)*, Lecture Notes in Computer Science, vol. 12994, pp. 90–111 (2021)
-- [A review of deep learning based speech synthesis](https://www.mdpi.com/2076-3417/9/19/4050), Yishuang Ning, **Sheng He**, Zhiyong Wu, Chunxiao Xing, Liang-Jie Zhang, *Applied Sciences* 9 (19), 4050 (2019)
+- [A Review of Deep Learning Based Speech Synthesis](https://www.mdpi.com/2076-3417/9/19/4050), Yishuang Ning, **Sheng He**, Zhiyong Wu, Chunxiao Xing, Liang-Jie Zhang, *Applied Sciences* 9 (19), 4050 (2019)
 - [Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services](https://link.springer.com/chapter/10.1007/978-3-030-23404-1_4), **Sheng He**, Yishuang Ning, Huan Chen, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of Second International Conference on Blockchain (ICBC 2019)*, Lecture Notes in Computer Science, vol. 11521, pp. 49–64 (2019)
 - [The Development Trend of Intelligent Speech Interaction](https://link.springer.com/chapter/10.1007/978-3-030-23407-2_14), Yishuang Ning, **Sheng He**, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of Third International Conference on Cognitive Computing (ICCC 2019)*, Lecture Notes in Computer Science, vol. 11518, pp. 169–179 (2019)
-- [A business-oriented schema for blockchain network operation](https://link.springer.com/chapter/10.1007/978-3-319-94478-4_21), **Sheng He**, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of First International Conference on Blockchain (ICBC 2018)*, Lecture Notes in Computer Science, vol. 10974, pp. 277–284 (2018)
+- [A Business-Oriented Schema for Blockchain Network Operation](https://link.springer.com/chapter/10.1007/978-3-319-94478-4_21), **Sheng He**, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of First International Conference on Blockchain (ICBC 2018)*, Lecture Notes in Computer Science, vol. 10974, pp. 277–284 (2018)
 - [Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model](https://aip.scitation.org/doi/10.1063/1.4989716), **He Sheng**, Ronald E. Waltz, Gary M. Staebler, *Physics of Plasmas* 24 (7), 072305 (2017)
 - [Kinetic transport simulation of energetic particles](https://iopscience.iop.org/article/10.1088/0029-5515/56/5/056004/meta), **He Sheng**, Ronald E. Waltz, *Nuclear Fusion* 56 (5), 056004 (2016)
 
@@ -120,10 +120,22 @@ type: "about"
 - 2013年8月6日至10日，中国桂林，第七届全国青年计算物理学术会议
 - 2013年7月29日至8月1日，中国成都，核工业西南物理研究院（[585所](https://www.swip.ac.cn/)）暑期实践活动
 - 2013年7月22日至27日，中国武汉，2013年度中国等离子体物理[暑期学校](http://www.ipp.cas.cn/tzgg/tz_zhb/201306/W020130616727665840228.pdf)
+
+### 评审工作
+
 - 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)国际服务会议联盟（SCF）组织委员会成员
+- 2023年9月23日至26日，美国火奴鲁鲁，国际元宇宙学术会议（[METAVERSE 2023](https://www.servicessociety.org/metaverse/2023)），程序委员会主席
 - 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家
-- **期刊审稿人：** IEEE Transactions on Services Computing ([IEEE-TSC](https://www.computer.org/csdl/journal/sc))、IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/))、[IEEE Access](https://ieeeaccess.ieee.org/)、SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))、International Journal of Web Services Research ([IJWSR](https://www.igi-global.com/journal/international-journal-web-services-research/1079))、[IEEE Software](https://www.computer.org/csdl/magazine/so)
+
+**期刊审稿：**
+
+- IEEE Transactions on Services Computing ([IEEE-TSC](https://www.computer.org/csdl/journal/sc))
+- IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/))
+- [IEEE Access](https://ieeeaccess.ieee.org/)
+- SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))
+- International Journal of Web Services Research ([IJWSR](https://www.igi-global.com/journal/international-journal-web-services-research/1079))
+- [IEEE Software](https://www.computer.org/csdl/magazine/so)
 
 ### 发明专利
 

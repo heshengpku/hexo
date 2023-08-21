@@ -39,13 +39,13 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
   
 ### Publications
 
-- [A Blockchain-based Micro-services Architecture for Distributed Business](https://link.springer.com/chapter/10.1007), **Sheng He**, Yishuang Ning, Dengbin Xiong, Junhui Ma, *Proceedings of 6th International Conference on Blockchain (ICBC 2023)*, Lecture Notes in Computer Science, vol. xxxxx, pp. xx–xx (2023) *accepted and to be published*
+- [A Blockchain-Based Micro-Services Architecture for Distributed Business](https://link.springer.com/chapter/10.1007), **Sheng He**, Yishuang Ning, Dengbin Xiong, Junhui Ma, *Proceedings of 6th International Conference on Blockchain (ICBC 2023)*, Lecture Notes in Computer Science, vol. xxxxx, pp. xx–xx (2023) *accepted and to be published*
 - [Chinese Text Classification Using BERT and Flat-Lattice Transformer](https://link.springer.com/chapter/10.1007/978-3-031-23504-7_5), Haifeng Lv, Yishuang Ning, Ke Ning, Xiaoyu Ji, **Sheng He**, *Proceedings of 11th International Conference on Artificial Intelligence and Mobile Services (AIMS 2022)*, Lecture Notes in Computer Science, vol. 13729, pp. 64-75 (2022)
 - [BCOA: Blockchain Open Architecture](https://link.springer.com/chapter/10.1007/978-3-030-96140-4_7), Liang-Jie Zhang, **Sheng He**, Jing Zeng, Yishuang Ning, Huan Chen, *Proceedings of 28th International Conference on Web Service (ICWS 2021)*, Lecture Notes in Computer Science, vol. 12994, pp. 90–111 (2021)
-- [A review of deep learning based speech synthesis](https://www.mdpi.com/2076-3417/9/19/4050), Yishuang Ning, **Sheng He**, Zhiyong Wu, Chunxiao Xing, Liang-Jie Zhang, *Applied Sciences* 9 (19), 4050 (2019)
+- [A Review of Deep Learning Based Speech Synthesis](https://www.mdpi.com/2076-3417/9/19/4050), Yishuang Ning, **Sheng He**, Zhiyong Wu, Chunxiao Xing, Liang-Jie Zhang, *Applied Sciences* 9 (19), 4050 (2019)
 - [Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services](https://link.springer.com/chapter/10.1007/978-3-030-23404-1_4), **Sheng He**, Yishuang Ning, Huan Chen, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of Second International Conference on Blockchain (ICBC 2019)*, Lecture Notes in Computer Science, vol. 11521, pp. 49–64 (2019)
 - [The Development Trend of Intelligent Speech Interaction](https://link.springer.com/chapter/10.1007/978-3-030-23407-2_14), Yishuang Ning, **Sheng He**, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of Third International Conference on Cognitive Computing (ICCC 2019)*, Lecture Notes in Computer Science, vol. 11518, pp. 169–179 (2019)
-- [A business-oriented schema for blockchain network operation](https://link.springer.com/chapter/10.1007/978-3-319-94478-4_21), **Sheng He**, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of First International Conference on Blockchain (ICBC 2018)*, Lecture Notes in Computer Science, vol. 10974, pp. 277–284 (2018)
+- [A Business-Oriented Schema for Blockchain Network Operation](https://link.springer.com/chapter/10.1007/978-3-319-94478-4_21), **Sheng He**, Chunxiao Xing, Liang-Jie Zhang, *Proceedings of First International Conference on Blockchain (ICBC 2018)*, Lecture Notes in Computer Science, vol. 10974, pp. 277–284 (2018)
 - [Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model](https://aip.scitation.org/doi/10.1063/1.4989716), **He Sheng**, Ronald E. Waltz, Gary M. Staebler, *Physics of Plasmas* 24 (7), 072305 (2017)
 - [Kinetic transport simulation of energetic particles](https://iopscience.iop.org/article/10.1088/0029-5515/56/5/056004/meta), **He Sheng**, Ronald E. Waltz, *Nuclear Fusion* 56 (5), 056004 (2016)
 
@@ -120,10 +120,22 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - 7th National Youth Conference on Computational Physics, August 6 - 10, 2013, Guilin, China
 - Summer Practice, Southwestern Institute of Physics ([SWIP](https://www.swip.ac.cn/)), July 29 - August 1, 2013, Chengdu, China
 - 2013 Chinese Summer School on Plasma Physics ([CSSPP13](http://www.ipp.cas.cn/tzgg/tz_zhb/201306/W020130616727665840228.pdf)), July 22 - 27, 2013, Wuhan, China
+
+### Reviews
+
 - Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/), [2022](http://icws.org/2022/), [2023](http://icws.org/2023/), Organization Committee Member
+- 2023 International Conference on Metaverse ([METAVERSE 2023](https://www.servicessociety.org/metaverse/2023)), Organizing Committee Program Chair, September 23 - 26, 2023, Honolulu, HI, USA
 - [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), Final of Internet and Mobile Internet, Technical Review Expert, October 28, 2021, Shenzhen, China
 - [12th Shenzhen Innovation and Entrepreneurship Competition](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html), Semifinal, Technical Review Expert, September 7, 2020, Shenzhen, China
-- **Journal Reviews:** IEEE Transactions on Services Computing ([IEEE-TSC](https://www.computer.org/csdl/journal/sc)), IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/)), [IEEE Access](https://ieeeaccess.ieee.org/), SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts)), International Journal of Web Services Research ([IJWSR](https://www.igi-global.com/journal/international-journal-web-services-research/1079)), [IEEE Software](https://www.computer.org/csdl/magazine/so)
+
+**Journal Reviews:**
+
+- IEEE Transactions on Services Computing ([IEEE-TSC](https://www.computer.org/csdl/journal/sc))
+- IEEE Transactions on Engineering Management ([IEEE-TEM](https://www.ieee-tems.org/ieee-transactions-on-engineering-management/))
+- [IEEE Access](https://ieeeaccess.ieee.org/)
+- SCIENTIA SINICA Informationis ([SSI](https://engine.scichina.com/publisher/scp/journal/SSI?slug=abstracts))
+- International Journal of Web Services Research ([IJWSR](https://www.igi-global.com/journal/international-journal-web-services-research/1079))
+- [IEEE Software](https://www.computer.org/csdl/magazine/so)
 
 ### Patents
 
