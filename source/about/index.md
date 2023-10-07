@@ -8,7 +8,7 @@ type: "about"
 
 高级工程师，现任金蝶国际软件集团高级研究员，负责金蝶云苍穹PaaS平台前沿核心技术及企业场景解决方案研发工作，参与规划和开发金蝶云苍穹平台、企业级数据服务平台、区块链服务平台及其标杆客户的应用。研究兴趣为运用大数据、人工智能、区块链、物联网、元宇宙等新一代信息技术提升企业级云服务软件工程研究与应用能力，擅长跨学科及交叉领域的新技术攻关及成果转化。参与广东省重点领域研发计划项目并担任课题负责人。担任深圳市科技专家库入库专家和深圳市科技创新委员会项目评审专家。担任首届广东省区块链和分布式记账技术标准化技术委员会委员。曾获2020年数字中国创新大赛一等奖。
 
-2017年毕业于北京大学，获理学博士学位，北京大学优秀毕业生。就读博士期间，获北京大学研究生最高奖学金——校长奖学金，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，为清华大学与金蝶软件（中国）有限公司联合培养博士后，以“优秀”评审结果出站，是全国首批区块链方向博士后之一。2018年至2020年，主持深圳市企业级区块链技术应用工程研究中心项目并担任技术带头人。2020年至2022年，参与工信部工业互联网创新发展工程项目并担任项目参与单位负责人。近年来，发表SCI、EI检索期刊或会议论文8篇，授权国家发明专利9项。
+2017年毕业于北京大学，获理学博士学位，北京大学优秀毕业生。就读博士期间，获北京大学研究生最高奖学金——校长奖学金，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，在清华大学和金蝶软件（中国）有限公司计算机科学与技术学科从事博士后研究工作，以“优秀”评审结果出站，是全国首批区块链方向博士后之一。2018年至2020年，主持深圳市企业级区块链技术应用工程研究中心项目并担任技术带头人。2020年至2022年，参与工信部工业互联网创新发展工程项目并担任项目参与单位负责人。近年来，发表SCI、EI检索期刊或会议论文9篇，授权国家发明专利9项。
 
 ### 教育背景
 
@@ -39,7 +39,7 @@ type: "about"
   
 ### 发表文章
 
-- [A Blockchain-Based Micro-Services Architecture for Distributed Business](https://link.springer.com/chapter/10.1007), **Sheng He**, Yishuang Ning, Dengbin Xiong, Junhui Ma, *Proceedings of 6th International Conference on Blockchain (ICBC 2023)*, Lecture Notes in Computer Science, vol. xxxxx, pp. xx–xx (2023) *accepted and to be published*
+- [A Blockchain-Based Micro-services Architecture for Distributed Business](https://link.springer.com/chapter/10.1007/978-3-031-44920-8_3), **Sheng He**, Yishuang Ning, Dengbin Xiong, Junhui Ma, *Proceedings of 6th International Conference on Blockchain (ICBC 2023)*, Lecture Notes in Computer Science, vol. 14206, pp. 38–53 (2023)
 - [Chinese Text Classification Using BERT and Flat-Lattice Transformer](https://link.springer.com/chapter/10.1007/978-3-031-23504-7_5), Haifeng Lv, Yishuang Ning, Ke Ning, Xiaoyu Ji, **Sheng He**, *Proceedings of 11th International Conference on Artificial Intelligence and Mobile Services (AIMS 2022)*, Lecture Notes in Computer Science, vol. 13729, pp. 64-75 (2022)
 - [BCOA: Blockchain Open Architecture](https://link.springer.com/chapter/10.1007/978-3-030-96140-4_7), Liang-Jie Zhang, **Sheng He**, Jing Zeng, Yishuang Ning, Huan Chen, *Proceedings of 28th International Conference on Web Service (ICWS 2021)*, Lecture Notes in Computer Science, vol. 12994, pp. 90–111 (2021)
 - [A Review of Deep Learning Based Speech Synthesis](https://www.mdpi.com/2076-3417/9/19/4050), Yishuang Ning, **Sheng He**, Zhiyong Wu, Chunxiao Xing, Liang-Jie Zhang, *Applied Sciences* 9 (19), 4050 (2019)
@@ -57,7 +57,7 @@ type: "about"
 - [金蝶软件（中国）有限公司](http://www.kingdee.com/)技术与产品委员会，区块链专业委员会秘书长（2020年3月至2021年4月）
 - [金蝶软件（中国）有限公司](http://www.kingdee.com/)战略投资委员会，业务评审专业委员会委员（2020年4月至2021年3月）
 - 深圳市战略性新兴产业扶持计划，深圳市企业级区块链技术应用工程研究中心，技术带头人（2018年7月至2020年12月，地市级，主持项目、排名第三、1380万元，项目编号：[S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html)）
-- [清华大学](https://www.tsinghua.edu.cn/)、[金蝶软件（中国）有限公司](http://www.kingdee.com/)，计算机科学与技术博士后（2017年12月至2019年12月，工作期满评审结果为“优秀”）
+- [清华大学](https://www.tsinghua.edu.cn/)、[金蝶软件（中国）有限公司](http://www.kingdee.com/)，计算机科学与技术学科，博士后研究工作（2017年12月至2019年12月，工作期满评审结果为“优秀”）
 - [General Atomics](https://www.ga.com/)，国家公派联合培养博士研究生（获得[CSC](https://www.csc.edu.cn/)留学资助，2015年12月至2016年12月，美国圣迭戈）
 
 ### 奖项荣誉
@@ -124,7 +124,7 @@ type: "about"
 ### 评审工作
 
 - 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)国际服务会议联盟（SCF）组织委员会成员
-- 2023年9月23日至26日，美国火奴鲁鲁，国际元宇宙学术会议（[METAVERSE 2023](https://www.servicessociety.org/metaverse/2023)），程序委员会主席
+- 2023年9月23日至26日，美国火奴鲁鲁，国际元宇宙学术会议（[METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)），程序委员会主席
 - 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家
 
@@ -149,6 +149,7 @@ type: "about"
 | [区块链随机共识方法、装置、计算机设备和存储介质](https://patents.google.com/patent/CN109785130A/zh)     | **何晟**;陈桓;曾晶;张良杰                                                   | 201811542399.0 | 2018-12-17 | CN109785130A | 2019-05-21 | 2021-05-28 |
 | [数字身份验证方法、装置、计算机设备和存储介质](https://patents.google.com/patent/CN109587154A/zh)       | **何晟**;梁勇;曾凯柔;曾晶;邓理平;陈桓;张良杰                                | 201811535255.2 | 2018-12-14 | CN109587154A | 2019-04-05 | 2021-10-15 |
 | [基于区块链的组网方法、装置、计算机设备和存储介质](https://patents.google.com/patent/CN109242467A/zh)   | **何晟**;史凯;邓理平;曾晶;陈桓;张良杰                                       | 201811081589.7 | 2018-09-17 | CN109242467A | 2019-01-18 | 2021-01-01 |
+| [基于区块链的售后信息处理方法、装置和计算机设备](https://patents.google.com/patent/CN116452214A/zh)     | 杨杰;杨波;**何晟**                                                          | 202310097511.9 | 2023-01-18 | CN116452214A | 2023-07-18 |            |
 | [基于区块链的图片处理方法及相关设备](https://patents.google.com/patent/CN115866074A/zh)                 | 任俊;**何晟**;林锦旋                                                        | 202211507019.6 | 2022-11-29 | CN115866074A | 2023-03-28 |            |
 | [一种区块链网络的部署方法及装置](https://patents.google.com/patent/CN115348168A/zh)                     | 任俊;**何晟**;赵龙涛                                                        | 202210862902.0 | 2022-07-21 | CN115348168A | 2022-11-15 |            |
 | [基于区块链网络的数据存储方法、装置、设备和存储介质](https://patents.google.com/patent/CN114840604A/zh) | 任俊;**何晟**;林锦旋                                                        | 202210509407.1 | 2022-05-11 | CN114840604A | 2022-08-02 |            |
