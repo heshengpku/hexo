@@ -6,7 +6,7 @@ type: "about"
 
 ## HE, Sheng
 
-He Sheng, with a Professional Title of Senior Engineer, is a Senior Research Fellow at Kingdee International Software Group. He is responsible for the R&D of the advanced and core technologies of the Platform-as-a-Serive (PaaS) Product called Kingdee Cosmic and its enterprise solutions. He contributes to the products of Kingdee Cosmic Cloud Platform, Data Services Platform, Blockchain Services Platform, and applications for key customers. His research interests are to use emerging information technologies, including Big Data, Artificial Intelligence (AI), Blockchain, Internet of Things (IoT), and Metaverse, to enhance software engineering research and applications for enterprise cloud services. He excels at conducting interdisciplinary research on novel technologies and translating findings into impactful outcomes. He is a Sub-Project Leader of Guangdong Province's Key-Area Research and Development Program. He is an approved expert in the Shenzhen Science and Technology Expert Database and an expert of Project Review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of the Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee. He won the First Prize in the 2020 Digital China Innovation Contest.
+He Sheng, with a Professional Title of Senior Engineer, is a Senior Research Fellow at Kingdee International Software Group. He is responsible for the R&D of the advanced and core technologies of the Platform-as-a-Serive (PaaS) Product called Kingdee Cosmic and its enterprise solutions. He contributes to the products of Kingdee Cosmic Cloud Platform, Data Services Platform, Blockchain Services Platform, and applications for key customers. His research interests are to use emerging information technologies, including Big Data, Artificial Intelligence (AI), Blockchain, Internet of Things (IoT), and Metaverse, to enhance software engineering research and applications for enterprise cloud services. He excels at conducting interdisciplinary research on novel technologies and translating findings into impactful outcomes. He is a Sub-Project Leader of Guangdong Province's Key-Area Research and Development Program. He is an approved expert in the Shenzhen Science and Technology Expert Database and an expert of Project Review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of the Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee. He won the First Prize of 2023 Shenzhen Science and Technology Progress Award and the First Prize in the 2020 Digital China Innovation Contest.
 
 He graduated from Peking University in 2017 with a Doctor of Science Degree and was an Excellent Graduate of Peking University. During his doctoral studies, he won the Principal Scholarship (Peking University's highest honor for graduate students). He was also a Visiting Student in the USA, sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he worked as a Postdoctoral Fellow in Computer Science and Technology at Tsinghua University and Kingdee, completing with an Excellent evaluation and becoming one of China's first postdoctoral fellows on Blockchain. From 2018 to 2020, he served as Technical Leader of the Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications. From 2020 to 2022, he served as a Sub-Project Leader of the Industrial Internet Innovation and Development Project under China's Ministry of Industry and Information Technology. He has published nine papers in international journals and conferences indexed by SCI/EI and granted nine patents.
 
@@ -17,17 +17,17 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Current Positions
 
-- **Senior Research Fellow, [Kingdee International Software Group](http://www.kingdee.com/)**, 08/2017
-- [Senior Engineer](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg), Professional Title on Artificial Intelligence of Guangdong Province, 04/2023
-- Job Title's Leader, Kingdee Qualification Professional Committee, Research Fellow in Research Type of Technical Group, 04/2022
-- Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), 03/2022
-- Member, Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)), 04/2020
-- Member, Shenzhen Entrepreneurship and Innovation Federation ([SEIF](http://seif.org.cn/)), 04/2019
-- Member, Shenzhen Association for Artificial Intelligence ([SAAI](https://saai.net.cn/)), 03/2019
-- Member, China Computer Federation ([CCF](https://www.ccf.org.cn/)), 12/2017
-- Member, Services Society ([S2](http://www.servicessociety.org/)), 10/2017
-- Approved Expert, The Shenzhen [Science and Technology Expert Database](http://system.szexpert.org/egrantweb/), 06/2022
-- Expert of Project Review, The [Expert Database](http://expert.hiic.com.cn/) of Shenzhen Science and Technology Innovation Commission, 12/2019
+- **Senior Research Fellow, [Kingdee International Software Group](http://www.kingdee.com/)**, August 2017
+- [Senior Engineer](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg), Professional Title on Artificial Intelligence of Guangdong Province, April 2023
+- Job Title's Leader, Kingdee Qualification Professional Committee, Research Fellow in Research Type of Technical Group, April 2022
+- Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), March 2022
+- Member, Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)), April 2020
+- Member, Shenzhen Entrepreneurship and Innovation Federation ([SEIF](http://seif.org.cn/)), April 2019
+- Member, Shenzhen Association for Artificial Intelligence ([SAAI](https://saai.net.cn/)), March 2019
+- Member, China Computer Federation ([CCF](https://www.ccf.org.cn/)), December 2017
+- Member, Services Society ([S2](http://www.servicessociety.org/)), October 2017
+- Approved Expert, The Shenzhen [Science and Technology Expert Database](http://system.szexpert.org/egrantweb/), June 2022
+- Expert of Project Review, The [Expert Database](http://expert.hiic.com.cn/) of Shenzhen Science and Technology Innovation Commission, December 2019
 
 ### Research Interests
 
@@ -51,17 +51,19 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Experiences
 
-- Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, 8/2020 - 8/2023 ([No.2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html))
-- Project Leader, Key Technology Development of Cross-Financial Industry Intelligent Engine System Based on Trusted Isolated Federal Learning, General Program of Shenzhen Science and Technology Plan, 9/2020 - 9/2022 ([No.JSGG20191129110603831](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10581951.html))
-- Sub-project Leader, Supply Chain Management System Based on "Industrial Internet Platform + Blockchain", 2020 Industrial Internet Innovation and Development Project from Ministry of Industry and Information Technology -- Intelligent Application Project Based on Industrial Internet Platform, 9/2020 - 9/2022
-- Secretary General of Blockchain Professional Committee, Kingdee Technical and Product Committee, [Kingdee Group](http://www.kingdee.com/), 3/2020 - 4/2021
-- Member of Business Review Committee, Kingdee Strategic Investment Committee, [Kingdee Group](http://www.kingdee.com/), 4/2020 - 3/2021
-- Project Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Strategic Emerging Industry Support Funding, 7/2018 - 12/2020 ([No.S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html))
-- Postdoctoral Fellow on Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/) & [Kingdee International Software Group](http://www.kingdee.com/), Shenzhen, China, 12/2017 - 12/2019 (Works Evaluated as Excellent)
-- Visiting Student, [General Atomics](https://www.ga.com/), San Diego, USA, 12/2015 - 12/2016 (Sponsored by [CSC](https://www.csc.edu.cn/))
+- Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, August 2020 - August 2023 ([No.2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html))
+- Project Leader, Key Technology Development of Cross-Financial Industry Intelligent Engine System Based on Trusted Isolated Federal Learning, General Program of Shenzhen Science and Technology Plan, September 2020 - September 2022 ([No.JSGG20191129110603831](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10581951.html))
+- Sub-project Leader, Supply Chain Management System Based on "Industrial Internet Platform + Blockchain", 2020 Industrial Internet Innovation and Development Project from Ministry of Industry and Information Technology -- Intelligent Application Project Based on Industrial Internet Platform, September 2020 - September 2022
+- Secretary General of Blockchain Professional Committee, Kingdee Technical and Product Committee, [Kingdee Group](http://www.kingdee.com/), September 2019 - June 2021
+- Member of Business Review Committee, Kingdee Strategic Investment Committee, [Kingdee Group](http://www.kingdee.com/), April 2020 - March 2021
+- Member of Financial Management New Era Professional Committee, Kingdee Technical and Product Committee, [Kingdee Group](http://www.kingdee.com/), September 2019 - March 2020
+- Project Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Strategic Emerging Industry Support Funding, July 2018 - December 2020 ([No.S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html))
+- Postdoctoral Fellow on Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/) & [Kingdee International Software Group](http://www.kingdee.com/), Shenzhen, China, December 2017 - December 2019 (Works Evaluated as Excellent)
+- Visiting Student, [General Atomics](https://www.ga.com/), San Diego, USA, December 2015 - December 2016 (Sponsored by [CSC](https://www.csc.edu.cn/))
 
 ### Awards & Honors
 
+- First Prize of Science and Technology Progress Award in [Shenzhen Science and Technology Award](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html) (2023)
 - Excellent Individual of Kingdee (2020)
 - Excellent Team of Kingdee Cosmic (2020)
 - First Prize of [Digital China Innovation Contest](http://www.szzg.gov.cn/2020/cxds/) (2020)
@@ -74,17 +76,17 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Products
 
-- Kingdee [Cosmic Cloud Platform](https://www.kingdee.com/products/cosmic_platform.html), Composable & Low-Code & Native-Cloud Enterprise Platform as a Service (PaaS), Key Member, since 03/2020
-- Kingdee [Blockchain Services Platform](https://www.kingdee.com/products/cosmic_blockchain_services.html), Low-Code and One-Stop Enterprise Blockchain Service, Leader, 12/2017 - 01/2023
-- Kingdee [KChain](https://www.kingdeeabc.com/), Leader, 01/2020 - 12/2022
+- Kingdee [Cosmic Cloud Platform](https://www.kingdee.com/products/cosmic_platform.html), Composable & Low-Code & Native-Cloud Enterprise Platform as a Service (PaaS), Key Member, since March 2020
+- Kingdee [Blockchain Services Platform](https://www.kingdee.com/products/cosmic_blockchain_services.html), Low-Code and One-Stop Enterprise Blockchain Service, Leader, December 2017 - January 2023
+- Kingdee [KChain](https://www.kingdeeabc.com/), Leader, January 2020 - December 2022
   - [Typical Application Cases of Blockchain in 2022](https://www.miit.gov.cn/jgsj/xxjsfzs/xxgk/art/2023/art_07ae4924d51d44bd93b0b0e0108d071a.html), Ministry of Industry and Information Technology
   - [Excellent Case of Commercial Science and Technology Innovation Applications in 2022](http://commerce.sz.gov.cn/gkmlpt/content/10/10453/post_10453289.html#523), National Conference on Electronic Commerce Works, Ministry of Commerce
   - [China Top 100 Industrial Blockchain Enterprises in 2022](https://dsj.guizhou.gov.cn/xwzx/gnyw/202207/t20220715_75561605.html), 2022 China Industrial Blockchain Conference
   - [Annual Award for Blockchain Industry Contribution](https://www.tuoluo.cn/article/detail-10036556.html), The 5th Golden Gyro Awards Ceremony
   - [First Prize of Blockchain Track](http://www.szzg.gov.cn/2020/cxds/), 2020 Digital China Innovation Contest
   - [The Second Batch of References on Domestic Blockchain Information Services](http://www.cac.gov.cn/2019-10/18/c_1572931934637684.htm?from=timelineAMPLisappinstalled=0), Cyberspace Administration of China
-- Kingdee Service Blockchain, Key Member, 01/2019 - 12/2019
-- Kingdee Financial Blockchain, Key Member, 01/2018 - 12/2018
+- Kingdee Service Blockchain, Key Member, January 2019 - December 2019
+- Kingdee Financial Blockchain, Key Member, January 2018 - December 2018
 
 ### Activities
 

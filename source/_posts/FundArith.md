@@ -9,7 +9,7 @@ tags:
 mathjax: true
 ---
 
-2022年，通读了《陶哲轩实分析》一书，其从Peano公理出发依次定义自然数、整数、有理数、实数和加减乘除、极限等运算，一气呵成、让人膜拜。
+2022年，通读了《陶哲轩实分析》一书。其从Peano公理出发，依次定义自然数、整数、有理数、实数和加减乘除、极限等运算，一气呵成、让人膜拜。
 
 因为是关于数学分析的书，Tao只在第三章讲了集合论，而数理逻辑还在附录里。
 
@@ -66,7 +66,7 @@ mathjax: true
 - $\neg p\implies \neg q$称为否命题
 - $\neg q\implies \neg p$称为逆否命题
 
-对于一个假命题$p$，即可推导出真命题，也可推导出假命题，所以$p$为假时，$p\implies q$是恒为真的。
+**对于一个假命题$p$，即可推导出真命题，也可推导出假命题，所以$p$为假时，$p\implies q$是恒为真的。**
 
 也就是说，如果以假命题为条件出发，推导得出的数字结论没有意义。
 
@@ -76,7 +76,7 @@ mathjax: true
 
 命题逻辑里最“简单”的证明方法就是使用真值表。
 
-下面证明，如果$p$与$q$等价，那么$p$为真且$q$为真，或者$p$为假且$q$为假，即$p$和$q$一定同真或同假。
+下面证明：如果$p$与$q$等价，那么$p$为真且$q$为真，或者$p$为假且$q$为假，即$p$和$q$一定同真或同假。
 
 `证明`：根据定义，有$p\iff q$即$(p\implies q) \wedge (q\implies p)$真值表：
 $$\begin{array}{c|c|c|c|c}
@@ -89,7 +89,7 @@ F&F&T&T&T
 
 通过真值表可以看到，当$p\iff q$为T时，必须$p\implies q$和$q\implies p$同时为真，这时$p$和$q$只能是同真或同假。反之，当$p$和$q$同真或同假时，$p\iff q$也一定为真。$\square$
 
-下面证明，原命题与逆否命题等价。
+下面证明：原命题与逆否命题等价。
 
 `证明`：根据蕴涵的定义，原命题的真值表为：
 $$\begin{array}{c|c|c}
@@ -111,7 +111,7 @@ F&F&T&T&T
 
 ### 2）一阶逻辑
 
-一阶逻辑和命题逻辑的不同之处在于，一阶逻辑包含**量词**。
+一阶逻辑，又称谓词逻辑，和命题逻辑的不同之处在于，一阶逻辑包含**量词**：
 
 1. 存在：$\exists$
 2. 任意：$\forall$
@@ -304,17 +304,17 @@ $x \in B \iff x \in A \wedge P(x) \iff x \text{是任意归纳集合的元素}$�
 
 <font color=blue>**定理3（数学归纳法）**：自然数集$\mathbf{N}$的任意子集，如果它是归纳集合，那么它等于自然数集。</font>
 
-`证明`：设自然数集的子集$T=\lbrace n \in \mathbf{N} | P(x) \rbrace$，即$T \subseteq \mathbf{N}$为归纳集合；根据定理2，自然数集是归纳集合的子集，即$\mathbf{N} \subseteq T$，所以$T = \mathbf{N}$。$\square$
+`证明`：设自然数集的子集$T \subseteq \mathbf{N}$为归纳集合；根据定理2，自然数集是归纳集合的子集，即$\mathbf{N} \subseteq T$，所以$T = \mathbf{N}$。$\square$
 
 <font color=blue>**定理4**：任意一个非$0$的自然数都是某个自然数的后继。</font>
 
 `证明`：设自然数集的子集$T=\lbrace n \in \mathbf{N} | n = 0 \vee (\exists p \in \mathbf{N}: n = p++) \rbrace$。因此$0 \in T$，并且如果$m \in T$，根据子集的定义，则$m \in \mathbf{N}$及$m++ \in \mathbf{N}$，即对于$m++$来说存在$p = m \in \mathbf{N}$满足$m++ = p++$，那么$m++ \in T$。因此$T$是归纳集合，根据定理3（数学归纳法），可得$T = \mathbf{N}$。$\square$
 
-为了证明Peano假设的第四条，需要先引入一个“传递集”（transitive set）的概念。
+为了证明Peano公理的第四条，需要先引入一个“传递集”（transitive set）的概念。
 
 **传递集**：如果集合$A$的元素的任意元素也是$A$的一个元素，那么集合$A$就被称为传递集，即$\forall x, \forall a : x \in a \wedge a \in A \implies x \in A$。
 
-等价表述有：集合$A$的并集是自身的子集$\bigcup A \subseteq A$，集合$A$的元素也是自身的子集$a \in A \implies a \subseteq  A$。
+等价表述有：集合$A$的并集是自身的子集$\bigcup A \subseteq A$；集合$A$的元素也是自身的子集$a \in A \implies a \subseteq  A$。
 
 <font color=blue>**定理5**：对于传递集$a$，有$\bigcup (a++) = a$。</font>
 
@@ -429,14 +429,55 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 
 <font color=blue>**引理（递归定义）**：如果对集合$A$，$a \in A$且存在函数$F: A \rightarrow A$，那么存在唯一的函数$h: \mathbf{N} \rightarrow A$使得$h(0)=a$且对任意的自然数$n$有$h(n++)=F(h(n))$。即如果使用记号$a_n=h(n)$，则（无限）序列$(a_0,a_1,a_2,...,a_n,...)$存在且唯一。</font>
 
-`证明`：把一个函数$v$称为“可接受的”，当且仅当$dom(v) \subseteq \mathbf{N} \wedge ran(v) \subseteq A$，并且满足以下条件：
+`证明`：*这个证明比较繁琐，参见Herbert B. Enderton的《Elements of Set Theory》第74-75页。*
+
+把一个函数$v$称为“可接受的”（acceptable），当且仅当$dom(v) \subseteq \mathbf{N} \wedge ran(v) \subseteq A$，并且满足以下条件：
 
 1. 如果$0 \in dom(v)$，那么$v(0)=a$；
 2. 如果$\forall n \in \mathbf{N}:n++ \in dom(v)$，那么$n \in dom(v)$且$v(n++)=F(v(n))$。
 
-设$B$是所有可接受的函数组成的集合，并且设$h=\bigcup B$，那么可以证明$h$满足引理的要求。即（1）$h$是一个函数；（2）$h$是可接受的；（3）$dom(h) = \mathbf{N}$；（4）$h$是唯一的。
+设$B$是所有可接受的函数组成的集合，并且设$h=\bigcup B$，因此$<n,y> \in h$当且仅当$<n,y>$是某个可接受的$v$的元素，即$v(n)=y$。
 
-这个证明比较繁琐，参见Herbert B. Enderton的《Elements of Set Theory》第74-75页，就不推了（实在推不动了）。$\square$
+那么我们可以证明$h$满足引理的要求，即（1）$h$是一个函数；（2）$h$是可接受的；（3）$dom(h) = \mathbf{N}$；（4）$h$是唯一的。
+
+（1）根据函数的定义，要证明$h$是一个函数，即证明两个可接受的函数如果有定义则值是相同的。
+
+设$S$为自然数的集合，且在这个自然数上$h(n)$有不多于一个的候选者：
+$$S = \lbrace n \in \mathbf{N} | 对最多一个y, <n,y> \in h \rbrace$$
+
+验证$S$是归纳集合。首先，如果有$<0,y_1> \in h$和$<0,y_2> \in h$，那么存在可接受的函数$v_1$和$v_2$使得$v_1(0)=y_1$且$v_1(0)=y_2$。根据条件1，$y_1 = a = y_2$，因此$0 \in S$。
+
+然后，假设$k \in S$，证明$k++ \in S$。如果有$<k++,y_1> \in h$和$<k++,y_2> \in h$，同理存在可接受的函数$v_1$和$v_2$使得$v_1(k++)=y_1$且$v_1(k++)=y_2$。根据条件2，$y_1=v_1(k++)=F(v_1(k))$且$y_2=v_2(k++)=F(v_2(k))$。根据归纳假设$k \in S$，即$v_1(k)=v_2(k)$，所以$y_1=F(v_1(k))=F(v_2(k))=y_2$，即$k++ \in S$。
+
+所以$S$是归纳集合，即$S=\mathbf{N}$，因此$h$是一个函数。
+
+（2）要证明$h$是可接受的。已经证明了$h$是一个函数，并且显然有$dom(h) \subseteq \mathbf{N} \wedge ran(h) \subseteq A$。
+
+首先，证明可接受的条件1。如果$0 \in dom(h)$，那么一定存在某个可接受的$v$使得$v(0)=h(0)$。因为$v(0)=a$，所以$h(0)=a$。
+
+然后，证明可接受的条件2。假设$n++ \in dom(h)$，那么一定存在某个可接受的$v$使得$v(n++)=h(n++)$。因为$v$是可接受的，所以$n \in dom(v)$且$v(n)=h(n)$，那么$h(n++)=v(n++)=F(v(n))=F(h(n))$。
+
+因此$h$是可接受的。
+
+（3）要证明$dom(h) = \mathbf{N}$，即证明$dom(h)$是归纳集合。
+
+因为函数$\lbrace <0,a> \rbrace$是可接受的，因此$0 \in dom(h)$。
+
+假设$k \in dom(h)$，要证明$k++ \in dom(h)$。运用反证法，假设$k++ \notin dom(h)$，那么$v=h \cup \lbrace <k++, F(h(k))> \rbrace$是一个函数，且$dom(v) \subseteq \mathbf{N} \wedge ran(v) \subseteq A$，下面证明$v$是可接受的。
+
+因为$v(0)=h(0)=a$，满足条件1。对于条件2，$n++ \in dom(v)$可以分两种情况。如果$n++ \neq k++$，那么$n++ \in dom(h)$且$v(n++)=h(n++)=F(h(n))=F(v(n))$。另一方面，如果$n++ = k++$，即$n = k$，根据归纳假设$k \in dom(h)$，因此$v(k++)=F(h(k))=F(v(k))$。即满足条件2，所以$v$是可接受的。
+
+因为$v \subseteq h$，那么实际上$k++ \in dom(h)$。所以$dom(h)$是归纳集合，因此$dom(h) = \mathbf{N}$。
+
+（4）最后要证明$h$是唯一的。
+
+假设$h_1$和$h_2$都满足定理的结论，设集合$S = \lbrace n \in \mathbf{N} | h_1(n) = h_2(n) \rbrace$，要证明$S$是归纳集合。
+
+首先，根据条件1，$h_1(0) = a = h_2(0)$，所以$0 \in S$。
+
+然后，假设$k \in S$，要证明$k++ \in S$。因为已经证明$dom(h_1) = \mathbf{N}$和$dom(h_2) = \mathbf{N}$，根据条件2，$h_1(k++)=F(h_1(k))=F(h_2(k))=h_2(k++)$。
+
+因此$S$是归纳集合，$S = \mathbf{N}$即$h_1 = h_2$。$\square$
 
 **定义（加法）**：定义二元运算“$+$”，满足对任意自然数$m$，有$0+m=m$；并且对任意自然数$n$和$m$，有$(n++)+m=(n+m)++$。
 
@@ -544,8 +585,8 @@ $$x \in dom(R) \implies xRy \implies xRy \wedge yRx \implies xRx $$
 2. 如果$a \geq b$且$b \geq c$，则存在自然数$d$和$e$，满足$a=b+d$和$b=c+e$，代入并根据加法结合律有$a=(c+e)+d=c+(e+d)$且$(e+d)$是自然数，所以$a \geq c$；
 3. 如果$a \geq b$且$b \geq a$，则存在自然数$d$和$e$，满足$a=b+d$和$b=a+e$，代入有$a=a+e+d$，根据加法消去律有$0=e+d$，根据正数与自然数相加是正的，所以$e$和$d$都不是正数，即$e=d=0$，所以$a=b$；
 4. $a \geq b \iff \exists d \in \mathbf{N}: a = b+d \iff a+c = b+d+c = b+c+d \iff a+c \geq b+c$；
-5. 对$a < b$，存在正自然数$d$，满足满足$a=b+d$，所以$ac=bc+dc$。只需要证明正数$d$和正数$c$的乘积$dc$仍是正的。因为存在$e++=c$，所以$dc=d(e++)=de+d$，其中$de$是自然数、$d$是一个正数，所以$dc$是正的；
-6. $a < b$当前仅当存在正数$c$满足$b=a+c$，即存在自然数$d$满足$d++=c$，所以等价于$b=a+(d++)=(a++)+d$，即$a++ \leq b$；
+5. 对$a < b$，存在正自然数$d$，满足$a=b+d$，所以$ac=bc+dc$。只需要证明正数$d$和正数$c$的乘积$dc$仍是正的。因为存在$e++=c$，所以$dc=d(e++)=de+d$，其中$de$是自然数、$d$是一个正数，所以$dc$是正的；
+6. $a < b$当且仅当存在正数$c$满足$b=a+c$，即存在自然数$d$满足$d++=c$，所以等价于$b=a+(d++)=(a++)+d$，即$a++ \leq b$；
 7. $a < b \iff \exists c \in \mathbf{N}: b=a+c \wedge b \neq a$。如果$c=0$，那么$b=a$，矛盾，所以$b \neq a$时$c$是正数。反之，如果$b=a$，那么$b=b+0=a+c$，根据加法消去律，有$0=c$，所以$c$是正数时$b \neq a$。$\square$
 
 **自然数的序的三歧性**：对自然数$a$和$b$，下列三个命题中有且仅有一个是真的：
