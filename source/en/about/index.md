@@ -90,6 +90,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- Invited Attendee, Digital New Matter in Greater Bay Area Co-Creation Forum and 2023 Big Bay Computer Conference ([BBCC 2023](https://mp.weixin.qq.com/s/u3JbriBYHZAy5HbQwja7Mg)), December 3, 2023, Shenzhen, China
 - 2023 Lecturer of Undergraduate Cognitive Practice, School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), "Application Research on Privacy Computing in Enterprise Data Scenario", June 28, 2023, Shenzhen, China
 - Seminar on Future Development and Industrial Application of Large Model Technology, Shenzhen City Computer Federation, "Research on Large Model Technology and Applications in Enterprise Scenarios", May 20, 2023, Shenzhen, China
 - Seminar on Topic 2 of "Multi-Value-Chain Collaboration Technology and Method based on Third-party Platform", Network Collaborative Manufacturing and Smart Factories Special Fund in National Key Research and Development Program of China, May 15, 2023, Chengdu, China
