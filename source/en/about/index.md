@@ -64,6 +64,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Awards & Honors
 
+- Outstanding Services Awards of 2023 [Services Conference Federation](https://www.servicessociety.org/) (2023)
 - First Prize of Science and Technology Progress Award in [Shenzhen Science and Technology Award](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html) (2023)
 - Excellent Individual of Kingdee (2020)
 - Excellent Team of Kingdee Cosmic (2020)
@@ -91,6 +92,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- Organization Committee Member, 2023 Services Conference Federation ([SCF 2023](http://icws.org/2023)) and [11th China Big Data Industry Summit](https://mp.weixin.qq.com/s/yaWtNE0T7TEz5hyMRKijKA), Outstanding Services Awards, December 17, 2023, Shenzhen, China
 - Invited Attendee, Digital New Matter in Greater Bay Area Co-Creation Forum and 2023 Big Bay Computer Conference ([BBCC 2023](https://mp.weixin.qq.com/s/u3JbriBYHZAy5HbQwja7Mg)), December 3, 2023, Shenzhen, China
 - 2023 Lecturer of Undergraduate Cognitive Practice, School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), "Application Research on Privacy Computing in Enterprise Data Scenario", June 28, 2023, Shenzhen, China
 - Seminar on Future Development and Industrial Application of Large Model Technology, Shenzhen City Computer Federation, "Research on Large Model Technology and Applications in Enterprise Scenarios", May 20, 2023, Shenzhen, China
@@ -150,7 +152,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 | [Data query method, device, equipment and storage medium of block chain](https://patents.google.com/patent/CN114860807A/en)                             | **何晟**;任俊;赵龙涛                                                        | 202210508408.4  |     2022-05-11      |  CN114860807A   |     2022-08-05      |               |
 | [Data query method and device of block chain, computer equipment and storage medium](https://patents.google.com/patent/CN114860806A/en)                 | **何晟**;任俊;林锦旋                                                        | 202210508407.X  |     2022-05-11      |  CN114860806A   |     2022-08-05      |               |
 | [Block chain evidence storing method and device and computer equipment](https://patents.google.com/patent/CN113591162A/en)                              | **何晟**;雷凯;闵江松;陈佩淑;任俊;焦少帅;张良杰                              | 202111147675.5  |     2021-09-29      |  CN113591162A   |     2021-11-02      |  2022-02-15   |
-| [Data access method, data access device, computer-readable storage medium and computer equipment](https://patents.google.com/patent/CN110990883A/en)    | **何晟**;陈桓;张良杰                                                        | 201911155751.X  |     2019-11-22      |  CN110990883A   |     2020-04-10      |   No Grant    |
+| [Data access method, data access device, computer-readable storage medium and computer equipment](https://patents.google.com/patent/CN110990883A/en)    | **何晟**;陈桓;张良杰                                                        | 201911155751.X  |     2019-11-22      |  CN110990883A   |     2020-04-10      |      ---      |
 | [Block chain random consensus method and device, computer equipment and storage medium](https://patents.google.com/patent/CN109785130A/en)              | **何晟**;陈桓;曾晶;张良杰                                                   | 201811542399.0  |     2018-12-17      |  CN109785130A   |     2019-05-21      |  2021-05-28   |
 | [Digital identity verification method, device, computer equipment and storage medium](https://patents.google.com/patent/CN109587154A/en)                | **何晟**;梁勇;曾凯柔;曾晶;邓理平;陈桓;张良杰                                | 201811535255.2  |     2018-12-14      |  CN109587154A   |     2019-04-05      |  2021-10-15   |
 | [Block chain-based networking method and device, computer equipment and storage medium](https://patents.google.com/patent/CN109242467A/en)              | **何晟**;史凯;邓理平;曾晶;陈桓;张良杰                                       | 201811081589.7  |     2018-09-17      |  CN109242467A   |     2019-01-18      |  2021-01-01   |
@@ -164,4 +166,4 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 | [Block chain-based multi-person session data transmission method and system and computer equipment](https://patents.google.com/patent/CN111641559A/en)  | 任俊;**何晟**;杨波                                                          | 202010321568.9  |     2020-04-22      |  CN111641559A   |     2020-09-08      |  2022-02-15   |
 | [Data capture method, device, computer equipment and storage medium](https://patents.google.com/patent/CN109656778A/en)                                 | 蔡晓胜;陈桓;张良杰;**何晟**                                                 | 201811433738.1  |     2018-11-28      |  CN109656778A   |     2019-04-19      |  2022-07-12   |
 | [Financial accounting method, device, equipment and storage medium based on block chain](https://patents.google.com/patent/CN109493048A/en)             | 邓理平;曾晶;**何晟**;陈桓;张良杰                                            | 201811379166.3  |     2018-11-19      |  CN109493048A   |     2019-03-19      |  2020-12-29   |
-| [A kind of bookkeeping methods and system based on block chain technology](https://patents.google.com/patent/CN109242663A/en)                           | 曾晶;邓理平;**何晟**;陈桓;张良杰;闵江松                                     | 201811033849.3  |     2018-09-05      |  CN109242663A   |     2019-01-18      |   No Grant    |
+| [A kind of bookkeeping methods and system based on block chain technology](https://patents.google.com/patent/CN109242663A/en)                           | 曾晶;邓理平;**何晟**;陈桓;张良杰;闵江松                                     | 201811033849.3  |     2018-09-05      |  CN109242663A   |     2019-01-18      |      ---      |
