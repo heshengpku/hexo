@@ -8,7 +8,7 @@ type: "about"
 
 高级工程师，现任金蝶国际软件集团高级研究员，负责金蝶云苍穹PaaS平台前沿核心技术及企业场景解决方案研发工作，参与规划和开发金蝶云苍穹平台、企业级数据服务平台、区块链服务平台及其标杆客户的应用。研究兴趣为运用大数据、人工智能、区块链、物联网、元宇宙等新一代信息技术提升企业级云服务软件工程研究与应用能力，擅长跨学科及交叉领域的新技术攻关及成果转化。担任深圳市科技专家库入库专家和深圳市科技创新委员会项目评审专家。担任首届广东省区块链和分布式记账技术标准化技术委员会委员。获得2023年度深圳市科技进步一等奖、2020年数字中国创新大赛一等奖。
 
-2017年毕业于北京大学，获理学博士学位，北京大学优秀毕业生。就读博士期间，获北京大学研究生最高奖学金——校长奖学金，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，在清华大学和金蝶软件（中国）有限公司计算机科学与技术学科从事博士后研究工作，以“优秀”评审结果出站，是全国首批区块链方向博士后之一。近年来，主持并完成多项国家级、省部级科技攻关课题项目，担任SCI期刊IJWSR编委，发表SCI、EI检索期刊或会议论文9篇，授权国家发明专利9项。
+2017年毕业于北京大学，获理学博士学位，北京大学优秀毕业生。就读博士期间，获北京大学研究生最高奖学金——校长奖学金，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，在清华大学和金蝶软件（中国）有限公司计算机科学与技术学科从事博士后研究工作，以“优秀”评审结果出站，是全国首批区块链方向博士后之一。近年来，主持并完成多项国家级、省部级科技攻关课题项目，担任SCI期刊IJWSR编委，发表SCI、EI检索期刊或会议论文10篇，授权国家发明专利9项。
 
 ### 教育背景
 
@@ -40,6 +40,7 @@ type: "about"
   
 ### 发表文章
 
+- [Multi-Factor Water Level Prediction Based on IndRNN-Attention](https://link.springer.com/chapter/10.1007/978-3-031-51671-9_7), Haifeng Lv, Yishuang Ning, Ke Ning, **Sheng He**, Hongquan Lin, *Proceedings of 7th International Conference on Cognitive Computing (ICCC 2023)*, Lecture Notes in Computer Science, vol. 14207, pp. 89–99 (2023)
 - [A Blockchain-Based Micro-services Architecture for Distributed Business](https://link.springer.com/chapter/10.1007/978-3-031-44920-8_3), **Sheng He**, Yishuang Ning, Dengbin Xiong, Junhui Ma, *Proceedings of 6th International Conference on Blockchain (ICBC 2023)*, Lecture Notes in Computer Science, vol. 14206, pp. 38–53 (2023)
 - [Chinese Text Classification Using BERT and Flat-Lattice Transformer](https://link.springer.com/chapter/10.1007/978-3-031-23504-7_5), Haifeng Lv, Yishuang Ning, Ke Ning, Xiaoyu Ji, **Sheng He**, *Proceedings of 11th International Conference on Artificial Intelligence and Mobile Services (AIMS 2022)*, Lecture Notes in Computer Science, vol. 13729, pp. 64-75 (2022)
 - [BCOA: Blockchain Open Architecture](https://link.springer.com/chapter/10.1007/978-3-030-96140-4_7), Liang-Jie Zhang, **Sheng He**, Jing Zeng, Yishuang Ning, Huan Chen, *Proceedings of 28th International Conference on Web Service (ICWS 2021)*, Lecture Notes in Computer Science, vol. 12994, pp. 90–111 (2021)
@@ -52,15 +53,18 @@ type: "about"
 
 ### 重要经历
 
-- 广东省重点领域研发计划项目，自主可控的联盟区块链关键技术研究，课题负责人（2020年8月至2023年8月，省部级，参与项目、3100万元，主持课题、排名第一、1150万，项目编号：[2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html)）
-- 深圳市科技计划技术攻关面上项目，基于可信隔离联邦学习的跨金融业态智能引擎系统关键技术研发，课题负责人（2020年9月至2022年9月，地市级，主持项目、排名第三、615万元，项目编号：[JSGG20191129110603831](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10581951.html)）
-- 工信部2020年工业互联网创新发展工程——基于工业互联网平台的智能应用项目，基于“工业互联网平台+区块链”的供应链管理系统，项目参与单位负责人（2020年9月至2022年9月，国家级，参与项目、10000万元，主持课题、排名第一、2003.8万元）
 - [金蝶软件（中国）有限公司](http://www.kingdee.com/)技术与产品委员会，区块链专业委员会秘书长（2019年9月至2021年6月）
 - [金蝶软件（中国）有限公司](http://www.kingdee.com/)战略投资委员会，业务评审专业委员会委员（2020年4月至2021年3月）
 - [金蝶软件（中国）有限公司](http://www.kingdee.com/)技术与产品委员会，财务管理新世界专业委员会委员（2019年9月至2020年3月）
-- 深圳市战略性新兴产业扶持计划，深圳市企业级区块链技术应用工程研究中心，技术带头人（2018年7月至2020年12月，地市级，主持项目、排名第三、1380万元，项目编号：[S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html)）
 - [清华大学](https://www.tsinghua.edu.cn/)、[金蝶软件（中国）有限公司](http://www.kingdee.com/)，计算机科学与技术学科，博士后研究工作（2017年12月至2019年12月，工作期满评审结果为“优秀”）
 - [General Atomics](https://www.ga.com/)，国家公派联合培养博士研究生（获得[CSC](https://www.csc.edu.cn/)留学资助，2015年12月至2016年12月，美国圣迭戈）
+
+### 课题项目
+
+- 广东省重点领域研发计划项目，自主可控的联盟区块链关键技术研究，课题负责人（2020年8月至2023年8月，省部级，参与项目、3100万元，主持课题、排名第一、1150万，项目编号：[2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html)）
+- 深圳市科技计划技术攻关面上项目，基于可信隔离联邦学习的跨金融业态智能引擎系统关键技术研发，课题负责人（2020年9月至2022年9月，地市级，主持项目、排名第三、615万元，项目编号：[JSGG20191129110603831](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10581951.html)）
+- 工信部2020年工业互联网创新发展工程——基于工业互联网平台的智能应用项目，基于“工业互联网平台+区块链”的供应链管理系统，项目参与单位负责人（2020年9月至2022年9月，国家级，参与项目、10000万元，主持课题、排名第一、2003.8万元）
+- 深圳市战略性新兴产业扶持计划，深圳市企业级区块链技术应用工程研究中心，技术带头人（2018年7月至2020年12月，地市级，主持项目、排名第三、1380万元，项目编号：[S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html)）
 
 ### 奖项荣誉
 
@@ -75,6 +79,8 @@ type: "about"
 - 2016年北京大学三好学生
 - 2015年北京大学博士专项奖学金
 - 2012年至2015年北京大学[校长奖学金](https://grs.pku.edu.cn/jzgz/dtxx1/xwdt1/232510.htm)
+- 2009年第26届全国部分地区大学生物理竞赛二等奖
+- 2009年[第六届“江泽涵杯”数学建模与计算机应用竞赛](https://news.pku.edu.cn/xwzh/129-148928.htm)三等奖
 
 ### 产品成果
 
@@ -115,6 +121,7 @@ type: "about"
 - 2019年6月25日至30日，美国圣迭戈，2019 International Conference on Blockchain ([ICBC 2019](http://blockchain1000.org/2019/))，《Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services》
 - 2018年7月25日，中国深圳，哈尔滨工业大学（深圳）计算机科学与技术学院，2018年度本科生认知实习企业导师，《区块链颠覆未来》
 - 2018年5月31日，中国深圳，金蝶极客论道，《超级账本技术解析》
+- 2018年1月5日至3月10日，中国深圳，金牌实践·金蝶集团[数据连接未来](https://mp.weixin.qq.com/s/JhWkk8J3S9lSEGHzU3AJ_w)，金牌实习生[实践导师](https://mp.weixin.qq.com/s/FSD0Cczdk6CLQU0KFjM5hQ)
 - 2018年2月8日，中国深圳，金蝶研究院大讲坛01期，《区块链：一种颠覆未来的技术———区块链原理与应用介绍》
 - 2017年4月25日至28日，美国威廉斯堡，2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/))，《Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model》
 - 2017年3月24日至26日，中国北京，第五届磁约束聚变模拟与理论研讨会，《Alfvén eigenmode stability and energetic particle transport using the TGLF model》

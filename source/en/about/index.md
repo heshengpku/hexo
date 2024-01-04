@@ -8,7 +8,7 @@ type: "about"
 
 He Sheng, with a Professional Title of Senior Engineer, is a Senior Research Fellow at Kingdee International Software Group. He is responsible for the R&D of the advanced and core technologies of the Platform-as-a-Serive (PaaS) Product called Kingdee Cosmic and its enterprise solutions. He contributes to the products of Kingdee Cosmic Cloud Platform, Data Services Platform, Blockchain Services Platform, and applications for key customers. His research interests are to use emerging information technologies, including Big Data, Artificial Intelligence (AI), Blockchain, Internet of Things (IoT), and Metaverse, to enhance software engineering research and applications for enterprise cloud services. He excels at conducting interdisciplinary research on novel technologies and translating findings into impactful outcomes. He is an approved expert in the Shenzhen Science and Technology Expert Database and an expert of Project Review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of the Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee. He won the First Prize in the 2023 Shenzhen Science and Technology Progress Award and the First Prize in the 2020 Digital China Innovation Contest.
 
-He graduated from Peking University in 2017 with a Doctor of Science Degree and was an Excellent Graduate of Peking University. During his doctoral studies, he won the Principal Scholarship (Peking University's highest honor for graduate students). He was also a Visiting Student in the USA, sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he worked as a Postdoctoral Fellow in Computer Science and Technology at Tsinghua University and Kingdee, completing with an Excellent evaluation and becoming one of China's first postdoctoral fellows on Blockchain. He has served as Project Leader of multiple national, provincial, and ministerial science and technology research projects. He was an Editorial Review Board Member of the SCI journal IJWSR. He has published nine papers in international journals and conferences indexed by SCI/EI and granted nine patents.
+He graduated from Peking University in 2017 with a Doctor of Science Degree and was an Excellent Graduate of Peking University. During his doctoral studies, he won the Principal Scholarship (Peking University's highest honor for graduate students). He was also a Visiting Student in the USA, sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he worked as a Postdoctoral Fellow in Computer Science and Technology at Tsinghua University and Kingdee, completing with an Excellent evaluation and becoming one of China's first postdoctoral fellows on Blockchain. He has served as Project Leader of multiple national, provincial, and ministerial science and technology research projects. He was an Editorial Review Board Member of the SCI journal IJWSR. He has published ten papers in international journals and conferences indexed by SCI/EI and granted nine patents.
 
 ### Educations
 
@@ -40,6 +40,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
   
 ### Publications
 
+- [Multi-Factor Water Level Prediction Based on IndRNN-Attention](https://link.springer.com/chapter/10.1007/978-3-031-51671-9_7), Haifeng Lv, Yishuang Ning, Ke Ning, **Sheng He**, Hongquan Lin, *Proceedings of 7th International Conference on Cognitive Computing (ICCC 2023)*, Lecture Notes in Computer Science, vol. 14207, pp. 89–99 (2023)
 - [A Blockchain-Based Micro-services Architecture for Distributed Business](https://link.springer.com/chapter/10.1007/978-3-031-44920-8_3), **Sheng He**, Yishuang Ning, Dengbin Xiong, Junhui Ma, *Proceedings of 6th International Conference on Blockchain (ICBC 2023)*, Lecture Notes in Computer Science, vol. 14206, pp. 38–53 (2023)
 - [Chinese Text Classification Using BERT and Flat-Lattice Transformer](https://link.springer.com/chapter/10.1007/978-3-031-23504-7_5), Haifeng Lv, Yishuang Ning, Ke Ning, Xiaoyu Ji, **Sheng He**, *Proceedings of 11th International Conference on Artificial Intelligence and Mobile Services (AIMS 2022)*, Lecture Notes in Computer Science, vol. 13729, pp. 64-75 (2022)
 - [BCOA: Blockchain Open Architecture](https://link.springer.com/chapter/10.1007/978-3-030-96140-4_7), Liang-Jie Zhang, **Sheng He**, Jing Zeng, Yishuang Ning, Huan Chen, *Proceedings of 28th International Conference on Web Service (ICWS 2021)*, Lecture Notes in Computer Science, vol. 12994, pp. 90–111 (2021)
@@ -52,15 +53,18 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Experiences
 
-- Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, August 2020 - August 2023 ([No.2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html))
-- Project Leader, Key Technology Development of Cross-Financial Industry Intelligent Engine System Based on Trusted Isolated Federal Learning, General Program of Shenzhen Science and Technology Plan, September 2020 - September 2022 ([No.JSGG20191129110603831](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10581951.html))
-- Sub-project Leader, Supply Chain Management System Based on "Industrial Internet Platform + Blockchain", 2020 Industrial Internet Innovation and Development Project from Ministry of Industry and Information Technology -- Intelligent Application Project Based on Industrial Internet Platform, September 2020 - September 2022
 - Secretary General of Blockchain Professional Committee, Kingdee Technical and Product Committee, [Kingdee Group](http://www.kingdee.com/), September 2019 - June 2021
 - Member of Business Review Committee, Kingdee Strategic Investment Committee, [Kingdee Group](http://www.kingdee.com/), April 2020 - March 2021
 - Member of Financial Management New Era Professional Committee, Kingdee Technical and Product Committee, [Kingdee Group](http://www.kingdee.com/), September 2019 - March 2020
-- Project Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Strategic Emerging Industry Support Funding, July 2018 - December 2020 ([No.S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html))
 - Postdoctoral Fellow on Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/) & [Kingdee International Software Group](http://www.kingdee.com/), Shenzhen, China, December 2017 - December 2019 (Works Evaluated as Excellent)
 - Visiting Student, [General Atomics](https://www.ga.com/), San Diego, USA, December 2015 - December 2016 (Sponsored by [CSC](https://www.csc.edu.cn/))
+
+### Projects
+
+- Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, August 2020 - August 2023 ([No.2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html))
+- Project Leader, Key Technology Development of Cross-Financial Industry Intelligent Engine System Based on Trusted Isolated Federal Learning, General Program of Shenzhen Science and Technology Plan, September 2020 - September 2022 ([No.JSGG20191129110603831](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10581951.html))
+- Sub-project Leader, Supply Chain Management System Based on "Industrial Internet Platform + Blockchain", 2020 Industrial Internet Innovation and Development Project from Ministry of Industry and Information Technology -- Intelligent Application Project Based on Industrial Internet Platform, September 2020 - September 2022
+- Project Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Strategic Emerging Industry Support Funding, July 2018 - December 2020 ([No.S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html))
 
 ### Awards & Honors
 
@@ -75,6 +79,8 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Merit Student, Peking University (2016)
 - PhD Special Scholarship, Peking University (2015)
 - [Principal Scholarship](https://grs.pku.edu.cn/jzgz/dtxx1/xwdt1/232510.htm) of Peking University (2012-2015)
+- Second Prize of 26th National Physics Competition for College Students in Some Regions (2009)
+- Third Prize of [6th "Jiang Zehan Cup" Mathematical Modeling and Computer Application Competition](https://news.pku.edu.cn/xwzh/129-148928.htm) (2009)
 
 ### Products
 
@@ -115,6 +121,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - 2019 International Conference on Blockchain ([ICBC 2019](http://blockchain1000.org/2019/)), "Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services", June 25 - June 30, 2019, San Diego, CA, USA
 - 2018 Enterprise Tutor of Undergraduate Cognitive Practice, School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), "How Blockchain Change the Future", July 25, 2018, Shenzhen, China
 - Series of Kingdee Geek Talks, "Technical Analysis of Hyperledger Project", May 31, 2018, Shenzhen, China
+- Golden Practice in Kingdee Group for [Data Connecting Future](https://mp.weixin.qq.com/s/JhWkk8J3S9lSEGHzU3AJ_w), Golden Internship [Practice Tutor](https://mp.weixin.qq.com/s/FSD0Cczdk6CLQU0KFjM5hQ), January 5 - March 10, 2018, Shenzhen, China
 - Forum of Kingdee Research (1st Session), "Blockchain, A Technology Which will Disrupt the Future, the Principles and Applications", February 8, 2018, Shenzhen, China
 - 2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/)), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - 28, 2017, Williamsburg, VA, USA
 - 5th Fusion Simulation and Theory Workshop, "Alfvén eigenmode stability and energetic particle transport using the TGLF model", March 24 - 26, 2017, Beijing, China
