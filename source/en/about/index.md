@@ -61,6 +61,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Projects
 
+- Sub-project Leader, Core Research and Development of Industrial Chain Interconnection Operating System, Industrial Software Key Project in National Key Research and Development Program of China, December 2023 - November 2026 ([No.2023YFB3308502](https://service.most.gov.cn/kjjh_tztg_all/20230605/5210.html))
 - Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, August 2020 - August 2023 ([No.2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html))
 - Project Leader, Key Technology Development of Cross-Financial Industry Intelligent Engine System Based on Trusted Isolated Federal Learning, General Program of Shenzhen Science and Technology Plan, September 2020 - September 2022 ([No.JSGG20191129110603831](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10581951.html))
 - Sub-project Leader, Supply Chain Management System Based on "Industrial Internet Platform + Blockchain", 2020 Industrial Internet Innovation and Development Project from Ministry of Industry and Information Technology -- Intelligent Application Project Based on Industrial Internet Platform, September 2020 - September 2022
