@@ -69,6 +69,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Awards & Honors
 
+- 2023 Subtle Innovation Award of Kingdee R&D Platform (2024)
 - Outstanding Services Awards of 2023 [Services Conference Federation](https://www.servicessociety.org/) (2023)
 - First Prize of Science and Technology Progress Award in [Shenzhen Science and Technology Award](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html) (2023)
 - Excellent Individual of Kingdee (2020)
@@ -139,6 +140,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 ### Reviews
 
 - Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/), [2022](http://icws.org/2022/), [2023](http://icws.org/2023/), Organization Committee Member
+- Shenzhen Science and Technology Innovation Committee [2024 Entrepreneurial Projects](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10781592.html), Review Expert, January 18, 2024, shenzhen, China
 - Kingdee 2023 Business Mid-Platform (Accountability Unit Level) Subtle Innovation Award Selection, Technical Review Expert, November 29, 2023, Shenzhen, China
 - 2023 International Conference on Metaverse ([METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)), Organizing Committee Program Chair, September 23 - 26, 2023, Honolulu, HI, USA
 - [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), Final of Internet and Mobile Internet, Technical Review Expert, October 28, 2021, Shenzhen, China

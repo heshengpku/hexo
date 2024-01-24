@@ -69,6 +69,7 @@ type: "about"
 
 ### 奖项荣誉
 
+- 2023年度金蝶研发平台微创新奖
 - 2023年[国际服务会议联盟](https://www.servicessociety.org/)杰出服务奖
 - [2023年度深圳市科学技术奖](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html)科技进步奖一等奖
 - 2020年度金蝶中国优秀员工
@@ -139,6 +140,7 @@ type: "about"
 ### 评审工作
 
 - 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)国际服务会议联盟（SCF）组织委员会成员
+- 2024年1月18日，中国深圳，深圳市科技创新委员会[2024年度创业资助项目](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10781592.html)，评审专家
 - 2023年11月29日，中国深圳，金蝶2023年业务中台责任单位级微创新奖评选，评委
 - 2023年9月23日至26日，美国火奴鲁鲁，国际元宇宙学术会议（[METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)），程序委员会主席
 - 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
