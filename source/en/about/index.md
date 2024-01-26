@@ -6,7 +6,7 @@ type: "about"
 
 ## HE, Sheng
 
-He Sheng, with a Professional Title of Senior Engineer, is a Staff Research Fellow at Kingdee International Software Group. He is responsible for the R&D of the advanced and core technologies of the Platform-as-a-Serive (PaaS) Product called Kingdee Cosmic and its enterprise solutions. He contributes to the products of Kingdee Cosmic Cloud Platform, Data Services Platform, Blockchain Services Platform, and applications for key customers. His research interests are to use emerging information technologies, including Big Data, Artificial Intelligence (AI), Blockchain, Internet of Things (IoT), and Metaverse, to enhance software engineering research and applications for enterprise cloud services. He excels at conducting interdisciplinary research on novel technologies and translating findings into impactful outcomes. He is an approved expert in the Shenzhen Science and Technology Expert Database and an expert of Project Review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of the Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee. He won the First Prize in the 2023 Shenzhen Science and Technology Progress Award and the First Prize in the 2020 Digital China Innovation Contest.
+He Sheng, with a Professional Title of Senior Engineer, is a Staff Research Fellow at Kingdee International Software Group. He is responsible for the R&D of the advanced and core technologies of the Platform-as-a-Serive (PaaS) Product called Kingdee Cosmic and its enterprise solutions. He contributes to the products of Kingdee Cosmic Cloud Platform, Data Services Platform, Blockchain Services Platform, and applications for key customers. His research interests are to use emerging information technologies, including Artificial Intelligence (AI), Blockchain, Big Data, Internet of Things (IoT), and Metaverse, to enhance software engineering research and applications for enterprise cloud services. He excels at conducting interdisciplinary research on novel technologies and translating findings into impactful outcomes. He is an approved expert in the Shenzhen Science and Technology Expert Database and an expert of Project Review in the Expert Database of Shenzhen Science and Technology Innovation Commission. He is a member of the Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee. He won the First Prize in the 2023 Shenzhen Science and Technology Progress Award and the First Prize in the 2020 Digital China Innovation Contest.
 
 He graduated from Peking University in 2017 with a Doctor of Science Degree and was an Excellent Graduate of Peking University. During his doctoral studies, he won the Principal Scholarship (Peking University's highest honor for graduate students). He was also a Visiting Student in the USA, sponsored by the China Scholarship Council (CSC). From 2017 to 2019, he worked as a Postdoctoral Fellow in Computer Science and Technology at Tsinghua University and Kingdee, completing with an Excellent evaluation and becoming one of China's first postdoctoral fellows on Blockchain. He has served as Project Leader of multiple national, provincial, and ministerial science and technology research projects. He was an Editorial Review Board Member of the SCI journal IJWSR. He has published ten papers in international journals and conferences indexed by SCI/EI and granted nine patents.
 
@@ -32,10 +32,10 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Research Interests
 
-- **Analytics and Business Intelligence, Data Science, Big Data and Artificial Intelligence**
-- **Blockchain, Metaverse, Smart Contract, Consensus Mechanism and Incentive Methodology**
-- **Privacy Enhancing Technologies, Federated Learning, Secure Multi-Party Computation, Zero-Knowledge Proof and Homomorphic Encryption**
-- Services Computing, Cloud Computing, Internet of Things
+- **Data Science, Artificial Intelligence, Industrial Internet**
+- **Blockchain, Metaverse, Web3.0, Smart Contract, Consensus Mechanism and Incentive Methodology**
+- Privacy Enhancing Technologies, Federated Learning, Secure Multi-Party Computation, Zero-Knowledge Proof and Homomorphic Encryption
+- Services Computing, Cloud Computing, Big Data, Internet of Things
 - Plasma Physics, Magnetic Confinement Fusion, High Performance Computing, Numerical Simulation
   
 ### Publications
