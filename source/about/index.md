@@ -13,22 +13,22 @@ type: "about"
 ### 教育背景
 
 - 博士，[北京大学](https://www.pku.edu.cn/)，2017，等离子体物理
-- 学士，[北京大学](https://www.pku.edu.cn/)，2012，[物理学](http://www.phy.pku.edu.cn/)
+- 学士，[北京大学](https://www.pku.edu.cn/)，2012，[物理学](https://www.phy.pku.edu.cn/)
 
 ### 现任职位
 
-- **[金蝶国际软件集团](http://www.kingdee.com/)资深研究员**，2017年8月
+- **[金蝶国际软件集团](https://www.kingdee.com/)资深研究员**，2017年8月
 - 广东省人工智能[高级工程师](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg)，副高级职称，2023年4月
 - 金蝶任职资格管理专业委员会，技术族研究类研究员职位组长，2022年4月
 - International Journal of Web Services Research （[IJWSR](https://www.igi-global.com/journals/open-access/reviewers/international-journal-web-services-research/1079)）编委，2023年12月
-- 广东省区块链和分布式记账技术标准化技术委员会（[GD/TC143](http://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)）委员，2022年3月
+- 广东省区块链和分布式记账技术标准化技术委员会（[GD/TC143](https://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)）委员，2022年3月
 - 深圳市计算机学会（[SZCCF](https://www.szccf.org.cn/)）会员，2020年4月
-- 深圳市创业创新联合会（[SEIF](http://seif.org.cn/)）会员，2019年4月
+- 深圳市创业创新联合会（[SEIF](https://seif.org.cn/)）会员，2019年4月
 - 深圳市人工智能学会（[SAAI](https://saai.net.cn/)）会员，2019年3月
 - 中国计算机学会（[CCF](https://www.ccf.org.cn/)）会员，2017年12月
-- 国际服务学会（[S2](http://www.servicessociety.org/)）会员，2017年10月
+- 国际服务学会（[S2](https://www.servicessociety.org/)）会员，2017年10月
 - 深圳市[科技专家库](http://system.szexpert.org/egrantweb/)入库专家，2022年6月
-- 深圳市科技创新委员会[专家库](http://expert.hiic.com.cn/)项目评审专家，2019年12月
+- 深圳市科技创新委员会[专家库](https://expert.hiic.com.cn/)项目评审专家，2019年12月
 
 ### 研究领域
 
@@ -53,10 +53,10 @@ type: "about"
 
 ### 重要经历
 
-- [金蝶软件（中国）有限公司](http://www.kingdee.com/)技术与产品委员会，区块链专业委员会秘书长（2019年9月至2021年6月）
-- [金蝶软件（中国）有限公司](http://www.kingdee.com/)战略投资委员会，业务评审专业委员会委员（2020年4月至2021年3月）
-- [金蝶软件（中国）有限公司](http://www.kingdee.com/)技术与产品委员会，财务管理新世界专业委员会委员（2019年9月至2020年3月）
-- [清华大学](https://www.tsinghua.edu.cn/)、[金蝶软件（中国）有限公司](http://www.kingdee.com/)，计算机科学与技术学科，博士后研究工作（2017年12月至2019年12月，工作期满评审结果为“优秀”）
+- [金蝶软件（中国）有限公司](https://www.kingdee.com/)技术与产品委员会，区块链专业委员会秘书长（2019年9月至2021年6月）
+- [金蝶软件（中国）有限公司](https://www.kingdee.com/)战略投资委员会，业务评审专业委员会委员（2020年4月至2021年3月）
+- [金蝶软件（中国）有限公司](https://www.kingdee.com/)技术与产品委员会，财务管理新世界专业委员会委员（2019年9月至2020年3月）
+- [清华大学](https://www.tsinghua.edu.cn/)、[金蝶软件（中国）有限公司](https://www.kingdee.com/)，计算机科学与技术学科，博士后研究工作（2017年12月至2019年12月，工作期满评审结果为“优秀”）
 - [General Atomics](https://www.ga.com/)，国家公派联合培养博士研究生（获得[CSC](https://www.csc.edu.cn/)留学资助，2015年12月至2016年12月，美国圣迭戈）
 
 ### 课题项目
@@ -75,10 +75,10 @@ type: "about"
 - [2023年度深圳市科学技术奖](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html)科技进步奖一等奖
 - 2020年度金蝶中国优秀员工
 - 2020年度金蝶云苍穹优秀团队
-- [2020数字中国创新大赛](http://www.szzg.gov.cn/2020/cxds/)一等奖
+- [2020数字中国创新大赛](https://www.szzg.gov.cn/2020/cxds/)一等奖
 - 2019年度金蝶发明达人奖
 - 2018年度金蝶集团微创新奖
-- [北京大学](http://pkunews.pku.edu.cn/xwzh/2017-07/05/content_298556.htm)2017届[优秀毕业生](http://www.phy.pku.edu.cn/info/1179/2286.htm)
+- [北京大学](https://pkunews.pku.edu.cn/xwzh/2017-07/05/content_298556.htm)2017届[优秀毕业生](https://www.phy.pku.edu.cn/info/1179/2286.htm)
 - 2016年北京大学三好学生
 - 2015年北京大学博士专项奖学金
 - 2012年至2015年北京大学[校长奖学金](https://grs.pku.edu.cn/jzgz/dtxx1/xwdt1/232510.htm)
@@ -94,7 +94,7 @@ type: "about"
   - 商务部，全国电子商务工作会议，[2022年度商业科技创新应用优秀案例](http://commerce.sz.gov.cn/gkmlpt/content/10/10453/post_10453289.html#523)
   - 2022中国产业区块链大会，[2022中国产业区块链企业100强](https://dsj.guizhou.gov.cn/xwzx/gnyw/202207/t20220715_75561605.html)
   - 第五届金陀螺奖颁奖典礼，[年度区块链行业贡献奖](https://www.tuoluo.cn/article/detail-10036556.html)
-  - 2020数字中国创新大赛，[区块链赛道一等奖](http://www.szzg.gov.cn/2020/cxds/)
+  - 2020数字中国创新大赛，[区块链赛道一等奖](https://www.szzg.gov.cn/2020/cxds/)
   - 国家互联网信息办公室，[第二批境内区块链信息服务备案](http://www.cac.gov.cn/2019-10/18/c_1572931934637684.htm?from=timelineAMPLisappinstalled=0)
 - 金蝶服务链，核心成员（2019年1月至2019年12月）
 - 金蝶财务链，核心成员（2018年1月至2018年12月）
@@ -120,8 +120,8 @@ type: "about"
 - 2021年5月8日，中国北京，2021金蝶云苍穹峰会，一体化低代码论坛（[KCCS 2021](https://www.kingdee.com/topic/kccs2021/)），《低代码区块链平台》
 - 2020年12月18日至20日，中国济南，中国区块链技术大会（[CCF CBCC 2020](https://conf.ccf.org.cn/web/html7/index.html?globalId=1bd8b44aa7a245bdac92ae7a79f5588f&type=1)），区块链体系结构与共识机制分论坛邀请报告，《企业级区块链参考架构与共识机制思考》
 - 2020年12月11日，中国深圳，2020未来商业生态链接大会暨第五届金陀螺奖颁奖典礼（[FBEC 2020](https://fbec.info/)），[全球区块链产业未来发展峰会](https://fbec.info/theMainVenueDetailsB)主题报告，《区块链在企业管理服务中的应用及思考》
-- 2020年10月12日至14日，中国福州，第三届数字中国建设峰会，2020数字中国创新大赛（[DCIC 2020](http://www.szzg.gov.cn/2020/cxds/)），[区块链赛道](https://www.datafountain.cn/competitions/446)一等奖
-- 2020年8月25日，中国深圳，[深圳科技展望系列活动：AI芯片及区块链技术助力新基建](http://seif.org.cn/archives/1686)，《金蝶区块链研究》
+- 2020年10月12日至14日，中国福州，第三届数字中国建设峰会，2020数字中国创新大赛（[DCIC 2020](https://www.szzg.gov.cn/2020/cxds/)），[区块链赛道](https://www.datafountain.cn/competitions/446)一等奖
+- 2020年8月25日，中国深圳，[深圳科技展望系列活动：AI芯片及区块链技术助力新基建](https://seif.org.cn/archives/1686)，《金蝶区块链研究》
 - 2019年6月25日至30日，美国圣迭戈，2019 International Conference on Blockchain ([ICBC 2019](http://blockchain1000.org/2019/))，《Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services》
 - 2018年7月25日，中国深圳，哈尔滨工业大学（深圳）计算机科学与技术学院，2018年度本科生认知实习企业导师，《区块链颠覆未来》
 - 2018年5月31日，中国深圳，金蝶极客论道，《超级账本技术解析》
