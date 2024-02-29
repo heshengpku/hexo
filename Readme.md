@@ -11,6 +11,9 @@ $ hexo init blog
 $ cd blog
 ```
 
+## Install pandoc for latex formula
+https://pandoc.org/installing.html
+
 ## Start the server
 ```
 $ hexo server
