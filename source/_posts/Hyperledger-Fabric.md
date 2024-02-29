@@ -11,6 +11,7 @@ title: Fabric学习笔记
 ## 数据持久化
 
 如果需要对peer或CouchDB容器的数据持久化，一种选择是将容器的相关目录挂载到docker主机。
+
 例如，将下面两行内容放到docker-compose.yaml文件中的对应peer处：
 
 ```yaml
