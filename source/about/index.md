@@ -22,7 +22,7 @@ type: "about"
 - 金蝶技术与产品委员会，特聘专家委员会副主任，2024年3月
 - 金蝶任职资格管理专业委员会，技术族研究类研究员职位组长，2022年4月
 - International Journal of Web Services Research （[IJWSR](https://www.igi-global.com/journals/open-access/reviewers/international-journal-web-services-research/1079)）编委，2023年12月
-- 中国计算机学会（[CCF](https://www.ccf.org.cn/)）高级会员，2024年4月（会员，2017年12月）
+- 中国计算机学会（[CCF](https://www.ccf.org.cn/)）[高级会员](https://mp.weixin.qq.com/s/i2iLVpJI5ymAdWV0Kz3ZkA)，2024年4月（会员，2017年12月）
 - 广东省区块链和分布式记账技术标准化技术委员会（[GD/TC143](https://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)）委员，2022年3月
 - 深圳市计算机学会（[SZCCF](https://www.szccf.org.cn/)）会员，2020年4月
 - 深圳市创业创新联合会（[SEIF](https://seif.org.cn/)）会员，2019年4月
