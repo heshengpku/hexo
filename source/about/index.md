@@ -102,19 +102,24 @@ type: "about"
 
 ### 近期活动
 
+- 2024年4月25日至26日，中国深圳，《4A架构理论与实战》培训
 - 2024年4月12日，中国成都，国家重点研发计划“网络协同制造和智能工厂”重点专项《基于第三方平台的多价值链协同技术与方法》项目综合绩效评价会议，项目骨干
 - 2024年1月10日，中国深圳，深圳市计算机协会（[SZCCF](https://www.szccf.org.cn/)）区块链与Web3.0茶话会
 - 2023年12月17日，中国深圳，[第十一届中国大数据产业峰会](https://mp.weixin.qq.com/s/yaWtNE0T7TEz5hyMRKijKA)暨2023国际服务联合会议中国会场（[SCF 2023](http://icws.org/2023)），组织委员会成员，杰出服务奖
 - 2023年12月3日，中国深圳，数字新质·湾区共创论坛暨2023大湾区计算机大会（[BBCC 2023](https://mp.weixin.qq.com/s/u3JbriBYHZAy5HbQwja7Mg)），特邀参会嘉宾
 - 2023年6月28日，中国深圳，哈尔滨工业大学（深圳）计算机科学与技术学院，2023年度本科生认知实习讲师，《企业数据场景下的隐私计算应用研究》
+- 2023年6月4日至7日，中国深圳，《立志班》第三期培训班
 - 2023年5月20日，中国深圳，大模型技术未来发展及产业应用研讨会，深圳市计算机学会，《企业场景中的大模型技术及应用研究》
 - 2023年5月15日，中国成都，国家重点研发计划“网络协同制造和智能工厂”重点专项《基于第三方平台的多价值链协同技术与方法》课题二研讨会
 - 2023年3月17日，中国深圳，国家重点研发计划“区块链”重点专项《安全弹性的区块链网络关键技术》[项目启动暨实施方案论证会](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA)，论证专家
 - 2023年1月9日，中国北京，2023[中国信通院](http://www.caict.ac.cn/)ICT深度观察[报告会](https://ict.caict.ac.cn/app/web/guests.php)，[政企数字化转型分论坛](https://ict.caict.ac.cn/app/web/livedetail.php?sid=43&type=detail)圆桌对话（在线会议）
+- 2022年12月10日至12日，中国北京，[中国通信工业协会](http://www.ccia.org.cn/)，元宇宙热点技术融合与产业创新应用高级研修班（在线培训）
 - 2022年8月24日，中国广州，广东省区块链产业集群[标准化工作研讨会](https://mp.weixin.qq.com/s/-B-s-grmiuUI-8vkqMU-VA)
 - 2022年8月19日，中国香港，The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/))，Panel 《Supply Chain Finance & Blockchain Technology》（在线会议）
 - 2022年6月24日，中国深圳，[区块链架构与共识·技术沙龙](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ)，CCF区块链专委会“架构与共识”小组，《一站式的低代码区块链平台架构》（在线会议）
+- 2022年5月25日至28日，中国深圳，金蝶《立志班》第二期培训班
 - 2022年4月29日，中国广州，广东省区块链和分布式记账技术标准化技术委员会[成立大会暨第一次全体委员会议](https://mp.weixin.qq.com/s/cMT6_Jd_E1Y9fkV7BeFyBg)
+- 2021年12月10日，中国深圳，[金链盟2021年度生态大会](https://mp.weixin.qq.com/s/amz-wQRwhmfQ5Uvq7zh9kw)
 - 2021年11月9日，中国深圳，金蝶极客论道大咖专场，数字经济下区块链创新应用分享会，《低代码区块链的应用实践》
 - 2021年8月20日，中国深圳，[金蝶云·苍穹追光者](https://dev.kingdee.com/competition)[开发者沙龙](https://caifuhao.eastmoney.com/news/20210827171942420914500)，《金蝶云·苍穹区块链应用实践》
 - 2021年7月25日，中国深圳，诚安信中职培训项目，《人工智能、区块链等技术应用》（在线会议）
@@ -124,7 +129,11 @@ type: "about"
 - 2020年12月11日，中国深圳，2020未来商业生态链接大会暨第五届金陀螺奖颁奖典礼（[FBEC 2020](https://fbec.info/)），[全球区块链产业未来发展峰会](https://fbec.info/theMainVenueDetailsB)主题报告，《区块链在企业管理服务中的应用及思考》
 - 2020年10月12日至14日，中国福州，第三届数字中国建设峰会，2020数字中国创新大赛（[DCIC 2020](https://www.szzg.gov.cn/2020/cxds/)），[区块链赛道](https://www.datafountain.cn/competitions/446)一等奖
 - 2020年8月25日，中国深圳，[深圳科技展望系列活动：AI芯片及区块链技术助力新基建](https://seif.org.cn/archives/1686)，《金蝶区块链研究》
+- 2020年8月14日至15日，中国深圳，全球互联网架构大会([GIAC 2020](http://giac-history.msup.com.cn/Giac2020/default/index))
+- 2020年6月12日，中国深圳，金蝶直播，[《联盟区块链——提高企业数据可信力》](https://live.polyv.cn/watch/1783128)
+- 2020年1月17日，中国连云港，[连云港市首席信息官培训研讨会](https://mp.weixin.qq.com/s/Ljq6AErPev4RrTOCVw5dfg)，《区块链核心技术和解决方案》
 - 2019年6月25日至30日，美国圣迭戈，2019 International Conference on Blockchain ([ICBC 2019](http://blockchain1000.org/2019/))，《Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services》
+- 2018年9月16日至21日，中国深圳，《产品&技术高潜人才能量加油站》第4期培训班
 - 2018年7月25日，中国深圳，哈尔滨工业大学（深圳）计算机科学与技术学院，2018年度本科生认知实习企业导师，《区块链颠覆未来》
 - 2018年5月31日，中国深圳，金蝶极客论道，《超级账本技术解析》
 - 2018年1月5日至3月10日，中国深圳，金牌实践·金蝶集团[数据连接未来](https://mp.weixin.qq.com/s/JhWkk8J3S9lSEGHzU3AJ_w)，金牌实习生[实践导师](https://mp.weixin.qq.com/s/FSD0Cczdk6CLQU0KFjM5hQ)

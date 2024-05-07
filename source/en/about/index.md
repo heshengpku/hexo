@@ -102,19 +102,24 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- Training on 4A Architecture Theory and Practice, April 25 - April 26, 2024, Shenzhen, China
 - Project Key Member, Project Comprehensive Performance Evaluation Meeting of "Multi-Value-Chain Collaboration Technology and Method based on Third-party Platform", Network Collaborative Manufacturing and Smart Factories Special Fund in National Key Research and Development Program of China, April 12, 2024, Chengdu, China
 - Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)) Blockchain and Web3.0 Tea Party, January 10, 2024, Shenzhen, China
 - Organization Committee Member, 2023 Services Conference Federation ([SCF 2023](http://icws.org/2023)) and [11th China Big Data Industry Summit](https://mp.weixin.qq.com/s/yaWtNE0T7TEz5hyMRKijKA), Outstanding Services Awards, December 17, 2023, Shenzhen, China
 - Invited Attendee, Digital New Matter in Greater Bay Area Co-Creation Forum and 2023 Big Bay Computer Conference ([BBCC 2023](https://mp.weixin.qq.com/s/u3JbriBYHZAy5HbQwja7Mg)), December 3, 2023, Shenzhen, China
 - 2023 Lecturer of Undergraduate Cognitive Practice, School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), "Application Research on Privacy Computing in Enterprise Data Scenario", June 28, 2023, Shenzhen, China
+- Kingdee "Aspire Class", Third training course, June 4 - June 7, 2023, Shenzhen, China
 - Seminar on Future Development and Industrial Application of Large Model Technology, Shenzhen City Computer Federation, "Research on Large Model Technology and Applications in Enterprise Scenarios", May 20, 2023, Shenzhen, China
 - Seminar on Topic 2 of "Multi-Value-Chain Collaboration Technology and Method based on Third-party Platform", Network Collaborative Manufacturing and Smart Factories Special Fund in National Key Research and Development Program of China, May 15, 2023, Chengdu, China
 - Panel Member, [Project Launch and Implementation Plan Discussion Meeting](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA) of "Key Technologies in Secure and Flexible Blockchain Network", Blockchain Special Fund in National Key Research and Development Program of China, March 17, 2023, Shenzhen, China
 - 2023 [CAICT](http://www.caict.ac.cn/) ICT In-depth observation [conference](https://ict.caict.ac.cn/app/web/guests.php)，Panel in [Parallel Forum on Digital Transformation of Government and Enterprise](https://ict.caict.ac.cn/app/web/livedetail.php?sid=43&type=detail), January 9, 2023, Beijing, China (Online)
+- Advanced Workshop on Technology Integration and Industrial Innovation Application of Metaverse Hotspots, [China Communications Industry Association](http://www.ccia.org.cn/), December 10 - December 12, 2022, Beijing, China (Online)
 - Guangdong Blockchain Industry Cluster [Standardization Workshop](https://mp.weixin.qq.com/s/-B-s-grmiuUI-8vkqMU-VA), August 24, 2022, Guangzhou, China
 - The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/)), Panel on Topic "Supply Chain Finance & Blockchain Technology", August 19, 2022, Hong Kong, China (Online)
 - [CCF Technology Salon](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ), Blockchain Architecture and Consensus, "One-Stop and Low-Code Blockchain Platform Architecture", June 24, 2022, Hangzhou, China (Online)
+- Kingdee "Aspire Class", Second training course, May 25 - May 28, 2022, Shenzhen, China
 - Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee [Inaugural Meeting and the First General Committee Meeting](https://mp.weixin.qq.com/s/cMT6_Jd_E1Y9fkV7BeFyBg), April 29, 2022, Guangzhou, China
+- [Financial Services Blockchain Consortium 2021 Annual Conference on Ecological](https://mp.weixin.qq.com/s/amz-wQRwhmfQ5Uvq7zh9kw), December 10, 2021, shenzhen, China
 - Expert Special Meeting of Kingdee Geek Talks, The Blockchain Innovation Applications in Digital Economy, "The application pratice of low-code Blockchain", November 9, 2021 Shenzhen, China
 - [Developer Salon](https://caifuhao.eastmoney.com/news/20210827171942420914500) of [Kingdee Cloud Cosmic](https://dev.kingdee.com/competition), "The application pratice of Blockchain in Kingdee Cloud Cosmic", August 20, 2021, Shenzhen, China
 - Professional Training, Chenganxin LLP, "Applications of AI and Blockchain Technologies", July 25, 2021, Shenzhen, China (Online)
@@ -122,23 +127,27 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Kingdee Cloud Cosmic Summit 2021 ([KCCS 2021](https://www.kingdee.com/topic/kccs2021/)), *Invited Talk* in Forum of Integrated Low-Code Platform, "Low-Code Blockchain Platform", May 8, 2021, Beijing, China
 - 2020 CCF China Blockchain Conference ([CCF CBCC 2020](https://conf.ccf.org.cn/web/html7/index.html?globalId=1bd8b44aa7a245bdac92ae7a79f5588f&type=1)), *Invited Talk* in Blockchain Architecture and Consensus Mechanism, "Thoughts on Reference Architecture and Consensus Mechanism of Enterprise Blockchain", December 18 - December 20, 2020, Jinan, China
 - 2020 Future Business Ecolink Conference ([FBEC 2020](https://fbec.info/)), *Keynote Talk* in [Global Blockchain Industry Future Summit](https://fbec.info/theMainVenueDetailsB),  "Applications and Thoughts of Blockchain in Enterprise Management Services", December 11, 2020, Shenzhen, China
-- 2020 Digital China Innovation Contest ([DCIC 2020](https://www.szzg.gov.cn/2020/cxds/)), *First Prize* of [Blockchain Track](https://www.datafountain.cn/competitions/446), The 3rd Digital China Summit, October 12 - 14, 2020, Fuzhou, China
+- 2020 Digital China Innovation Contest ([DCIC 2020](https://www.szzg.gov.cn/2020/cxds/)), *First Prize* of [Blockchain Track](https://www.datafountain.cn/competitions/446), The 3rd Digital China Summit, October 12 - October 14, 2020, Fuzhou, China
 - Series of Science and Technology Outlook in Shenzhen about Fueling New Infrastructure with AI Chips and Blockchain Technologies ([深圳科技展望系列活动：AI芯片及区块链技术助力新基建](https://seif.org.cn/archives/1686)), "The Research Progress of Kingee Blochchain", August 25, 2020, Shenzhen, China
+- Global Internet Architecture Conference ([GIAC 2020](http://giac-history.msup.com.cn/Giac2020/default/index)), August 14 - August 15, 2020, Shenzhen, China
+- Kingdee Live, ["Consortium Blockchain to Improve the Enterprise Data Credibility"](https://live.polyv.cn/watch/1783128), June 12, 2020, shenzhen, China
+- [Chief Information Officer Training Seminars in Lianyungang](https://mp.weixin.qq.com/s/Ljq6AErPev4RrTOCVw5dfg), "Blockchain Core Technology and Solution", January 17, 2020, lianyungang, China
 - 2019 International Conference on Blockchain ([ICBC 2019](http://blockchain1000.org/2019/)), "Layered Consensus Mechanism in Consortium Blockchain for Enterprise Services", June 25 - June 30, 2019, San Diego, CA, USA
+- Kingdee "Product & Technology High Potential Talent Energy Gas Station", 4th training course, September 16 - September 21, 2018, Shenzhen, China
 - 2018 Enterprise Tutor of Undergraduate Cognitive Practice, School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), "How Blockchain Change the Future", July 25, 2018, Shenzhen, China
 - Series of Kingdee Geek Talks, "Technical Analysis of Hyperledger Project", May 31, 2018, Shenzhen, China
 - Golden Practice in Kingdee Group for [Data Connecting Future](https://mp.weixin.qq.com/s/JhWkk8J3S9lSEGHzU3AJ_w), Golden Internship [Practice Tutor](https://mp.weixin.qq.com/s/FSD0Cczdk6CLQU0KFjM5hQ), January 5 - March 10, 2018, Shenzhen, China
 - Forum of Kingdee Research (1st Session), "Blockchain, A Technology Which will Disrupt the Future, the Principles and Applications", February 8, 2018, Shenzhen, China
-- 2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/)), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - 28, 2017, Williamsburg, VA, USA
-- 5th Fusion Simulation and Theory Workshop, "Alfvén eigenmode stability and energetic particle transport using the TGLF model", March 24 - 26, 2017, Beijing, China
+- 2017 US/EU Transport Task Force Workshop ([TTF17](https://fusion.gat.com/conferences/ttf17/)), "Alfvén eigenmode stability and critical gradient energetic particle transport using the Trapped-Gyro-Landau-Fluid model", April 25 - April 28, 2017, Williamsburg, VA, USA
+- 5th Fusion Simulation and Theory Workshop, "Alfvén eigenmode stability and energetic particle transport using the TGLF model", March 24 - March 26, 2017, Beijing, China
 - 58th Annual Meeting of the APS Division of Plasma Physics ([APS-DPP16](http://meetings.aps.org/Meeting/DPP16/Content/3190)), "Alfvén eigenmode stability and energetic particle transport using the TGLF model", October 31 – November 4, 2016, San Jose, CA, USA
-- 3rd Fusion Simulation and Theory [Workshop](http://www.hf.cas.cn/xwzx/hzyjl/201503/t20150331_4329566.html), "Trapped Gyro-Landau Fluid (TGLF) model for energetic particle transport and Alfven eigenmode stability", March 23 - 25, 2015, Hefei, China
-- 2014 Chinese Summer School on Plasma Physics ([CSSPP14](http://www.ipp.cas.cn/tzgg/tz_yjs/201405/W020140522613879939202.pdf)), July 13 - 20, 2014, Wuhan, China
+- 3rd Fusion Simulation and Theory [Workshop](http://www.hf.cas.cn/xwzx/hzyjl/201503/t20150331_4329566.html), "Trapped Gyro-Landau Fluid (TGLF) model for energetic particle transport and Alfven eigenmode stability", March 23 - March 25, 2015, Hefei, China
+- 2014 Chinese Summer School on Plasma Physics ([CSSPP14](http://www.ipp.cas.cn/tzgg/tz_yjs/201405/W020140522613879939202.pdf)), July 13 - July 20, 2014, Wuhan, China
 - 2nd Fusion Simulation and Theory [Workshop](http://politics.people.com.cn/n/2014/0327/c70731-24750056.html), March 19 - March 21, 2014, Chengdu, China
-- 13th IAEA [Technical Meeting](https://iopscience.iop.org/article/10.1088/0029-5515/54/10/100301/pdf) on Energetic Particles in Magnetic Confinement Systems, September 17 – 20, 2013, Beijing, China
-- 7th National Youth Conference on Computational Physics, August 6 - 10, 2013, Guilin, China
+- 13th IAEA [Technical Meeting](https://iopscience.iop.org/article/10.1088/0029-5515/54/10/100301/pdf) on Energetic Particles in Magnetic Confinement Systems, September 17 – September 20, 2013, Beijing, China
+- 7th National Youth Conference on Computational Physics, August 6 - August 10, 2013, Guilin, China
 - Summer Practice, Southwestern Institute of Physics ([SWIP](https://www.swip.ac.cn/)), July 29 - August 1, 2013, Chengdu, China
-- 2013 Chinese Summer School on Plasma Physics ([CSSPP13](http://www.ipp.cas.cn/tzgg/tz_zhb/201306/W020130616727665840228.pdf)), July 22 - 27, 2013, Wuhan, China
+- 2013 Chinese Summer School on Plasma Physics ([CSSPP13](http://www.ipp.cas.cn/tzgg/tz_zhb/201306/W020130616727665840228.pdf)), July 22 - July 27, 2013, Wuhan, China
 
 ### Reviews
 
