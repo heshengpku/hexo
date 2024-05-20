@@ -111,7 +111,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Seminar on Future Development and Industrial Application of Large Model Technology, Shenzhen City Computer Federation, "Research on Large Model Technology and Applications in Enterprise Scenarios", May 20, 2023, Shenzhen, China
 - Seminar on Topic 2 of "Multi-Value-Chain Collaboration Technology and Method based on Third-party Platform", Network Collaborative Manufacturing and Smart Factories Special Fund in National Key Research and Development Program of China, May 15, 2023, Chengdu, China
 - Panel Member, [Project Launch and Implementation Plan Discussion Meeting](https://mp.weixin.qq.com/s/f0VQ-LUIAbcmPrJ10QupDA) of "Key Technologies in Secure and Flexible Blockchain Network", Blockchain Special Fund in National Key Research and Development Program of China, March 17, 2023, Shenzhen, China
-- 2023 [CAICT](http://www.caict.ac.cn/) ICT In-depth observation [conference](https://ict.caict.ac.cn/app/web/guests.php)，Panel in [Parallel Forum on Digital Transformation of Government and Enterprise](https://ict.caict.ac.cn/app/web/livedetail.php?sid=43&type=detail), January 9, 2023, Beijing, China (Online)
+- 2023 [CAICT](http://www.caict.ac.cn/) ICT In-depth observation [conference](https://ict.caict.ac.cn/app/web/guests.php), Panel in [Parallel Forum on Digital Transformation of Government and Enterprise](https://ict.caict.ac.cn/app/web/livedetail.php?sid=43&type=detail), January 9, 2023, Beijing, China (Online)
 - Guangdong Blockchain Industry Cluster [Standardization Workshop](https://mp.weixin.qq.com/s/-B-s-grmiuUI-8vkqMU-VA), August 24, 2022, Guangzhou, China
 - The 7th International Conference on Smart Finance ([ICSF 2022](https://www.hkubs.hku.hk/eventsite/ICSF2022/programme-agenda/)), Panel on Topic "Supply Chain Finance & Blockchain Technology", August 19, 2022, Hong Kong, China (Online)
 - [CCF Technology Salon](https://mp.weixin.qq.com/s/mdxJuzbVp7EgEax0cqHpRQ), Blockchain Architecture and Consensus, "One-Stop and Low-Code Blockchain Platform Architecture", June 24, 2022, Hangzhou, China (Online)
@@ -149,18 +149,19 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Kingdee "Aspire Class", Second training course, May 25 - May 28, 2022, Shenzhen, China
 - Global Internet Architecture Conference ([GIAC 2020](http://giac-history.msup.com.cn/Giac2020/default/index)), August 14 - August 15, 2020, Shenzhen, China
 - Kingdee "Product & Technology High Potential Talent Energy Gas Station", 4th training course, September 16 - September 21, 2018, Shenzhen, China
-- 2014 Chinese Summer School on Plasma Physics ([CSSPP14](http://www.ipp.cas.cn/tzgg/tz_yjs/201405/W020140522613879939202.pdf)), July 13 - July 20, 2014, Wuhan, China
+- 2014 Chinese Summer School on Plasma Physics ([CSSPP14](http://www.ipp.cas.cn/tzgg/tz_yjs/201405/W020140522613879939202.pdf)), July 13 - July 20, 2014, Suzhou, China
 - Summer Practice, Southwestern Institute of Physics ([SWIP](https://www.swip.ac.cn/)), July 29 - August 1, 2013, Chengdu, China
 - 2013 Chinese Summer School on Plasma Physics ([CSSPP13](http://www.ipp.cas.cn/tzgg/tz_zhb/201306/W020130616727665840228.pdf)), July 22 - July 27, 2013, Wuhan, China
 
 ### Reviews
 
-- Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/), [2022](http://icws.org/2022/), [2023](http://icws.org/2023/), Organization Committee Member
-- Shenzhen Science and Technology Innovation Committee [2024 Entrepreneurial Projects](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10781592.html), Review Expert, January 18, 2024, shenzhen, China
-- Kingdee 2023 Business Mid-Platform (Accountability Unit Level) Subtle Innovation Award Selection, Technical Review Expert, November 29, 2023, Shenzhen, China
-- 2023 International Conference on Metaverse ([METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)), Organizing Committee Program Chair, September 23 - 26, 2023, Honolulu, HI, USA
-- [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), Final of Internet and Mobile Internet, Technical Review Expert, October 28, 2021, Shenzhen, China
-- [12th Shenzhen Innovation and Entrepreneurship Competition](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html), Semifinal, Technical Review Expert, September 7, 2020, Shenzhen, China
+- Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/), [2022](http://icws.org/2022/), [2023](http://icws.org/2023/), [2024](http://icws.org/2024/), Organization Committee Member
+- Member, Thesis Defense Committee for Master Degree, [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 18, 2024, Shenzhen, China
+- Review Expert, Shenzhen Science and Technology Innovation Committee [2024 Entrepreneurial Projects](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10781592.html), January 18, 2024, Shenzhen, China
+- Technical Review Expert, Kingdee 2023 Business Mid-Platform (Accountability Unit Level) Subtle Innovation Award Selection, November 29, 2023, Shenzhen, China
+- Organizing Committee Program Chair, 2023 International Conference on Metaverse ([METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)), September 23 - 26, 2023, Honolulu, HI, USA
+- Technical Review Expert, Final of Internet and Mobile Internet, [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), October 28, 2021, Shenzhen, China
+- Technical Review Expert, Semifinal, [12th Shenzhen Innovation and Entrepreneurship Competition](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html), September 7, 2020, Shenzhen, China
 
 **Journal Reviews:**
 

@@ -155,7 +155,8 @@ type: "about"
 
 ### 评审工作
 
-- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)国际服务会议联盟（SCF）组织委员会成员
+- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)、[2024年](http://icws.org/2024/)国际服务会议联盟（SCF）组织委员会成员
+- 2024年5月18日，中国深圳，[深圳大学](https://www.szu.edu.cn/)[电子与信息工程学院](https://ceie.szu.edu.cn/)硕士研究生学位论文答辩，答辩委员
 - 2024年1月18日，中国深圳，深圳市科技创新委员会[2024年度创业资助项目](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10781592.html)，评审专家
 - 2023年11月29日，中国深圳，金蝶2023年业务中台责任单位级微创新奖评选，评委
 - 2023年9月23日至26日，美国火奴鲁鲁，国际元宇宙学术会议（[METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)），程序委员会主席
