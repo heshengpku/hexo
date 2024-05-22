@@ -1,7 +1,7 @@
 ---
 title: Introduction to Quantum Computing
 date: 2023-05-11 16：34：33
-category: Technoligies
+category: Technologies
 tags:
  - Quantum Computing
 ---
