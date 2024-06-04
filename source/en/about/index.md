@@ -102,6 +102,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- Visiting Lecturer, Blockchain Application Development Section of Graduate Course "Blockchain and its Applications", [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 29 & June 5, 2024, Shenzhen, China
 - National Standards Seminar, May 11, 2024, Beijing, China
 - Project Key Member, Project Comprehensive Performance Evaluation Meeting of "Multi-Value-Chain Collaboration Technology and Method based on Third-party Platform", Network Collaborative Manufacturing and Smart Factories Special Fund in National Key Research and Development Program of China, April 12, 2024, Chengdu, China
 - Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)) Blockchain and Web3.0 Tea Party, January 10, 2024, Shenzhen, China
