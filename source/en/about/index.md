@@ -65,6 +65,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Project Key Member, Core Research and Development of Industrial Chain Interconnection Operating System, Industrial Software Key Project in National Key Research and Development Program of China, December 2023 - November 2026 ([No.2023YFB3308502](https://service.most.gov.cn/kjjh_tztg_all/20230605/5210.html))
 - Sub-project Leader, Supply Chain Management System Based on "Industrial Internet Platform + Blockchain", 2020 Industrial Internet Innovation and Development Project from Ministry of Industry and Information Technology -- Intelligent Application Project Based on Industrial Internet Platform, September 2020 - September 2022
 - Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, August 2020 - August 2023 ([No.2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html))
+- Project Key Member, Research and Development of Key Technologies in Intelligent Decisions Based on General Large Models, Key Program of Shenzhen Science and Technology Plan, December 2023
 - Project Leader, Key Technology Development of Cross-Financial Industry Intelligent Engine System Based on Trusted Isolated Federal Learning, General Program of Shenzhen Science and Technology Plan, September 2020 - September 2022 ([No.JSGG20191129110603831](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10581951.html))
 - Project Leader, [Kingdee Blockchain (KDBC) Software](http://gxj.sz.gov.cn/gkmlpt/content/10/10126/post_10126313.html#3115), Digital Economy Industrial Chain Improving Plan of Shenzhen Special Fund for Digital Economy in 2022, June 2019 - June 2021
 - Project Technical Leader, Shenzhen Engineering Research Center for Enterprise Blockchain Technologies and Applications, Shenzhen Strategic Emerging Industry Support Funding, July 2018 - December 2020 ([No.S-2018-164-503559](http://fgw.sz.gov.cn/zwgk/qt/tzgg/content/post_4585101.html))
@@ -102,6 +103,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- Shenzhen Experts, Study tour between Office of Shenzhen Cyberspace Affairs Commission (Shenzhen CAC) and Office of Chengdu Cyberspace Affairs Commission (Chengdu CAC), June 18, 2024, Shenzhen, China
 - Visiting Lecturer, Blockchain Application Development Section of Graduate Course "Blockchain and its Applications", [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 29 & June 5, 2024, Shenzhen, China
 - National Standards Seminar, May 11, 2024, Beijing, China
 - Project Key Member, Project Comprehensive Performance Evaluation Meeting of "Multi-Value-Chain Collaboration Technology and Method based on Third-party Platform", Network Collaborative Manufacturing and Smart Factories Special Fund in National Key Research and Development Program of China, April 12, 2024, Chengdu, China
