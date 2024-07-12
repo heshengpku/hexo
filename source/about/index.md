@@ -73,15 +73,16 @@ type: "about"
 
 ### 奖项荣誉
 
-- 2023年度金蝶研发平台微创新奖
-- 2023年[国际服务会议联盟](https://www.servicessociety.org/)杰出服务奖
-- [2023年度深圳市科学技术奖](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html)科技进步奖一等奖
-- 2020年度金蝶中国优秀员工
-- 2020年度金蝶云苍穹优秀团队
-- [2020数字中国创新大赛](https://www.szzg.gov.cn/2020/cxds/)一等奖
-- 2019年度金蝶发明达人奖
-- 2018年度金蝶集团微创新奖
-- [北京大学](https://pkunews.pku.edu.cn/xwzh/2017-07/05/content_298556.htm)2017届[优秀毕业生](https://www.phy.pku.edu.cn/info/1179/2286.htm)
+- 2024年金蝶研发平台部AI演讲大赛AI演讲之星，2024年7月3日
+- 2023年度金蝶研发平台微创新奖，2024年1月
+- 2023年度[国际服务会议联盟](https://www.servicessociety.org/)杰出服务奖，2023年12月17日
+- [2023年度深圳市科学技术奖](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html)**科技进步奖一等奖**，省部级，2023年11月
+- 2020年度金蝶中国优秀员工，2021年1月
+- 2020年度金蝶云苍穹优秀团队，2021年1月
+- [2020数字中国创新大赛](https://www.szzg.gov.cn/2020/cxds/)一等奖，2020年10月14日
+- 2018年度金蝶发明达人奖，2019年4月
+- 2018年度金蝶集团微创新奖，2019年1月
+- [北京大学](https://pkunews.pku.edu.cn/xwzh/2017-07/05/content_298556.htm)2017届[优秀毕业生](https://www.phy.pku.edu.cn/info/1179/2286.htm)，2017年7月
 - 2016年北京大学三好学生
 - 2015年北京大学博士专项奖学金
 - 2012年至2015年北京大学[校长奖学金](https://grs.pku.edu.cn/jzgz/dtxx1/xwdt1/232510.htm)
