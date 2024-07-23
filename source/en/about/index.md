@@ -63,7 +63,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Projects
 
-- Project Key Member, Core Research and Development of Industrial Chain Interconnection Operating System, Industrial Software Key Project in National Key Research and Development Program of China, December 2023 - November 2026 ([No.2023YFB3308502](https://service.most.gov.cn/kjjh_tztg_all/20230605/5210.html))
+- Project Key Member, Core Research and Development of Industrial Chain Interconnection Operating System, Industrial Software Special Fund in National Key Research and Development Program of China, December 2023 - November 2026 ([No.2023YFB3308502](https://service.most.gov.cn/kjjh_tztg_all/20230605/5210.html))
 - Sub-project Leader, Supply Chain Management System Based on "Industrial Internet Platform + Blockchain", 2020 Industrial Internet Innovation and Development Project from Ministry of Industry and Information Technology -- Intelligent Application Project Based on Industrial Internet Platform, September 2020 - September 2022
 - Sub-project Leader, Key Technologies on the Consortium Blockchian, Key-Area Research and Development Program of Guangdong Province, August 2020 - August 2023 ([No.2020B0101090003](http://gdstc.gd.gov.cn/pro/tzgg/content/post_2911402.html))
 - Project Key Member, Research and Development of Key Technologies in Intelligent Decisions Based on General Large Models, Key Program of Shenzhen Science and Technology Plan, December 2023
@@ -105,9 +105,10 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- Project Key Member, Workshop on Integrated Business Resource Models and Process Technologies of "Core Research and Development of Industrial Chain Interconnection Operating System", Industrial Software Special Fund in National Key Research and Development Program of China, July 21 - July 22, Kunming, China
 - Shenzhen Experts, Study tour between Office of Shenzhen Cyberspace Affairs Commission (Shenzhen CAC) and Office of Chengdu Cyberspace Affairs Commission (Chengdu CAC), June 18, 2024, Shenzhen, China
 - Visiting Lecturer, Blockchain Application Development Section of Graduate Course "Blockchain and its Applications", [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 29 & June 5, 2024, Shenzhen, China
-- National Standards Seminar, May 11, 2024, Beijing, China
+- National Standards Seminar of "Core Research and Development of Industrial Chain Interconnection Operating System", Industrial Software Special Fund in National Key Research and Development Program of China, May 11, 2024, Beijing, China
 - Project Key Member, Project Comprehensive Performance Evaluation Meeting of "Multi-Value-Chain Collaboration Technology and Method based on Third-party Platform", Network Collaborative Manufacturing and Smart Factories Special Fund in National Key Research and Development Program of China, April 12, 2024, Chengdu, China
 - Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)) Blockchain and Web3.0 Tea Party, January 10, 2024, Shenzhen, China
 - Organization Committee Member, 2023 Services Conference Federation ([SCF 2023](http://icws.org/2023)) and [11th China Big Data Industry Summit](https://mp.weixin.qq.com/s/yaWtNE0T7TEz5hyMRKijKA), Outstanding Services Awards, December 17, 2023, Shenzhen, China
