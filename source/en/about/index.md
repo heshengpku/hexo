@@ -105,6 +105,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- Representative of the Council Unit, the 13th council meeting of the first session of the Shenzhen Association for Artificial Intelligence and [the preparatory meeting for the change of term](https://mp.weixin.qq.com/s/d0Vh0u3f4MEVqrdUY9E0lQ), September 22, 2024, Shenzhen, China
 - Project Key Member, Workshop on Integrated Business Resource Models and Process Technologies of "Core Research and Development of Industrial Chain Interconnection Operating System", Industrial Software Special Fund in National Key Research and Development Program of China, July 21 - July 22, Kunming, China
 - Shenzhen Experts, Study tour between Office of Shenzhen Cyberspace Affairs Commission (Shenzhen CAC) and Office of Chengdu Cyberspace Affairs Commission (Chengdu CAC), June 18, 2024, Shenzhen, China
 - Visiting Lecturer, Blockchain Application Development Section of Graduate Course "Blockchain and its Applications", [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 29 & June 5, 2024, Shenzhen, China
