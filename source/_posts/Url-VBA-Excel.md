@@ -16,6 +16,8 @@ tags:
 
 4. 接着在打开的“模块1”编辑界面中，输入代码：
 
+<!--more-->
+
 ```VB
 Function GetActAddress(HlinkCell)
 Application.Volatile True

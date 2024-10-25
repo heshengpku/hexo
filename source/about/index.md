@@ -42,6 +42,9 @@ type: "about"
   
 ### 发表文章
 
+- [A Paradigm Shift to Causal Model-Driven Decision-Making With Generative AI](https://link.springer.com/chapter/10.1007/978-3-031-44920-8_3), **Sheng He**, Yishuang Ning, Liang-Jie Zhang, Kai Lei, *Proceedings of 13th International Conference on AI and Multimodal Services (AIMS 2024)*, Lecture Notes in Computer Science, vol. 15421, *to be published* (2024)
+- [Accelerating Blockchain Application Development: Integrating Blockchain as a Service Within Low-Code Platforms](https://link.springer.com/chapter/10.1007/978-3-031-44920-8_3), **Sheng He**, Qinglin Huang, Shaoshuai Jiao, Zepeng Lin, Jinxuan Lin, Jun Ren, Dengbin Xiong, Liang-Jie Zhang, *Proceedings of 7th International Conference on Blockchain (ICBC 2024)*, Lecture Notes in Computer Science, vol. 15425, *to be published* (2024)
+- [COSIS: An AI-Enabled Digital Transformation Framework Integrating Large Language Models and Key Performance Indicators](https://link.springer.com/chapter/10.1007/978-3-031-44920-8_3), Liang-Jie Zhang, Huan Chen, **Sheng He**, Changhu Li, Junyang Chen, Haodi Zhang, Wenfeng Du, *Proceedings of 21th International Conference on Services Computing (SCC 2024)*, Lecture Notes in Computer Science, vol. 15430, *to be published* (2024)
 - [Multi-Factor Water Level Prediction Based on IndRNN-Attention](https://link.springer.com/chapter/10.1007/978-3-031-51671-9_7), Haifeng Lv, Yishuang Ning, Ke Ning, **Sheng He**, Hongquan Lin, *Proceedings of 7th International Conference on Cognitive Computing (ICCC 2023)*, Lecture Notes in Computer Science, vol. 14207, pp. 89–99 (2023)
 - [A Blockchain-Based Micro-services Architecture for Distributed Business](https://link.springer.com/chapter/10.1007/978-3-031-44920-8_3), **Sheng He**, Yishuang Ning, Dengbin Xiong, Junhui Ma, *Proceedings of 6th International Conference on Blockchain (ICBC 2023)*, Lecture Notes in Computer Science, vol. 14206, pp. 38–53 (2023)
 - [Chinese Text Classification Using BERT and Flat-Lattice Transformer](https://link.springer.com/chapter/10.1007/978-3-031-23504-7_5), Haifeng Lv, Yishuang Ning, Ke Ning, Xiaoyu Ji, **Sheng He**, *Proceedings of 11th International Conference on Artificial Intelligence and Mobile Services (AIMS 2022)*, Lecture Notes in Computer Science, vol. 13729, pp. 64-75 (2022)
@@ -109,6 +112,7 @@ type: "about"
 
 ### 近期活动
 
+- 2024年11月16日至19日，泰国曼谷，2024 International Conference on AI and Multimodal Services ([AIMS 2024](http://ai1000.org/2024/))，《A Paradigm Shift to Causal Model-Driven Decision-Making With Generative AI》，2024 International Conference on Blockchain ([ICBC 2024](http://blockchain1000.org/2024/))，《Accelerating Blockchain Application Development: Integrating Blockchain as a Service Within Low-Code Platforms》
 - 2024年10月22日，中国成都，国家重点研发计划“工业软件”重点专项《产业链互联操作系统核心研发》项目一体化业务流程和模型确认会，项目骨干
 - 2024年9月22日，中国深圳，深圳市人工智能学会第一届第十三次理事会暨[换届筹备大会](https://mp.weixin.qq.com/s/d0Vh0u3f4MEVqrdUY9E0lQ)，理事单位代表
 - 2024年7月21日至22日，中国昆明，国家重点研发计划“工业软件”重点专项《产业链互联操作系统核心研发》项目一体化业务资源模型和流程技术研讨会，项目骨干
