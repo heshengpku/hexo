@@ -29,7 +29,7 @@ type: "about"
 - 深圳市创业创新联合会（[SEIF](https://seif.org.cn/)）会员，2019年4月
 - 深圳市人工智能学会（[SAAI](https://saai.net.cn/)）会员，2019年3月
 - 国际服务学会（[S2](https://www.servicessociety.org/)）会员，2017年10月
-- 深圳市工业和信息化局[专家库](https://wb.gxj.sz.gov.cn/expert/)入库专家，2024年10月
+- 深圳市工业和信息化局[专家库](https://gxj.sz.gov.cn/xxgk/xxgkml/qt/tzgg/content/post_11700963.html)入库专家，2024年10月
 - 深圳市[科技专家库](http://system.szexpert.org/egrantweb/)入库专家，2022年6月
 - 深圳市科技创新局[专家库](https://expert.hiic.com.cn/)项目评审专家，2019年12月
 

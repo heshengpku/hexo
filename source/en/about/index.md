@@ -29,7 +29,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Member, Shenzhen Entrepreneurship and Innovation Federation ([SEIF](https://seif.org.cn/)), April 2019
 - Member, Shenzhen Association for Artificial Intelligence ([SAAI](https://saai.net.cn/)), March 2019
 - Member, Services Society ([S2](https://www.servicessociety.org/)), October 2017
-- Approved Expert, The [Expert Database](https://wb.gxj.sz.gov.cn/expert/) of Shenzhen Industry and Information Technology Bureau, October 2024
+- Approved Expert, The [Expert Database](https://gxj.sz.gov.cn/xxgk/xxgkml/qt/tzgg/content/post_11700963.html) of Shenzhen Industry and Information Technology Bureau, October 2024
 - Approved Expert, The Shenzhen [Science and Technology Expert Database](http://system.szexpert.org/egrantweb/), June 2022
 - Expert of Project Review, The [Expert Database](https://expert.hiic.com.cn/) of Shenzhen Science and Technology Innovation Bureau, December 2019
 
