@@ -174,7 +174,7 @@ type: "about"
 ### 评审工作
 
 - 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)、[2024年](http://icws.org/2024/)国际服务会议联盟（SCF）组织委员会成员
-- 2024年11月20，中国深圳，深圳市中小企业服务局[2024年度中小企业数字化服务商扶持计划](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_11549871.html)，评审专家
+- 2024年11月20日，中国深圳，深圳市中小企业服务局[2024年度中小企业数字化服务商扶持计划](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_11549871.html)，评审专家
 - 2024年11月16日至19日，泰国曼谷，国际服务计算学术会议（[SCC 2024](https://link.springer.com/book/10.1007/978-3-031-77000-5)），程序委员会主席
 - 2024年5月18日，中国深圳，[深圳大学](https://www.szu.edu.cn/)[电子与信息工程学院](https://ceie.szu.edu.cn/)硕士研究生学位论文答辩，答辩委员
 - 2024年1月18日，中国深圳，深圳市科技创新委员会[2024年度创业资助项目](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10781592.html)，评审专家
