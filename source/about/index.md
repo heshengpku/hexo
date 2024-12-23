@@ -117,6 +117,7 @@ type: "about"
 
 ### 近期活动
 
+- 2024年12月21日，中国深圳，中国计算机学会（[CCF](https://www.ccf.org.cn/)深圳）、深圳市计算机学会（[SZCCF](https://www.szccf.org.cn/)）“数字具身·智慧无人”学术研讨会暨2024迎新会，特邀参会嘉宾
 - 2024年11月16日至19日，泰国曼谷，2024 International Conference on AI and Multimodal Services ([AIMS 2024](http://ai1000.org/2024/))，《A Paradigm Shift to Causal Model-Driven Decision-Making With Generative AI》，2024 International Conference on Blockchain ([ICBC 2024](http://blockchain1000.org/2024/))，《Accelerating Blockchain Application Development: Integrating Blockchain as a Service Within Low-Code Platforms》
 - 2024年10月22日，中国成都，国家重点研发计划“工业软件”重点专项《产业链互联操作系统核心研发》项目一体化业务流程和模型确认会，项目骨干
 - 2024年9月22日，中国深圳，深圳市人工智能学会第一届第十三次理事会暨[换届筹备大会](https://mp.weixin.qq.com/s/d0Vh0u3f4MEVqrdUY9E0lQ)，理事单位代表
@@ -125,7 +126,7 @@ type: "about"
 - 2024年5月29日及6月5日，中国深圳，[深圳大学](https://www.szu.edu.cn/)[计算机与软件学院](https://csse.szu.edu.cn/)，研究生课程《区块链及应用》区块链应用开发部分，校外讲师
 - 2024年5月11日，中国北京，国家重点研发计划“工业软件”重点专项《产业链互联操作系统核心研发》国家标准研讨会，项目骨干
 - 2024年4月12日，中国成都，国家重点研发计划“网络协同制造和智能工厂”重点专项《基于第三方平台的多价值链协同技术与方法》项目综合绩效评价会议，项目骨干
-- 2024年1月10日，中国深圳，深圳市计算机协会（[SZCCF](https://www.szccf.org.cn/)）区块链与Web3.0茶话会
+- 2024年1月10日，中国深圳，深圳市计算机学会（[SZCCF](https://www.szccf.org.cn/)）区块链与Web3.0茶话会
 - 2023年12月17日，中国深圳，[第十一届中国大数据产业峰会](https://mp.weixin.qq.com/s/yaWtNE0T7TEz5hyMRKijKA)暨2023国际服务联合会议中国会场（[SCF 2023](http://icws.org/2023)），组织委员会成员，杰出服务奖
 - 2023年12月3日，中国深圳，数字新质·湾区共创论坛暨2023大湾区计算机大会（[BBCC 2023](https://mp.weixin.qq.com/s/u3JbriBYHZAy5HbQwja7Mg)），特邀参会嘉宾
 - 2023年6月28日，中国深圳，哈尔滨工业大学（深圳）计算机科学与技术学院，2023年度本科生认知实习讲师，《企业数据场景下的隐私计算应用研究》

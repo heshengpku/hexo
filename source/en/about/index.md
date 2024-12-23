@@ -117,6 +117,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- China Computer Federation ([CCF](https://www.ccf.org.cn/) SHENZHEN)、Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)) "Digital Embodiment · Smart Autonomy" Academic Seminar and 2024 Welcome Party, December 21, 2024, Shenzhen, China
 - 2024 International Conference on AI and Multimodal Services ([AIMS 2024](http://ai1000.org/2024/)), "A Paradigm Shift to Causal Model-Driven Decision-Making With Generative AI", 2024 International Conference on Blockchain ([ICBC 2024](http://blockchain1000.org/2024/)), "Accelerating Blockchain Application Development: Integrating Blockchain as a Service Within Low-Code Platforms", November 16 - 19, 2024, Bangkok, Thailand
 - Project Key Member, Workshop on Integrated Business Process and Models of "Core Research and Development of Industrial Chain Interconnection Operating System", Industrial Software Special Fund in National Key Research and Development Program of China, October 22, Chengdu, China
 - Representative of the Council Unit, the 13th council meeting of the first session of the Shenzhen Association for Artificial Intelligence and [the preparatory meeting for the change of term](https://mp.weixin.qq.com/s/d0Vh0u3f4MEVqrdUY9E0lQ), September 22, 2024, Shenzhen, China
