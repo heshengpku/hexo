@@ -117,7 +117,7 @@ type: "about"
 
 ### 近期活动
 
-- 2024年12月21日，中国深圳，中国计算机学会（[CCF](https://www.ccf.org.cn/)深圳）、深圳市计算机学会（[SZCCF](https://www.szccf.org.cn/)）“数字具身·智慧无人”学术研讨会暨2024迎新会，特邀参会嘉宾
+- 2024年12月21日，中国深圳，中国计算机学会（[CCF](https://www.ccf.org.cn/)深圳）、深圳市计算机学会（[SZCCF](https://www.szccf.org.cn/)）“数字具身·智慧无人”[学术研讨会暨2024迎新会](https://mp.weixin.qq.com/s/eOmQ8YvLrdT6Ahz2uxKTaw)，特邀参会嘉宾
 - 2024年11月16日至19日，泰国曼谷，2024 International Conference on AI and Multimodal Services ([AIMS 2024](http://ai1000.org/2024/))，《A Paradigm Shift to Causal Model-Driven Decision-Making With Generative AI》，2024 International Conference on Blockchain ([ICBC 2024](http://blockchain1000.org/2024/))，《Accelerating Blockchain Application Development: Integrating Blockchain as a Service Within Low-Code Platforms》
 - 2024年10月22日，中国成都，国家重点研发计划“工业软件”重点专项《产业链互联操作系统核心研发》项目一体化业务流程和模型确认会，项目骨干
 - 2024年9月22日，中国深圳，深圳市人工智能学会第一届第十三次理事会暨[换届筹备大会](https://mp.weixin.qq.com/s/d0Vh0u3f4MEVqrdUY9E0lQ)，理事单位代表
