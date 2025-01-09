@@ -23,7 +23,8 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Job Title's Leader of Researcher in Research Type of Technical Group, Kingdee Qualification Professional Committee, April 2022
 - Deputy Director, Shenzhen Enterprise Key Laboratory of Application Software, July 2021
 - Editorial Review Board Member, International Journal of Web Services Research ([IJWSR](https://www.igi-global.com/journals/open-access/reviewers/international-journal-web-services-research/1079)), December 2023
-- Associate Editor, International Journal of Business Process Integration and Management ([IJBPIM](https://www.inderscience.com/jhome.php?jcode=ijbpim)), July, 2024
+- Associate Editor, International Journal of Business Process Integration and Management ([IJBPIM](https://www.inderscience.com/jhome.php?jcode=ijbpim)), July 2024
+- Master's External Supervisor, Communication Engineering, [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), December 2024
 - [Senior Member](https://mp.weixin.qq.com/s/i2iLVpJI5ymAdWV0Kz3ZkA), China Computer Federation ([CCF](https://www.ccf.org.cn/)), April 2024 (& Member, December 2017)
 - Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](https://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), March 2022
 - Member, Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)), April 2020
