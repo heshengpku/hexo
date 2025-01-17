@@ -86,9 +86,10 @@ type: "about"
 
 ### 奖项荣誉
 
+- [2024年度吴文俊人工智能科学技术奖](https://mp.weixin.qq.com/s/-V5PBAeT1hNRgdR1vPo2Yg)**科技进步奖一等奖**，2025年1月
 - 2024年金蝶研发平台部AI演讲大赛AI演讲之星、季军，2024年7月3日
 - 2023年度金蝶研发平台微创新奖，2024年1月
-- 2023年度[国际服务会议联盟](https://www.servicessociety.org/)杰出服务奖，2023年12月17日
+- [2023年度国际服务会议联盟](https://www.servicessociety.org/awards#scf2023)杰出服务奖，2023年12月17日
 - [2023年度深圳市科学技术奖](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html)**科技进步奖一等奖**，省部级，2023年11月
 - 2020年度金蝶中国优秀员工，2021年1月
 - 2020年度金蝶云苍穹优秀团队，2021年1月
