@@ -81,7 +81,7 @@ type: "about"
 
 **标准：**
 
-- 《数字化转型管理 参考架构》，计划号：[20221958-T-339](https://std.samr.gov.cn/gb/search/gbDetailed?id=F159159B67A90802E05397BE0A0A5F89)，归口单位：全国信息化和工业化融合管理标准化技术委员会（[TC573](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC573)），主管部门：工业和信息化部
+- [GB/T 45341-2025](https://std.samr.gov.cn/gb/search/gbDetailed?id=2FF37940EB9ED753E06397BE0A0A413F)《数字化转型管理 参考架构》，计划号：[20221958-T-339](https://std.samr.gov.cn/gb/search/gbDetailed?id=F159159B67A90802E05397BE0A0A5F89)，归口单位：全国信息化和工业化融合管理标准化技术委员会（[TC573](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC573)），主管部门：工业和信息化部
 - 《企业建模与体系结构 企业参考体系结构与方法论的要求》，计划号：[20230599-T-604](https://std.samr.gov.cn/gb/search/gbDetailed?id=02DDB68A4C24AFA9E06397BE0A0A5C73)，归口单位：全国自动化系统与集成标准化技术委员会（[TC159](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC159)），主管部门：中国机械工业联合会
 
 ### 奖项荣誉
