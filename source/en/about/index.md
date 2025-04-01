@@ -181,7 +181,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 ### Reviews
 
 - Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/), [2022](http://icws.org/2022/), [2023](http://icws.org/2023/), [2024](http://icws.org/2024/), Organization Committee Member
-- Review Expert, 2024 Third Batch Acceptance of Shenzhen Science and Technology Plan, December 5, 2024, Shenzhen, China
+- Review Expert, [2024 Third Batch Acceptance of Shenzhen Science and Technology Plan](https://stic.sz.gov.cn/xxgk/tzgg/content/post_11948981.html), December 5, 2024, Shenzhen, China
 - Review Expert, Shenzhen SME Service Bureau [2024 SME Digital Service Provider Support Plan](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_11549871.html), November 20, 2024, Shenzhen, China
 - Organizing Committee Program Chair, 2024 International Conference on Services Computing ([SCC 2024](https://link.springer.com/book/10.1007/978-3-031-77000-5)), November 16 - 19, 2024, Bangkok, Thailand
 - Member, Thesis Defense Committee for Master Degree, [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 18, 2024, Shenzhen, China
