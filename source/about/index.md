@@ -180,7 +180,8 @@ type: "about"
 
 ### 评审工作
 
-- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](http://icws.org/2021/)、[2022年](http://icws.org/2022/)、[2023年](http://icws.org/2023/)、[2024年](http://icws.org/2024/)国际服务会议联盟（SCF）组织委员会成员
+- 2025年9月27日至30日，中国香港，国际Web服务学术会议（[ICWS 2025](https://www.servicessociety.org/icws)），程序委员会主席
+- 2025年4月22日，中国深圳，深圳市工业和信息化局[企业技术改造项目扶持计划](https://gxj.sz.gov.cn/gkmlpt/content/11/11579/post_11579876.html#3115)，传统优势产业数字化转型项目，评审专家
 - 2024年12月5日，中国深圳，深圳市[2024年第3批科技计划项目验收](https://stic.sz.gov.cn/xxgk/tzgg/content/post_11948981.html)，评审专家
 - 2024年11月20日，中国深圳，深圳市中小企业服务局[2024年度中小企业数字化服务商扶持计划](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_11549871.html)，评审专家
 - 2024年11月16日至19日，泰国曼谷，国际服务计算学术会议（[SCC 2024](https://link.springer.com/book/10.1007/978-3-031-77000-5)），程序委员会主席
@@ -190,6 +191,7 @@ type: "about"
 - 2023年9月23日至26日，美国火奴鲁鲁，国际元宇宙学术会议（[METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)），程序委员会主席
 - 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家
+- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](https://www.servicessociety.org/icws/2021)、[2022年](https://www.servicessociety.org/icws/2022)、[2023年](https://www.servicessociety.org/icws/2023)、[2024年](https://www.servicessociety.org/icws/2024)、[2025年](https://www.servicessociety.org/icws)国际服务会议联盟（SCF）组织委员会成员
 
 **期刊审稿：**
 

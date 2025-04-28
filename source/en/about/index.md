@@ -180,16 +180,18 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Reviews
 
-- Services Conference Federation (SCF) [2018](http://icws.org/2018/), [2019](http://icws.org/2019/), [2020](http://icws.org/2020/), [2021](http://icws.org/2021/), [2022](http://icws.org/2022/), [2023](http://icws.org/2023/), [2024](http://icws.org/2024/), Organization Committee Member
+- Program Chair, Organizing Committee of 2025 International Conference on Web Services ([ICWS 2025](https://www.servicessociety.org/icws)), September 27 - 30, 2025, Hong Kong, China
+- Review Expert, Shenzhen Industry and Information Technology Bureau [Support Plan for Enterprise Technological Transformation Projects](https://gxj.sz.gov.cn/gkmlpt/content/11/11579/post_11579876.html#3115), Digital Transformation Projects for Traditional Advantageous Industries, April 22, 2025, Shenzhen, China
 - Review Expert, [2024 Third Batch Acceptance of Shenzhen Science and Technology Plan](https://stic.sz.gov.cn/xxgk/tzgg/content/post_11948981.html), December 5, 2024, Shenzhen, China
 - Review Expert, Shenzhen SME Service Bureau [2024 SME Digital Service Provider Support Plan](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_11549871.html), November 20, 2024, Shenzhen, China
-- Organizing Committee Program Chair, 2024 International Conference on Services Computing ([SCC 2024](https://link.springer.com/book/10.1007/978-3-031-77000-5)), November 16 - 19, 2024, Bangkok, Thailand
+- Program Chair, Organizing Committee of 2024 International Conference on Services Computing ([SCC 2024](https://link.springer.com/book/10.1007/978-3-031-77000-5)), November 16 - 19, 2024, Bangkok, Thailand
 - Member, Thesis Defense Committee for Master Degree, [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 18, 2024, Shenzhen, China
 - Review Expert, Shenzhen Science and Technology Innovation Committee [2024 Entrepreneurial Projects](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10781592.html), January 18, 2024, Shenzhen, China
 - Technical Review Expert, Kingdee 2023 Business Mid-Platform (Accountability Unit Level) Subtle Innovation Award Selection, November 29, 2023, Shenzhen, China
-- Organizing Committee Program Chair, 2023 International Conference on Metaverse ([METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)), September 23 - 26, 2023, Honolulu, HI, USA
+- Program Chair, Organizing Committee of 2023 International Conference on Metaverse ([METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)), September 23 - 26, 2023, Honolulu, HI, USA
 - Technical Review Expert, Final of Internet and Mobile Internet, [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), October 28, 2021, Shenzhen, China
 - Technical Review Expert, Semifinal, [12th Shenzhen Innovation and Entrepreneurship Competition](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html), September 7, 2020, Shenzhen, China
+- Organization Committee Member of Services Conference Federation (SCF) [2018](http://icws.org/2018/)、[2019](http://icws.org/2019/)、[2020](http://icws.org/2020/)、[2021](https://www.servicessociety.org/icws/2021)、[2022](https://www.servicessociety.org/icws/2022)、[2023](https://www.servicessociety.org/icws/2023)、[2024](https://www.servicessociety.org/icws/2024)、[2025](https://www.servicessociety.org/icws)
 
 **Journal Reviews:**
 
