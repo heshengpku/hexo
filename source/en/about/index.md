@@ -86,7 +86,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Awards & Honors
 
-- **First Prize of Science and Technology Progress Award** in [2024 Wu Wenjun Artificial Intelligence Science and Technology Award](https://mp.weixin.qq.com/s/-V5PBAeT1hNRgdR1vPo2Yg) (January 2025)
+- **First Prize of Science and Technology Progress Award** in [2024 Wu Wenjun Artificial Intelligence Science and Technology Award](https://mp.weixin.qq.com/s/-V5PBAeT1hNRgdR1vPo2Yg) (February 20, 2025)
 - Third Place, 2024 Kingdee R&D Platform Speech Star of AI Contest (July 3, 2024)
 - 2023 Subtle Innovation Award of Kingdee R&D Platform (January 2024)
 - Outstanding Services Awards of [2023 Services Conference Federation](https://www.servicessociety.org/awards#scf2023) (December 17, 2023)
