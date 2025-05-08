@@ -181,6 +181,8 @@ type: "about"
 ### 评审工作
 
 - 2025年9月27日至30日，中国香港，国际Web服务学术会议（[ICWS 2025](https://www.servicessociety.org/icws)），程序委员会主席
+- 2025年5月10日，中国深圳，[深圳大学](https://www.szu.edu.cn/)[电子与信息工程学院](https://ceie.szu.edu.cn/)硕士研究生学位论文答辩，答辩委员
+- 2025年5月8日，中国深圳，深圳市新一轮第二批重点企业遴选推荐计划项目，评审专家
 - 2025年4月22日，中国深圳，深圳市工业和信息化局[企业技术改造项目扶持计划](https://gxj.sz.gov.cn/gkmlpt/content/11/11579/post_11579876.html#3115)，传统优势产业数字化转型项目，评审专家
 - 2024年12月5日，中国深圳，深圳市[2024年第3批科技计划项目验收](https://stic.sz.gov.cn/xxgk/tzgg/content/post_11948981.html)，评审专家
 - 2024年11月20日，中国深圳，深圳市中小企业服务局[2024年度中小企业数字化服务商扶持计划](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_11549871.html)，评审专家
