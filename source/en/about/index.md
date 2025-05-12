@@ -100,8 +100,8 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Merit Student, Peking University (2016)
 - PhD Special Scholarship, Peking University (2015)
 - [Principal Scholarship](https://grs.pku.edu.cn/jzgz/dtxx1/xwdt1/232510.htm) of Peking University (2012-2015)
-- Second Prize of 26th National Physics Competition for College Students in Some Regions (2009)
-- Third Prize of [6th "Jiang Zehan Cup" Mathematical Modeling and Computer Application Competition](https://news.pku.edu.cn/xwzh/129-148928.htm) (2009)
+- Second Prize of 26th National Physics Competition for College Students in Some Regions (December 2009)
+- Third Prize of [6th "Jiang Zehan Cup" Mathematical Modeling and Computer Application Competition](https://news.pku.edu.cn/xwzh/129-148928.htm) (May 2009)
 
 ### Products
 
@@ -182,7 +182,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 - Program Chair, Organizing Committee of 2025 International Conference on Web Services ([ICWS 2025](https://www.servicessociety.org/icws)), September 27 - 30, 2025, Hong Kong, China
 - Member, Thesis Defense Committee for Master Degree, [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 10, 2025, Shenzhen, China
-- Review Expert, Shenzhen Key Enterprises Selection and Recommendation Plan, May 8, 2025, Shenzhen, China
+- Review Expert, Shenzhen [Key Enterprises Selection and Recommendation Plan](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_12148232.html), May 8, 2025, Shenzhen, China
 - Review Expert, Shenzhen Industry and Information Technology Bureau [Support Plan for Enterprise Technological Transformation Projects](https://gxj.sz.gov.cn/gkmlpt/content/11/11579/post_11579876.html#3115), Digital Transformation Projects for Traditional Advantageous Industries, April 22, 2025, Shenzhen, China
 - Review Expert, [2024 Third Batch Acceptance of Shenzhen Science and Technology Plan](https://stic.sz.gov.cn/xxgk/tzgg/content/post_11948981.html), December 5, 2024, Shenzhen, China
 - Review Expert, Shenzhen SME Service Bureau [2024 SME Digital Service Provider Support Plan](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_11549871.html), November 20, 2024, Shenzhen, China
