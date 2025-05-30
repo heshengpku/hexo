@@ -19,7 +19,6 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 - **Principal Researcher, [Kingdee International Software Group](https://www.kingdee.com/)**, August 2017
 - [Senior Engineer](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg), Professional Title on Artificial Intelligence of Guangdong Province, April 2023
-- Job Title's Leader of Researcher in Research Type of Technical Group, Kingdee Qualification Professional Committee, April 2022
 - Deputy Director, Shenzhen Enterprise Key Laboratory of Application Software, July 2021
 - Editorial Review Board Member, International Journal of Web Services Research ([IJWSR](https://www.igi-global.com/journals/open-access/reviewers/international-journal-web-services-research/1079)), December 2023
 - Associate Editor, International Journal of Business Process Integration and Management ([IJBPIM](https://www.inderscience.com/jhome.php?jcode=ijbpim)), July 2024
@@ -62,6 +61,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Experiences
 
+- Job Title's Leader of Researcher in Research Type of Technical Group, Kingdee Qualification Professional Committee, [Kingdee Group](https://www.kingdee.com/), April 2022 - May 2025
 - Vice Chair of Distinguished Experts Committee, Kingdee Technical and Product Committee, [Kingdee Group](https://www.kingdee.com/), March 2024 - March 2025
 - Secretary General of Blockchain Professional Committee, Kingdee Technical and Product Committee, [Kingdee Group](https://www.kingdee.com/), September 2019 - June 2021 (& Member, June 2021 - March 2024)
 - Member of Business Review Committee, Kingdee Strategic Investment Committee, [Kingdee Group](https://www.kingdee.com/), April 2020 - March 2021
