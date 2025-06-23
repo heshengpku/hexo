@@ -120,6 +120,8 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- Visiting Lecturer, Blockchain Application Development Section of Graduate Course "Blockchain and its Applications", [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 28 & June 4, 2025, Shenzhen, China
+- Project Key Member, Technical Workshop of "Core Research and Development of Industrial Chain Interconnection Operating System", Industrial Software Special Fund in National Key Research and Development Program of China, May 27, Chengdu, China
 - Sub-project Leader, Project Acceptance Meeting of "Key Technologies on the Consortium Blockchian", Key-Area Research and Development Program of Guangdong Province, March 11, 2025, Shenzhen, China
 - China Computer Federation ([CCF](https://www.ccf.org.cn/) SHENZHEN)、Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)) "Digital Embodiment · Smart Autonomy" [Academic Seminar and 2024 Welcome Party](https://mp.weixin.qq.com/s/eOmQ8YvLrdT6Ahz2uxKTaw), December 21, 2024, Shenzhen, China
 - 2024 International Conference on AI and Multimodal Services ([AIMS 2024](http://ai1000.org/2024/)), "A Paradigm Shift to Causal Model-Driven Decision-Making With Generative AI", 2024 International Conference on Blockchain ([ICBC 2024](http://blockchain1000.org/2024/)), "Accelerating Blockchain Application Development: Integrating Blockchain as a Service Within Low-Code Platforms", November 16 - 19, 2024, Bangkok, Thailand
@@ -169,6 +171,8 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 **Training:**
 
+- Training Session for Review Experts of Shenzhen Industry and Information Technology Bureau, June 20, 2025, Shenzhen, China
+- Training Session for Science and Technology Review Experts of Shenzhen Science and Technology Innovation Bureau, June 20, 2025, Shenzhen, China
 - Training on 4A Architecture Theory and Practice, April 25 - April 26, 2024, Shenzhen, China
 - Kingdee "Aspire Class", Third training course, June 4 - June 7, 2023, Shenzhen, China
 - Advanced Workshop on Technology Integration and Industrial Innovation Application of Metaverse Hotspots, [China Communications Industry Association](http://www.ccia.org.cn/), December 10 - December 12, 2022, Beijing, China (Online)
