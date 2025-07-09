@@ -25,6 +25,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Master's External Supervisor, Communication Engineering, [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), December 2024
 - [Senior Member](https://mp.weixin.qq.com/s/i2iLVpJI5ymAdWV0Kz3ZkA), China Computer Federation ([CCF](https://www.ccf.org.cn/)), April 2024 (& Member, December 2017)
 - Member, Guangdong Blockchain and Distributed Accounting Technology Standardization Technical Committee ([GD/TC143](https://amr.gd.gov.cn/zwgk/tzgg/content/post_3885415.html)), March 2022
+- Deputy Director, Shenzhen Changxiang Artificial Intelligence Industry Promotion Center ([Changxiang](https://www.changxiang.org.cn/)), May 2025
 - Member, Shenzhen City Computer Federation ([SZCCF](https://www.szccf.org.cn/)), April 2020
 - Member, Shenzhen Entrepreneurship and Innovation Federation ([SEIF](https://seif.org.cn/)), April 2019
 - Member, Shenzhen Association for Artificial Intelligence ([SAAI](https://saai.net.cn/)), March 2019
@@ -186,6 +187,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 ### Reviews
 
 - Program Chair, Organizing Committee of 2025 International Conference on Web Services ([ICWS 2025](https://www.servicessociety.org/icws)), September 27 - 30, 2025, Hong Kong, China
+- Review Expert, Shenzhen Industry and Information Technology Bureau [2025 Support Plan for Building AI Pioneer City Project](https://gxj.sz.gov.cn/xxgk/xxgkml/qt/tzgg/content/post_12093984.html), Domestic Origin Innovation Center for AI Ecosystem (Certification) Project, July 3, 2025
 - Member, Thesis Defense Committee for Master Degree, [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 10, 2025, Shenzhen, China
 - Review Expert, Shenzhen [Key Enterprises Selection and Recommendation Plan](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_12148232.html), May 8, 2025, Shenzhen, China
 - Review Expert, Shenzhen Industry and Information Technology Bureau [Support Plan for Enterprise Technological Transformation Projects](https://gxj.sz.gov.cn/gkmlpt/content/11/11579/post_11579876.html#3115), Digital Transformation Projects for Traditional Advantageous Industries, April 22, 2025, Shenzhen, China
