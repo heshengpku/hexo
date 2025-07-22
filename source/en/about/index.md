@@ -211,6 +211,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - International Journal of Web Services Research ([IJWSR](https://www.igi-global.com/journal/international-journal-web-services-research/1079))
 - [IEEE Software](https://www.computer.org/csdl/magazine/so)
 - International Journal of Business Process Integration and Management ([IJBPIM](https://www.inderscience.com/jhome.php?jcode=ijbpim))
+- [Journal of Engineering](https://onlinelibrary.wiley.com/journal/3962)
 
 ### Patents
 
