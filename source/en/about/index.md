@@ -121,6 +121,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- The Launching Ceremony of the 2025 Party Building Innovation Face-to-Face Communication Platform and the July 1st Commendation Conference, July 10, 2025, Shenzhen, China
 - Visiting Lecturer, Blockchain Application Development Section of Graduate Course "Blockchain and its Applications", [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 28 & June 4, 2025, Shenzhen, China
 - Project Key Member, Technical Workshop of "Core Research and Development of Industrial Chain Interconnection Operating System", Industrial Software Special Fund in National Key Research and Development Program of China, May 27, Chengdu, China
 - Sub-project Leader, Project Acceptance Meeting of "Key Technologies on the Consortium Blockchian", Key-Area Research and Development Program of Guangdong Province, March 11, 2025, Shenzhen, China
