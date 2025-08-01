@@ -83,7 +83,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 **Standards:**
 
 - [GB/T 45341-2025](https://std.samr.gov.cn/gb/search/gbDetailed?id=2FF37940EB9ED753E06397BE0A0A413F) Digital transformation management - Reference architecture, Plan No. [20221958-T-339](https://std.samr.gov.cn/gb/search/gbDetailed?id=F159159B67A90802E05397BE0A0A5F89), under the purview of National Integration of Informatization and Industrialization Management Standardization Technical Committee ([TC573](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC573)), supervised by the Ministry of Industry and Information Technology
-- Enterprise modelling and architecture – Requirements for enterprise-referencing architecturesand methodologies, Plan No. [20230599-T-604](https://std.samr.gov.cn/gb/search/gbDetailed?id=02DDB68A4C24AFA9E06397BE0A0A5C73), under the purview of National Industrial Automation Systems and Integration ([TC159](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC159)), supervised by the China Machinery Industry Federation
+- [GB/T 18757-2025](https://std.samr.gov.cn/gb/search/gbDetailed?id=33D40F1160E35D92E06397BE0A0A5B93) Enterprise modelling and architecture – Requirements for enterprise-referencing architecturesand methodologies, Plan No. [20230599-T-604](https://std.samr.gov.cn/gb/search/gbDetailed?id=02DDB68A4C24AFA9E06397BE0A0A5C73), under the purview of National Industrial Automation Systems and Integration ([TC159](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC159)), supervised by the China Machinery Industry Federation
 
 ### Awards & Honors
 
