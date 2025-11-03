@@ -124,6 +124,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- Training Lecturer, Kingdee Cloud Cosmic BI Field Seed Consultant Delivery Training Class, October 24 - 25, 2025, Shanghai, China
 - The Launching Ceremony of the 2025 Party Building Innovation Face-to-Face Communication Platform and the July 1st Commendation Conference, July 10, 2025, Shenzhen, China
 - Visiting Lecturer, Blockchain Application Development Section of Graduate Course "Blockchain and its Applications", [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 28 & June 4, 2025, Shenzhen, China
 - Project Key Member, Technical Workshop of "Core Research and Development of Industrial Chain Interconnection Operating System", Industrial Software Special Fund in National Key Research and Development Program of China, May 27, Chengdu, China
@@ -191,6 +192,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Reviews
 
+- Review Expert, the Provincial Talent Project Review organized by the Shenzhen Science and Technology Innovation Bureau, October 19, 2025, Shenzhen, China
 - Program Chair, Organizing Committee of 2025 International Conference on Web Services ([ICWS 2025](https://www.servicessociety.org/icws)), September 27 - 30, 2025, Hong Kong, China
 - Review Expert, Shenzhen Industry and Information Technology Bureau [2025 Support Plan for Building AI Pioneer City Project](https://gxj.sz.gov.cn/xxgk/xxgkml/qt/tzgg/content/post_12093984.html), Domestic Origin Innovation Center for AI Ecosystem (Certification) Project, July 3, 2025
 - Member, Thesis Defense Committee for Master Degree, [College of Electronics and Information Engineering](https://ceie.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 10, 2025, Shenzhen, China
