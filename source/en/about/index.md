@@ -112,6 +112,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 ### Products
 
 - Kingdee [Cosmic Cloud Platform](https://www.kingdee.com/products/cosmic_platform.html), Composable & Low-Code & Native-Cloud Enterprise Platform as a Service (PaaS), Key Member, since March 2020
+  - Kingdee Cloud Galaxy Product selected for [IDC Asia-Pacific AI-Enabled ERP Marketscape](https://www.kingdee.com/resources/articles/1433533897832429089)
 - Kingdee [Blockchain Services Platform](https://www.kingdee.com/products/cosmic_blockchain_services.html), Low-Code and One-Stop Enterprise Blockchain Service, Leader, December 2017 - January 2023
 - Kingdee [KChain](https://www.kingdeeabc.com/), Leader, January 2020 - December 2022
   - [Typical Application Cases of Blockchain in 2022](https://www.miit.gov.cn/jgsj/xxjsfzs/xxgk/art/2023/art_07ae4924d51d44bd93b0b0e0108d071a.html), Ministry of Industry and Information Technology
