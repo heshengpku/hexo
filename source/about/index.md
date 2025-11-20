@@ -91,7 +91,7 @@ type: "about"
 
 ### 奖项荣誉
 
-- [2024年度广东省科学技术奖](https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4712369.html)**科技进步奖二等奖**，省部级，2025年5月
+- [2024年度广东省科学技术奖](https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4712369.html)**科技进步奖二等奖**，省部级，2025年11月
 - [2023年度深圳市科学技术奖](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html)**科技进步奖一等奖**，省部级，2025年4月
 - [2024年度吴文俊人工智能科学技术奖](https://mp.weixin.qq.com/s/-V5PBAeT1hNRgdR1vPo2Yg)**科技进步奖一等奖**，2025年2月20日
 - 2024年金蝶研发平台部AI演讲大赛AI演讲之星、季军，2024年7月3日
