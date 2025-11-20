@@ -91,9 +91,9 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Awards & Honors
 
-- **Second Prize of Science and Technology Progress Award** in [2024 Guangdong Province Science and Technology Award](https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4712369.html) (November 2025)
+- **Second Prize of Science and Technology Progress Award** in [2024 Guangdong Province Science and Technology Award](https://www.gd.gov.cn/xxts/content/post_4802460.html) (September 2025)
 - **First Prize of Science and Technology Progress Award** in [2023 Shenzhen Science and Technology Award](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html) (April 2025)
-- **First Prize of Science and Technology Progress Award** in [2024 Wu Wenjun Artificial Intelligence Science and Technology Award](https://mp.weixin.qq.com/s/-V5PBAeT1hNRgdR1vPo2Yg) (February 20, 2025)
+- **First Prize of Science and Technology Progress Award** in [2024 Wu Wenjun Artificial Intelligence Science and Technology Award](https://wwjkjj.caai.cn/index_detail.aspx?id=36) (February 20, 2025)
 - Third Place, 2024 Kingdee R&D Platform Speech Star of AI Contest (July 3, 2024)
 - 2023 Subtle Innovation Award of Kingdee R&D Platform (January 2024)
 - Outstanding Services Awards of [2023 Services Conference Federation](https://www.servicessociety.org/awards#scf2023) (December 17, 2023)
