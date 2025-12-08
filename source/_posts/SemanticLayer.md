@@ -1,5 +1,5 @@
 ---
-title: SemanticLayer
+title: 语义层（Semantic Layer）
 category: Products
 tags: 
  - DataCloud
@@ -141,7 +141,7 @@ ChatBI 的语义功能示例：
 
 > **语义化知识层属于 DataCloud，是基础数据资产的一部分；ChatBI 负责使用语义层进行自然语言分析与解释。**
 
-![DataCloud×ChatBI的双产品架构图与语义层治理流程](SemanticLayer\SemanticLayer.jpg)
+![DataCloud×ChatBI的双产品架构图与语义层治理流程](SemanticLayer/SemanticLayer.jpg)
 
 ## DataCloud × ChatBI 双产品架构图：语义层的治理与消费
 
