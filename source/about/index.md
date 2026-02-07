@@ -112,8 +112,9 @@ type: "about"
 
 ### 产品成果
 
-- 金蝶云·[苍穹平台](https://www.kingdee.com/products/cosmic_platform.html)，可组装、低代码、云原生的企业级PaaS平台，核心成员（2020年3月至今）
+- 金蝶云·[苍穹平台](https://www.kingdee.com/products/cosmic_platform.html)，可组装、低代码、云原生的企业级PaaS平台，核心成员（2020年3月至2025年12月）
   - 金蝶云·星空产品入选[IDC亚太AI-Enabled ERP Marketscape](https://www.kingdee.com/resources/articles/1433533897832429089)，评分最高的中国厂商
+  - 深圳市计算机学会[2023年度SZCCF奖](https://www.szccf.org.cn/?p=5306)，信息技术应用创新奖
 - 金蝶[区块链服务平台](https://www.kingdee.com/products/cosmic_blockchain_services.html)，低代码、一站式企业级区块链服务平台，主持（2017年12月至2023年1月）
 - 金蝶[信心链](https://www.kingdeeabc.com/)，金蝶首款企业级区块链服务品牌，主持（2020年1月至2022年12月）
   - 工业与信息化部，[2022年区块链典型应用案例](https://www.miit.gov.cn/jgsj/xxjsfzs/xxgk/art/2023/art_07ae4924d51d44bd93b0b0e0108d071a.html)
