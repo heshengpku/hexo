@@ -91,6 +91,7 @@ type: "about"
 
 ### 奖项荣誉
 
+- 2025年度金蝶1104AI产品突破奖，2026年1月27日
 - [2024年度广东省科学技术奖](https://www.gd.gov.cn/xxts/content/post_4802460.html)**科技进步奖二等奖**，省部级，2025年9月
 - [2023年度深圳市科学技术奖](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html)**科技进步奖一等奖**，省部级，2025年4月
 - [2024年度吴文俊人工智能科学技术奖](https://wwjkjj.caai.cn/index_detail.aspx?id=36)**科技进步奖一等奖**，2025年2月20日

@@ -91,6 +91,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Awards & Honors
 
+- 2025 Kingdee AI Product Breakthrough Award on November 4 (January 27, 2026)
 - **Second Prize of Science and Technology Progress Award** in [2024 Guangdong Province Science and Technology Award](https://www.gd.gov.cn/xxts/content/post_4802460.html) (September 2025)
 - **First Prize of Science and Technology Progress Award** in [2023 Shenzhen Science and Technology Award](http://stic.sz.gov.cn/xxgk/tzgg/content/post_10906918.html) (April 2025)
 - **First Prize of Science and Technology Progress Award** in [2024 Wu Wenjun Artificial Intelligence Science and Technology Award](https://wwjkjj.caai.cn/index_detail.aspx?id=36) (February 20, 2025)
