@@ -19,6 +19,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 - **Principal Researcher, [Kingdee International Software Group](https://www.kingdee.com/)**, August 2017
 - [Senior Engineer](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg), Professional Title on Artificial Intelligence of Guangdong Province, April 2023
+- Member, Kingdee AI Technology and Product Innovation Committee, March 2026
 - Deputy Director, Shenzhen Enterprise Key Laboratory of Application Software, July 2021
 - Editorial Review Board Member, International Journal of Web Services Research ([IJWSR](https://www.igi-global.com/journals/open-access/reviewers/international-journal-web-services-research/1079)), December 2023
 - Associate Editor, International Journal of Business Process Integration and Management ([IJBPIM](https://www.inderscience.com/jhome.php?jcode=ijbpim)), July 2024
@@ -128,6 +129,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Activities
 
+- User Representatives, [Project Comprehensive Performance Evaluation Meeting](https://mp.weixin.qq.com/s/15H-draabqkzQcbP5v5RJw) of "the Key Technologies for Secure and Resilient Blockchain Networks", Blockchain Special Fund in National Key Research and Development Program of China, March 27, 2026, Shenzhen, China
 - Training Lecturer, Kingdee Cloud Cosmic BI Field Seed Consultant Delivery Training Class, October 24 - 25, 2025, Shanghai, China
 - The Launching Ceremony of the 2025 Party Building Innovation Face-to-Face Communication Platform and the July 1st Commendation Conference, July 10, 2025, Shenzhen, China
 - Visiting Lecturer, Blockchain Application Development Section of Graduate Course "Blockchain and its Applications", [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/), [Shenzhen University](https://www.szu.edu.cn/), May 28 & June 4, 2025, Shenzhen, China
@@ -211,7 +213,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - Program Chair, Organizing Committee of 2023 International Conference on Metaverse ([METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)), September 23 - 26, 2023, Honolulu, HI, USA
 - Technical Review Expert, Final of Internet and Mobile Internet, [13th Shenzhen Innovation and Entrepreneurship Competition](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html), October 28, 2021, Shenzhen, China
 - Technical Review Expert, Semifinal, [12th Shenzhen Innovation and Entrepreneurship Competition](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html), September 7, 2020, Shenzhen, China
-- Organization Committee Member of Services Conference Federation (SCF) [2018](http://icws.org/2018/)、[2019](http://icws.org/2019/)、[2020](http://icws.org/2020/)、[2021](https://www.servicessociety.org/icws/2021)、[2022](https://www.servicessociety.org/icws/2022)、[2023](https://www.servicessociety.org/icws/2023)、[2024](https://www.servicessociety.org/icws/2024)、[2025](https://www.servicessociety.org/icws)
+- Organization Committee Member of Services Conference Federation (SCF) [2018](http://icws.org/2018/)、[2019](http://icws.org/2019/)、[2020](http://icws.org/2020/)、[2021](https://www.servicessociety.org/icws/2021)、[2022](https://www.servicessociety.org/icws/2022)、[2023](https://www.servicessociety.org/icws/2023)、[2024](https://www.servicessociety.org/icws/2024)、[2025](https://www.servicessociety.org/icws/2025)、[2026](https://www.servicessociety.org/icws)
 
 **Journal Reviews:**
 

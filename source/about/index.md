@@ -19,6 +19,7 @@ type: "about"
 
 - **[金蝶国际软件集团](https://www.kingdee.com/)资深研究员**，2017年8月
 - 广东省人工智能[高级工程师](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg)，副高级职称，2023年4月
+- 金蝶AI技术与产品创新委员会成员，2026年3月
 - 深圳应用软件企业重点实验室副主任，2021年7月
 - International Journal of Web Services Research（[IJWSR](https://www.igi-global.com/journals/open-access/reviewers/international-journal-web-services-research/1079)）编委，2023年12月
 - International Journal of Business Process Integration and Management（[IJBPIM](https://www.inderscience.com/jhome.php?jcode=ijbpim)）副主编，2024年7月
@@ -128,6 +129,7 @@ type: "about"
 
 ### 近期活动
 
+- 2026年3月27日，中国深圳，国家重点研发计划“区块链”重点专项《安全弹性的区块链网络关键技术》[项目综合绩效评价会议](https://mp.weixin.qq.com/s/15H-draabqkzQcbP5v5RJw)，用户代表
 - 2025年10月24日至25日，中国上海，金蝶云·苍穹BI领域种子顾问交付实训班，培训讲师
 - 2025年7月10日，中国深圳，2025年“党建创新面对面”交流平台启动仪式暨“七一”表彰会
 - 2025年5月28日及6月4日，中国深圳，[深圳大学](https://www.szu.edu.cn/)[计算机与软件学院](https://csse.szu.edu.cn/)，研究生课程《区块链及应用》区块链应用开发部分，校外讲师
@@ -211,7 +213,7 @@ type: "about"
 - 2023年9月23日至26日，美国火奴鲁鲁，国际元宇宙学术会议（[METAVERSE 2023](https://link.springer.com/book/10.1007/978-3-031-44754-9)），程序委员会主席
 - 2021年10月28日，中国深圳，[第十三届中国深圳创新创业大赛](http://stic.sz.gov.cn/xxgk/ztzl/cxcyds/xgtz/content/post_9250571.html)“互联网与移动互联网”行业决赛，科技评审专家
 - 2020年9月7日，中国深圳，[第十二届中国深圳创新创业大赛](http://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_7785557.html)半决赛，科技评审专家
-- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](https://www.servicessociety.org/icws/2021)、[2022年](https://www.servicessociety.org/icws/2022)、[2023年](https://www.servicessociety.org/icws/2023)、[2024年](https://www.servicessociety.org/icws/2024)、[2025年](https://www.servicessociety.org/icws)国际服务会议联盟（SCF）组织委员会成员
+- 担任[2018年](http://icws.org/2018/)、[2019年](http://icws.org/2019/)、[2020年](http://icws.org/2020/)、[2021年](https://www.servicessociety.org/icws/2021)、[2022年](https://www.servicessociety.org/icws/2022)、[2023年](https://www.servicessociety.org/icws/2023)、[2024年](https://www.servicessociety.org/icws/2024)、[2025年](https://www.servicessociety.org/icws/2025)、[2026年](https://www.servicessociety.org/icws)国际服务会议联盟（SCF）组织委员会成员
 
 **期刊审稿：**
 
