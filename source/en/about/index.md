@@ -38,7 +38,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 ### Research Interests
 
 - **Data Science, Artificial Intelligence, Industrial Internet**
-- **Blockchain, Metaverse, Web3.0, Smart Contract, Consensus Mechanism and Incentive Methodology**
+- Blockchain, Metaverse, Web3.0, Smart Contract, Consensus Mechanism and Incentive Methodology
 - Privacy Enhancing Technologies, Federated Learning, Secure Multi-Party Computation, Zero-Knowledge Proof and Homomorphic Encryption
 - Services Computing, Cloud Computing, Big Data, Internet of Things
 - Plasma Physics, Magnetic Confinement Fusion, High Performance Computing, Numerical Simulation
@@ -113,6 +113,8 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Products
 
+- Kingdee AI · Data Cloud, Leader, January 2026  
+  - Kingdee Lingdee Product selected in [Gartner Research Report "Innovation Insight: Enterprise Agent Competency"](https://mp.weixin.qq.com/s/RL18f5_TeZ7mI8QTmmEisg)
 - Kingdee [Cosmic Cloud Platform](https://www.kingdee.com/products/cosmic_platform.html), Composable & Low-Code & Native-Cloud Enterprise Platform as a Service (PaaS), Key Member, March 2020 - December 2025
   - Kingdee Cloud Galaxy Product selected for [IDC Asia-Pacific AI-Enabled ERP Marketscape](https://www.kingdee.com/resources/articles/1433533897832429089)
   - Shenzhen City Computer Federation [2023 SZCCF Award] (<https://www.szccf.org.cn/?p=5306>), Award for Information Technology Application Innovation
@@ -198,6 +200,7 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 
 ### Reviews
 
+- Review Expert, the Evaluation of Key Laboratories in Shenzhen [(project initiated in 2020–2021)](https://stic.sz.gov.cn/xxgk/tzgg/content/post_12761538.html), May 28, 2026, Shenzhen, China
 - Review Expert, the Provincial Talent Project Review organized by the Shenzhen Science and Technology Innovation Bureau, October 19, 2025, Shenzhen, China
 - Program Chair, Organizing Committee of 2025 International Conference on Web Services ([ICWS 2025](https://www.servicessociety.org/icws)), September 27 - 30, 2025, Hong Kong, China
 - Review Expert, Shenzhen Industry and Information Technology Bureau [2025 Support Plan for Building AI Pioneer City Project](https://gxj.sz.gov.cn/xxgk/xxgkml/qt/tzgg/content/post_12093984.html), Domestic Origin Innovation Center for AI Ecosystem (Certification) Project, July 3, 2025
@@ -225,12 +228,13 @@ He graduated from Peking University in 2017 with a Doctor of Science Degree and 
 - [IEEE Software](https://www.computer.org/csdl/magazine/so)
 - International Journal of Business Process Integration and Management ([IJBPIM](https://www.inderscience.com/jhome.php?jcode=ijbpim))
 - [Journal of Engineering](https://onlinelibrary.wiley.com/journal/3962)
+- [IET Blockchain](https://ietresearch.onlinelibrary.wiley.com/journal/26341573)
 
 ### Patents
 
 | Name                                                                                                                                                    | Inventors                                                                   | Application No. | Date of Application | Publication No. | Date of Publication | Date of Grant |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :-------------: | :-----------------: | :-------------: | :-----------------: | :-----------: |
-| [Block chain-based evidence storage data generation method and device and computer equipment](https://patents.google.com/patent/CN115510154A/en)        | **何晟**;林泽鹏;黄庆麟                                                      | 202211155898.0  |     2022-09-22      |  CN115510154A   |     2022-12-23      |               |
+| [Block chain-based evidence storage data generation method and device and computer equipment](https://patents.google.com/patent/CN115510154A/en)        | **何晟**;林泽鹏;黄庆麟                                                      | 202211155898.0  |     2022-09-22      |  CN115510154A   |     2022-12-23      |  2026-05-12   |
 | [Data query method, device, equipment and storage medium of block chain](https://patents.google.com/patent/CN114860807A/en)                             | **何晟**;任俊;赵龙涛                                                        | 202210508408.4  |     2022-05-11      |  CN114860807A   |     2022-08-05      |  2024-11-05   |
 | [Data query method and device of block chain, computer equipment and storage medium](https://patents.google.com/patent/CN114860806A/en)                 | **何晟**;任俊;林锦旋                                                        | 202210508407.X  |     2022-05-11      |  CN114860806A   |     2022-08-05      |  2024-11-29   |
 | [Block chain evidence storing method and device and computer equipment](https://patents.google.com/patent/CN113591162A/en)                              | **何晟**;雷凯;闵江松;陈佩淑;任俊;焦少帅;张良杰                              | 202111147675.5  |     2021-09-29      |  CN113591162A   |     2021-11-02      |  2022-02-15   |

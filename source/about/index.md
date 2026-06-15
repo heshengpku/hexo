@@ -38,7 +38,7 @@ type: "about"
 ### 研究领域
 
 - **数据科学，人工智能，工业互联网**
-- **区块链、元宇宙、Web3.0、智能合约、共识机制**
+- 区块链、元宇宙、Web3.0、智能合约、共识机制
 - 隐私计算、联邦学习、安全多方计算、零知识证明、同态加密
 - 服务计算、云计算、大数据、物联网
 - 等离子体物理、磁约束聚变、高性能计算、数值模拟
@@ -113,6 +113,8 @@ type: "about"
 
 ### 产品成果
 
+- 金蝶AI·数据云，主持（2026年1月至今）
+  - 金蝶灵基产品入选[Gartner《创新洞察：企业智能体能力》研究报告](https://mp.weixin.qq.com/s/RL18f5_TeZ7mI8QTmmEisg)
 - 金蝶云·[苍穹平台](https://www.kingdee.com/products/cosmic_platform.html)，可组装、低代码、云原生的企业级PaaS平台，核心成员（2020年3月至2025年12月）
   - 金蝶云·星空产品入选[IDC亚太AI-Enabled ERP Marketscape](https://www.kingdee.com/resources/articles/1433533897832429089)，评分最高的中国厂商
   - 深圳市计算机学会[2023年度SZCCF奖](https://www.szccf.org.cn/?p=5306)，信息技术应用创新奖
@@ -198,6 +200,7 @@ type: "about"
 
 ### 评审工作
 
+- 2026年5月28日，中国深圳，深圳市重点实验室[（2020-2021年立项）](https://stic.sz.gov.cn/xxgk/tzgg/content/post_12761538.html)周期评估，评审专家
 - 2025年10月19日，中国深圳，深圳市科技创新局省级人才项目评审，评审专家
 - 2025年9月27日至30日，中国香港，国际Web服务学术会议（[ICWS 2025](https://www.servicessociety.org/icws)），程序委员会主席
 - 2025年7月3日，中国深圳，深圳市工业和信息化局[2025年打造人工智能先锋城市项目扶持计划](https://gxj.sz.gov.cn/xxgk/xxgkml/qt/tzgg/content/post_12093984.html)，国产人工智能生态源头创新中心（认定）项目，评审专家
@@ -225,12 +228,13 @@ type: "about"
 - [IEEE Software](https://www.computer.org/csdl/magazine/so)
 - International Journal of Business Process Integration and Management ([IJBPIM](https://www.inderscience.com/jhome.php?jcode=ijbpim))
 - [Journal of Engineering](https://onlinelibrary.wiley.com/journal/3962)
+- [IET Blockchain](https://ietresearch.onlinelibrary.wiley.com/journal/26341573)
 
 ### 发明专利
 
 | 专利名称                                                                                                | 发明人                                                                      |     申请号     |   申请日   |    公开号    |   公开日   |   授权日   |
 | :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------- | :------------: | :--------: | :----------: | :--------: | :--------: |
-| [基于区块链的存证数据生成方法、装置和计算机设备](https://patents.google.com/patent/CN115510154A/zh)     | **何晟**;林泽鹏;黄庆麟                                                      | 202211155898.0 | 2022-09-22 | CN115510154A | 2022-12-23 |            |
+| [基于区块链的存证数据生成方法、装置和计算机设备](https://patents.google.com/patent/CN115510154A/zh)     | **何晟**;林泽鹏;黄庆麟                                                      | 202211155898.0 | 2022-09-22 | CN115510154A | 2022-12-23 | 2026-05-12 |
 | [区块链的数据查询方法、装置、设备和存储介质](https://patents.google.com/patent/CN114860807A/zh)         | **何晟**;任俊;赵龙涛                                                        | 202210508408.4 | 2022-05-11 | CN114860807A | 2022-08-05 | 2024-11-05 |
 | [区块链的数据查询方法、装置、计算机设备和存储介质](https://patents.google.com/patent/CN114860806A/zh)   | **何晟**;任俊;林锦旋                                                        | 202210508407.X | 2022-05-11 | CN114860806A | 2022-08-05 | 2024-11-29 |
 | [区块链存证方法、装置和计算机设备](https://patents.google.com/patent/CN113591162A/zh)                   | **何晟**;雷凯;闵江松;陈佩淑;任俊;焦少帅;张良杰                              | 202111147675.5 | 2021-09-29 | CN113591162A | 2021-11-02 | 2022-02-15 |
