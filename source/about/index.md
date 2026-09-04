@@ -19,9 +19,8 @@ type: "about"
 
 - **[金蝶国际软件集团](https://www.kingdee.com/)资深研究员**，2017年8月
 - 广东省人工智能[高级工程师](https://mp.weixin.qq.com/s/iFUajO9mJx64fvq_1Wk9wg)，副高级职称，2023年4月
-- 金蝶AI技术与产品创新委员会成员，2026年3月
 - 深圳应用软件企业重点实验室副主任，2021年7月
-- International Journal of Web Services Research（[IJWSR](https://www.igi-global.com/journals/open-access/reviewers/international-journal-web-services-research/1079)）编委，2023年12月
+- International Journal of Web Services Research（[IJWSR](https://www.igi-global.com/journal/international-journal-web-services-research/1079)）编委，2023年12月
 - International Journal of Business Process Integration and Management（[IJBPIM](https://www.inderscience.com/jhome.php?jcode=ijbpim)）副主编，2024年7月
 - [深圳大学](https://www.szu.edu.cn/)[电子与信息工程学院](https://ceie.szu.edu.cn/)通信工程专业硕士校外导师，2024年12月
 - 中国计算机学会（[CCF](https://www.ccf.org.cn/)）[高级会员](https://mp.weixin.qq.com/s/i2iLVpJI5ymAdWV0Kz3ZkA)，2024年4月（会员，2017年12月）
@@ -66,6 +65,7 @@ type: "about"
 
 ### 重要经历
 
+- [金蝶软件（中国）有限公司](https://www.kingdee.com/)AI技术与产品创新委员会，成员（2026年3月至2026年9月）
 - [金蝶软件（中国）有限公司](https://www.kingdee.com/)任职资格管理专业委员会，技术族研究类研究员职位组长（2022年4月至2025年5月）
 - [金蝶软件（中国）有限公司](https://www.kingdee.com/)技术与产品委员会，特聘专家委员会副主任（2024年3月至2025年3月）
 - [金蝶软件（中国）有限公司](https://www.kingdee.com/)技术与产品委员会，区块链专业委员会秘书长（2019年9月至2021年6月）、委员（2021年6月至2024年3月）
