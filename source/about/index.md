@@ -6,7 +6,7 @@ type: "about"
 
 ## 何晟
 
-高级工程师，CCF高级会员，现任金蝶国际软件集团资深研究员、深圳应用软件企业重点实验室副主任，负责金蝶云苍穹PaaS平台前沿核心技术及企业场景解决方案研发工作，参与规划和开发金蝶云苍穹平台、企业级数据服务平台、区块链服务平台及其标杆客户的应用。研究兴趣为运用人工智能、区块链、大数据、物联网、元宇宙等新一代信息技术提升企业级云服务软件工程研究与应用能力，擅长跨学科及交叉领域的新技术攻关及成果转化。现担任SCI期刊IJWSR编委，首届广东省区块链和分布式记账技术标准化技术委员会委员，深圳市科技专家库入库专家、深圳市科技创新局项目评审专家和深圳市工业和信息化局专家库入库专家。获得2024年度广东省科技进步二等奖、2024年度吴文俊人工智能科技进步一等奖、2023年度深圳市科技进步一等奖、2023年国际服务会议联盟（SCF 2023）杰出服务奖、2020年数字中国创新大赛一等奖。
+高级工程师，CCF高级会员，现任金蝶国际软件集团资深研究员、深圳应用软件企业重点实验室副主任，负责金蝶AI原生产品灵基数据云的整体产品管理、前沿核心技术研发及企业级场景解决方案工作，参与规划和开发金蝶云苍穹平台、企业级数据服务平台、区块链服务平台及其标杆客户的应用。研究兴趣为运用人工智能、区块链、大数据、物联网、元宇宙等新一代信息技术提升企业级云服务软件工程研究与应用能力，擅长跨学科及交叉领域的新技术攻关及成果转化。现担任SCI期刊IJWSR编委，首届广东省区块链和分布式记账技术标准化技术委员会委员，深圳市科技专家库入库专家、深圳市科技创新局项目评审专家和深圳市工业和信息化局专家库入库专家。获得2024年度广东省科技进步二等奖、2024年度吴文俊人工智能科技进步一等奖、2023年度深圳市科技进步一等奖、2023年国际服务会议联盟（SCF 2023）杰出服务奖、2020年数字中国创新大赛一等奖。
 
 2017年毕业于北京大学，获理学博士学位，北京大学优秀毕业生。就读博士期间，获北京大学研究生最高奖学金——校长奖学金，获得国家留学基金委（CSC）资助公派赴美留学。2017年至2019年，在清华大学和金蝶软件（中国）有限公司计算机科学与技术学科开展博士后研究工作，以“优秀”评审结果出站，是全国首批区块链方向博士后之一。近年来，主持并完成多项国家级、省部级科技攻关课题项目，发表SCI、EI检索期刊或会议论文10余篇，授权国家发明专利10余项，参编国家标准2部。
 
@@ -44,6 +44,7 @@ type: "about"
   
 ### 发表文章
 
+- [Cognitively Inspired Multimodal Sarcasm Detection via LVLM-Enhanced Two-Stage Fusion](https://link.springer.com/book/9783032396303), Jiawei Dang, Changhu Li, Yishuang Ning, Huan Chen, **Sheng He**, Qiaojuan Huang, Liang-Jie Zhang, *Proceedings of 10th International Conference on Cognitive Computing (ICCC 2026)*, [Lecture Notes in Computer Science, vol. 16960](https://link.springer.com/book/9783032396303) (2026). *To be published*
 - [INNOVATORS: Ten Defining Trends of SaaS in the Era of the Internet of Intelligent Services](https://doi.org/10.1007/978-3-032-06173-7_7), Jiawei Dang, Huan Chen, **Sheng He**, Changhu Li, Xiaojun Chen, Liang-Jie Zhang, *Proceedings of 32th International Conference on Web Services (ICWS 2025)*, [Lecture Notes in Computer Science, vol. 16158, pp. 96–114](https://link.springer.com/chapter/10.1007/978-3-032-06173-7_7) (2026). [**Best Student Paper Awards**](https://www.servicessociety.org/awards)
 - [A Multimodal Retrieval-Augmented Generation System for Intelligent Question Answering](https://doi.org/10.1007/978-3-032-06310-6_1), Bo Liu, Yishuang Ning, **Sheng He**, Fei Guo, Siyu Jia, Li Zhu, *Proceedings of 9th International Conference on Cognitive Computing (ICCC 2025)*, [Lecture Notes in Computer Science, vol. 16156, pp. 3–19](https://link.springer.com/chapter/10.1007/978-3-032-06310-6_1) (2026).
 - [IMPRESSIVE: An AI Enterprise Model and Maturity Assessment Framework for Intelligent Transformation](https://doi.org/10.1007/978-3-032-06310-6_4), Jiawei Dang, Huan Chen, **Sheng He**, Hongbo Huang, Liang-Jie Zhang, *Proceedings of 9th International Conference on Cognitive Computing (ICCC 2025)*, [Lecture Notes in Computer Science, vol. 16156, pp. 49–61](https://link.springer.com/chapter/10.1007/978-3-032-06310-6_4) (2026).
@@ -92,6 +93,7 @@ type: "about"
 
 ### 奖项荣誉
 
+- [2025年度第五届深圳市人工智能学会奖](https://mp.weixin.qq.com/s/Pbz6ELX-4SNXOEh9-9NwQw)行业应用奖，2026年8月
 - 2026年度广东省区块链和分布式记账技术标准化技术委员会优秀委员，2026年6月25日
 - 2025年度金蝶1104AI产品突破奖，2026年1月27日
 - [2024年度广东省科学技术奖](https://www.gd.gov.cn/xxts/content/post_4802460.html)**科技进步奖二等奖**，省部级，2025年9月
@@ -186,6 +188,7 @@ type: "about"
 
 **学习培训：**
 
+- 2026年8月21日至8月22日，中国深圳，[金蝶数据管理培训](https://mp.weixin.qq.com/s/HLNrBZnHVJvQmOLJpcYEIg)，取得DAMA数据治理工程师证书（CDGA）
 - 2025年7月12日至9月6日，中国深圳，金蝶领导力技能特训营，取得哈佛商学院“领导AI创新”能力认证
 - 2025年6月20日，中国深圳，市工业和信息化局评审专家培训会
 - 2025年6月20日，中国深圳，市科技创新局科技评审专家培训会
@@ -201,9 +204,10 @@ type: "about"
 
 ### 评审工作
 
+- 2026年8月22日至25日，马来西亚吉隆坡，国际Web服务学术会议（[ICWS 2026](https://www.servicessociety.org/icws)），程序委员会主席
 - 2026年5月28日，中国深圳，深圳市重点实验室[（2020-2021年立项）](https://stic.sz.gov.cn/xxgk/tzgg/content/post_12761538.html)周期评估，评审专家
 - 2025年10月19日，中国深圳，深圳市科技创新局省级人才项目评审，评审专家
-- 2025年9月27日至30日，中国香港，国际Web服务学术会议（[ICWS 2025](https://www.servicessociety.org/icws)），程序委员会主席
+- 2025年9月27日至30日，中国香港，国际Web服务学术会议（[ICWS 2025](https://link.springer.com/book/10.1007/978-3-032-06173-7)），程序委员会主席
 - 2025年7月3日，中国深圳，深圳市工业和信息化局[2025年打造人工智能先锋城市项目扶持计划](https://gxj.sz.gov.cn/xxgk/xxgkml/qt/tzgg/content/post_12093984.html)，国产人工智能生态源头创新中心（认定）项目，评审专家
 - 2025年5月10日，中国深圳，[深圳大学](https://www.szu.edu.cn/)[电子与信息工程学院](https://ceie.szu.edu.cn/)硕士研究生学位论文答辩，答辩委员
 - 2025年5月8日，中国深圳，深圳市[新一轮第二批重点企业遴选推荐计划项目](https://zxqyj.sz.gov.cn/zwgk/zfxxgkml/tzgg/content/post_12148232.html)，评审专家
